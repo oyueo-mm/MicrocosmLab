@@ -29,6 +29,8 @@ jobs:
         run: npm run build -- --base=/MicrocosmLab/
       - name: Configure Pages
         uses: actions/configure-pages@v5
+        with:
+          enablement: true
       - name: Upload production site
         uses: actions/upload-pages-artifact@v4
         with:
