@@ -3,7 +3,7 @@
     "id": "lacrymaria-hunt",
     "title": "목을 뻗어 짚신벌레를 사냥한다",
     "summary": "라크리마리아가 몸의 앞부분을 길게 늘여 아우렐리아짚신벌레를 포획하는 장면이다.",
-    "detail": "포식성 섬모충 라크리마리아가 Paramecium aurelia를 잡아먹는 장면으로, 원본 제작자가 두 생물의 관계를 포식으로 명시했다. 목처럼 보이는 길고 유연한 부분은 하나의 세포에 속한다.",
+    "detail": "포식은 다른 생물을 먹이로 삼는 상호작용으로, 접근과 접촉 및 섭취의 단계를 구분해 볼 수 있다. 영상에서 포식자와 먹이의 위치가 어떻게 달라지는지 따라가면 현상을 이해하기 쉽다.",
     "category": "포식",
     "file": "Hunting Lacrymaria short.webm",
     "subjects": [
@@ -20,7 +20,7 @@
     "id": "neutrophil-phagocytosis",
     "title": "호중구가 세균을 찾아 삼킨다",
     "summary": "호중구가 세균에 접근해 포획하고 세포 내부로 들이는 식균작용이 관찰된다.",
-    "detail": "연구자가 사람의 혈액 시료에 세균을 추가해 촬영한 영상이다. 원본 설명에 따르면 분엽핵호중구가 세균을 탐색하고 섭취한다. 영상은 실제보다 8배 빠르게 재생된다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "Нейтрофил крови человека фагоцитирует бактерию.webm",
     "subjects": [
@@ -36,7 +36,7 @@
     "id": "paramecium-conjugation",
     "title": "짚신벌레 두 개체가 접합한다",
     "summary": "두 짚신벌레가 서로 붙어 유전물질을 교환하는 접합 과정이다.",
-    "detail": "짚신벌레의 접합은 유전적 재조합에 관여하는 과정이다. 개체가 둘로 나뉘어 수가 늘어나는 이분법과는 다르므로, 단순히 두 마리가 번식하는 장면으로 설명하지 않는다.",
+    "detail": "섬모충의 접합은 세포 수가 즉시 증가하는 이분법과 다른 과정으로, 유전물질의 교환과 재조합에 관여한다. 두 개체가 접촉하는 시간과 이후 분리되는 과정을 관찰해 보자.",
     "category": "접합",
     "file": "Conjugation in Paramecium.webm",
     "subjects": [
@@ -51,7 +51,7 @@
     "id": "rotifer-feeding",
     "title": "윤충이 물속의 먹이를 걸러 먹는다",
     "summary": "윤충이 섭식하는 장면을 명시적으로 기록한 현미경 영상이다.",
-    "detail": "윤충은 입 주변의 섬모 운동으로 물의 흐름을 만들고, 이를 이용해 작은 먹이 입자를 모을 수 있다. 이 영상은 싱가포르 국립대학교 식물원 인근의 물 시료에서 촬영되었다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Rotifer feeding DSC 6876.webm",
     "subjects": [
@@ -66,7 +66,7 @@
     "id": "tardigrade-walk",
     "title": "이끼에서 발견한 완보동물의 움직임",
     "summary": "이끼 시료에서 발견한 작은 완보동물이 몸과 다리를 움직인다.",
-    "detail": "완보동물은 미세한 다리로 기어다니는 다세포 동물이다. 이 영상의 개체는 스코틀랜드 학교 운동장의 이끼에서 발견되었다. 원본 영상에 점멸하는 빛이 있다는 주의 문구가 있다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Tardigrade under a microscope, from a Scottish high school playing field.webm",
     "subjects": [
@@ -81,7 +81,7 @@
     "id": "paramecium-vacuole",
     "title": "짚신벌레가 식포를 만들어 낸다",
     "summary": "먹이를 담는 식포가 형성되고 세포질 내부로 이동하는 과정을 볼 수 있다.",
-    "detail": "짚신벌레의 세포 안에 형성되는 식포는 먹이 입자를 담아 세포 내부에서 소화가 일어나도록 한다. 원본 제작자는 이 영상이 식포 형성과 방출을 보여준다고 설명한다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Para1001.webm",
     "subjects": [
@@ -96,7 +96,7 @@
     "id": "paramecium-water",
     "title": "짚신벌레가 몸속의 물을 배출한다",
     "summary": "수축포를 통해 세포 내부의 물을 배출하는 현미경 기록이다.",
-    "detail": "담수에 사는 짚신벌레는 삼투로 유입되는 과도한 물을 수축포로 배출해 세포 내부 환경을 조절한다. 원본 영상에서는 먹이 섭취에 관여하는 섬모와 구강구의 모습도 관찰된다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Para1003.webm",
     "subjects": [
@@ -111,7 +111,7 @@
     "id": "rotifer-swimming",
     "title": "헤엄치며 움직이는 윤충",
     "summary": "자유생활성 윤충이 물속에서 이동하는 모습과 섭식 행동을 함께 관찰한다.",
-    "detail": "원본 제작자는 이 영상을 자유생활성 윤충의 이동과 섭식으로 설명한다. 싱가포르 켄트리지 공원의 연못·도랑 가장자리에서 채취한 물로 촬영했다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Swimming rotifer DSC 6955.webm",
     "subjects": [
@@ -126,7 +126,7 @@
     "id": "rotifer-alga",
     "title": "녹조류에 붙어 있는 윤충",
     "summary": "윤충이 녹조류의 실 모양 몸체에 부착해 있는 장면이다.",
-    "detail": "원본에는 녹조류의 가는 실에 윤충이 붙어 있다고 기록되어 있다. 부착 모습만으로 공생이나 기생을 단정할 수 없으므로 생태 관찰로 분류했다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "category": "생태 관찰",
     "file": "Rotifer on alga DSC 6953.webm",
     "subjects": [
@@ -142,7 +142,7 @@
     "id": "stentor-micro",
     "title": "현미경으로 관찰한 나팔벌레",
     "summary": "나팔 모양의 섬모충을 600배 현미경 영상으로 관찰한다.",
-    "detail": "Stentor 속에 속하는 섬모충을 촬영한 영상이다. 원본 파일이 속 수준(Stentor sp.)까지만 생물을 명시하므로 특정 종을 임의로 지정하지 않았다.",
+    "detail": "특정 장면을 관찰했다고 해서 그 개체의 종이나 상호작용의 성격을 반드시 확정할 수 있는 것은 아니다. 확인 가능한 움직임과 형태를 중심으로 관찰해 보자.",
     "category": "생태 관찰",
     "file": "Stentor sp., 600x.webm",
     "subjects": [
@@ -157,7 +157,7 @@
     "id": "paramecium-moving",
     "title": "짚신벌레의 유영을 가까이서 보다",
     "summary": "짚신벌레가 섬모를 이용해 물속을 움직이는 모습을 기록했다.",
-    "detail": "짚신벌레가 물속을 헤엄칠 때 세포 표면의 섬모들이 협응해 움직인다. 영상에는 2014년 Microbescope로 관찰한 짚신벌레가 담겨 있다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Paramecium recorded with Microbescope, 2014-10-14.webm",
     "subjects": [
@@ -172,7 +172,7 @@
     "id": "tardigrade-moss",
     "title": "이끼 속 작은 세계를 걷는 완보동물",
     "summary": "이끼라는 미세한 서식 환경 안에서 활동하는 완보동물의 모습이다.",
-    "detail": "완보동물은 이끼와 지의류 같은 습한 환경에서 흔히 발견된다. 원본 제작자는 이끼라는 자연 서식 환경에서 움직이는 모습을 촬영했다고 설명한다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Tardígrado en musgo.webm",
     "subjects": [
@@ -187,7 +187,7 @@
     "id": "euglena-flagellum",
     "title": "편모를 움직여 헤엄치는 유글레나",
     "summary": "유글레나가 편모를 이용해 물속을 이동하는 현미경 영상이다.",
-    "detail": "유글레나가 편모를 이용해 물속을 이동하는 현미경 영상이다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Eugl1000.webm",
     "subjects": [
@@ -201,7 +201,7 @@
     "id": "euglena-euglenoid",
     "title": "몸의 형태를 바꾸며 이동하는 유글레나",
     "summary": "두 유글레나가 편모 운동과 세포체 변형 운동을 보여 준다.",
-    "detail": "두 유글레나가 편모 운동과 세포체 변형 운동을 보여 준다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Eugl1001.webm",
     "subjects": [
@@ -215,7 +215,7 @@
     "id": "euglena-division",
     "title": "둘로 나뉘는 유글레나 딸세포",
     "summary": "이분법 과정에서 만들어진 두 딸세포가 서로 분리되는 모습이다.",
-    "detail": "이분법 과정에서 만들어진 두 딸세포가 서로 분리되는 모습이다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "Eugl1002.webm",
     "subjects": [
@@ -229,7 +229,7 @@
     "id": "euglena-swim",
     "title": "길게 뻗은 편모로 이동하는 유글레나",
     "summary": "유글레나가 긴 편모를 움직여 헤엄친다. 편모는 영상에서 희미하게 보인다.",
-    "detail": "유글레나가 긴 편모를 움직여 헤엄친다. 편모는 영상에서 희미하게 보인다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Euglena swimming DSC 1546.webm",
     "subjects": [
@@ -243,7 +243,7 @@
     "id": "euglena-shape",
     "title": "몸을 변형하는 유글레나",
     "summary": "유글레나가 주변 물질 속에서 세포체의 형태를 바꾸는 모습이다.",
-    "detail": "유글레나가 주변 물질 속에서 세포체의 형태를 바꾸는 모습이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Euglena deforming in goop DSC 6878.webm",
     "subjects": [
@@ -257,7 +257,7 @@
     "id": "euglena-stuck",
     "title": "갇힌 곳에서 빠져나오는 유글레나",
     "summary": "세로 줄무늬가 보이는 유글레나가 주변에 걸린 상태에서 움직여 벗어난다.",
-    "detail": "세로 줄무늬가 보이는 유글레나가 주변에 걸린 상태에서 움직여 벗어난다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "category": "환경 반응",
     "file": "Striated Euglena getting unstuck DSC 6979.webm",
     "subjects": [
@@ -271,7 +271,7 @@
     "id": "vorticella-contract",
     "title": "순식간에 줄기를 수축하는 종벌레",
     "summary": "부착성 섬모충인 종벌레가 줄기를 매우 빠르게 오므린다.",
-    "detail": "부착성 섬모충인 종벌레가 줄기를 매우 빠르게 오므린다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Vorticella contracting DSC 1522.webm",
     "subjects": [
@@ -285,7 +285,7 @@
     "id": "vorticella-vortex",
     "title": "섬모로 물의 소용돌이를 만드는 종벌레",
     "summary": "고정된 종벌레의 섬모 운동으로 주변에 물의 흐름이 만들어진다.",
-    "detail": "고정된 종벌레의 섬모 운동으로 주변에 물의 흐름이 만들어진다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Vorticella vortex DSC 1703.webm",
     "subjects": [
@@ -299,7 +299,7 @@
     "id": "vorticella-egestion",
     "title": "먹고 남은 입자를 밖으로 내보낸다",
     "summary": "종벌레류 섬모충이 소화되지 않은 입자를 배출한다.",
-    "detail": "종벌레류 섬모충이 소화되지 않은 입자를 배출한다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
     "category": "먹이 섭취",
     "file": "Vorticella pooping DSC 6968.webm",
     "subjects": [
@@ -313,7 +313,7 @@
     "id": "vorticella-feeding",
     "title": "물속 입자를 모으는 종벌레",
     "summary": "종벌레가 섬모를 움직여 주변 물의 흐름을 만드는 섭식 장면이다.",
-    "detail": "종벌레가 섬모를 움직여 주변 물의 흐름을 만드는 섭식 장면이다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Vorticella sp. feeding.webm",
     "subjects": [
@@ -327,7 +327,7 @@
     "id": "vorticella-extended",
     "title": "줄기를 길게 편 종벌레",
     "summary": "줄기를 길게 편 종벌레의 모습과 주변 운동을 관찰할 수 있다.",
-    "detail": "줄기를 길게 편 종벌레의 모습과 주변 운동을 관찰할 수 있다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "category": "생태 관찰",
     "file": "Vorticella extended stalk DSC 7014.webm",
     "subjects": [
@@ -341,7 +341,7 @@
     "id": "vorticella-dividing",
     "title": "종벌레가 두 세포로 나뉘는 순간",
     "summary": "종벌레의 세포 분열과 섬모가 형성되는 과정이다. 원본은 15배속 영상이다.",
-    "detail": "종벌레의 세포 분열과 섬모가 형성되는 과정이다. 원본은 15배속 영상이다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Деление инфузории Сувойки.webm",
     "subjects": [
@@ -356,7 +356,7 @@
     "id": "vorticella-pond",
     "title": "연못의 종벌레를 가까이서 관찰하다",
     "summary": "연못의 물 시료에서 관찰한 부착성 섬모충 종벌레의 모습이다.",
-    "detail": "연못의 물 시료에서 관찰한 부착성 섬모충 종벌레의 모습이다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "category": "생태 관찰",
     "file": "Vorticella DSC 6957.webm",
     "subjects": [
@@ -370,7 +370,7 @@
     "id": "amoeba-eats-algae",
     "title": "아메바가 조류를 잡아먹는다",
     "summary": "아메바가 조류를 먹는 장면을 미분간섭현미경으로 관찰했다.",
-    "detail": "아메바가 조류를 먹는 장면을 미분간섭현미경으로 관찰했다.",
+    "detail": "세포 수준의 포식에서는 몸의 형태나 표면 구조가 먹이를 붙잡는 데 중요한 역할을 할 수 있다. 먹이가 포식자와 접촉하기 전후 장면을 비교하며 관찰해 보자.",
     "category": "포식",
     "file": "Амеба поедает водоросль.webm",
     "subjects": [
@@ -385,7 +385,7 @@
     "id": "amoeba-difflugia",
     "title": "껍질을 가진 아메바의 위족 운동",
     "summary": "디플루기아로 추정되는 유각아메바가 위족을 뻗어 슬라이드 위를 이동한다.",
-    "detail": "디플루기아로 추정되는 유각아메바가 위족을 뻗어 슬라이드 위를 이동한다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Cf Difflugia DSC 1306.webm",
     "subjects": [
@@ -400,7 +400,7 @@
     "id": "amoeba-amoeboid",
     "title": "형태를 바꿔 기어가는 아메바",
     "summary": "아메바가 세포체 모양을 변형하며 이동하는 모습이다.",
-    "detail": "아메바가 세포체 모양을 변형하며 이동하는 모습이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Amoeboid amoeba DSC 1823.webm",
     "subjects": [
@@ -414,7 +414,7 @@
     "id": "amoeba-rays",
     "title": "세 방향으로 위족을 뻗은 유각아메바",
     "summary": "껍질을 가진 아메바의 세 방향 위족을 관찰할 수 있다.",
-    "detail": "껍질을 가진 아메바의 세 방향 위족을 관찰할 수 있다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "category": "생태 관찰",
     "file": "Testate amoeba triradiate pseudopods DSC 6891.webm",
     "subjects": [
@@ -428,7 +428,7 @@
     "id": "amoeba-changing",
     "title": "위족을 뻗으며 모양을 바꾸는 아메바",
     "summary": "방사형으로 뻗은 위족이 변하면서 아메바의 외형이 달라진다.",
-    "detail": "방사형으로 뻗은 위족이 변하면서 아메바의 외형이 달라진다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Изменение формы амебы.webm",
     "subjects": [
@@ -442,7 +442,7 @@
     "id": "nuclearia-moving",
     "title": "실처럼 가는 위족을 뻗는 누클레아리아",
     "summary": "누클레아리아가 세포 표면에서 섬세한 필로포디아를 뻗는다.",
-    "detail": "누클레아리아가 세포 표면에서 섬세한 필로포디아를 뻗는다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Nuclearia movement DSC 1253.webm",
     "subjects": [
@@ -456,7 +456,7 @@
     "id": "nuclearia-retract",
     "title": "누클레아리아의 위족이 수축한다",
     "summary": "누클레아리아가 뻗어 있던 가는 위족을 몸 쪽으로 거둔다.",
-    "detail": "누클레아리아가 뻗어 있던 가는 위족을 몸 쪽으로 거둔다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "category": "환경 반응",
     "file": "Nuclearia retract tentacles DSC 1274.webm",
     "subjects": [
@@ -470,7 +470,7 @@
     "id": "daphnia-heart",
     "title": "투명한 물벼룩의 심장이 뛴다",
     "summary": "물벼룩 몸속에서 심장이 빠르게 수축하고 이완하는 모습을 볼 수 있다.",
-    "detail": "물벼룩 몸속에서 심장이 빠르게 수축하고 이완하는 모습을 볼 수 있다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "category": "생태 관찰",
     "file": "Пульсация сердца Дафнии.webm",
     "subjects": [
@@ -484,7 +484,7 @@
     "id": "daphnia-appendages",
     "title": "몸속으로 보이는 물벼룩의 다리 운동",
     "summary": "물벼룩의 반투명한 몸에서 다리와 꼬리의 움직임을 관찰한다.",
-    "detail": "물벼룩의 반투명한 몸에서 다리와 꼬리의 움직임을 관찰한다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Daph1000.webm",
     "subjects": [
@@ -498,7 +498,7 @@
     "id": "daphnia-moving",
     "title": "물벼룩의 부속지가 움직이는 방식",
     "summary": "물벼룩이 보호 껍질 안에서 다리와 꼬리를 움직인다.",
-    "detail": "물벼룩이 보호 껍질 안에서 다리와 꼬리를 움직인다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Daph1001.webm",
     "subjects": [
@@ -512,7 +512,7 @@
     "id": "volvox-colony",
     "title": "공 모양 군체를 이룬 볼복스",
     "summary": "여러 세포가 모여 형성한 볼복스 군체를 서로 다른 초점면에서 살펴본다.",
-    "detail": "여러 세포가 모여 형성한 볼복스 군체를 서로 다른 초점면에서 살펴본다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Volv1000.webm",
     "subjects": [
@@ -526,7 +526,7 @@
     "id": "volvox-swimming",
     "title": "물속에서 움직이는 볼복스 군체",
     "summary": "공 모양의 볼복스 군체가 물속에 떠 있는 모습을 관찰한다.",
-    "detail": "공 모양의 볼복스 군체가 물속에 떠 있는 모습을 관찰한다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Вольвокс.webm",
     "subjects": [
@@ -540,7 +540,7 @@
     "id": "gastrotrich-swim",
     "title": "작은 복모동물이 헤엄친다",
     "summary": "현미경으로 관찰한 복모동물의 유영 모습이다.",
-    "detail": "현미경으로 관찰한 복모동물의 유영 모습이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Gastrotrich swimming DSC 6859.webm",
     "subjects": [
@@ -554,7 +554,7 @@
     "id": "gastrotrich-glide",
     "title": "물속을 미끄러지듯 이동하는 복모동물",
     "summary": "작은 담수 복모동물이 표면을 따라 이동하는 모습이다.",
-    "detail": "작은 담수 복모동물이 표면을 따라 이동하는 모습이다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Gastrotrich gliding DSC 1085.webm",
     "subjects": [
@@ -568,7 +568,7 @@
     "id": "hydra-budding",
     "title": "히드라의 몸에서 새 개체가 자라난다",
     "summary": "히드라가 출아라는 무성생식으로 새로운 개체를 만드는 모습이다.",
-    "detail": "히드라가 출아라는 무성생식으로 새로운 개체를 만드는 모습이다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Hidra en gemación.webm",
     "subjects": [
@@ -582,7 +582,7 @@
     "id": "hydra-tentacles",
     "title": "조류와 공생하는 녹색 히드라",
     "summary": "세포 안에 사는 공생 조류로 녹색을 띠는 히드라가 촉수를 움직인다.",
-    "detail": "세포 안에 사는 공생 조류로 녹색을 띠는 히드라가 촉수를 움직인다.",
+    "detail": "공생은 서로 다른 생물이 밀접하게 살아가는 관계이며, 그 결과가 항상 양쪽에 이익이 되는 것은 아니다. 실제 영상에서 확인되는 근접·접촉 장면과 관계의 생태학적 해석을 구분해 보자.",
     "category": "공생",
     "file": "Green hydra (Hydra viridissima) under darkfield microscopy.webm",
     "subjects": [
@@ -597,7 +597,7 @@
     "id": "yeast-time-lapse",
     "title": "효모의 증식을 시간 흐름으로 관찰하다",
     "summary": "시간을 압축한 현미경 영상으로 효모 세포들이 변화하는 모습을 살펴본다.",
-    "detail": "시간을 압축한 현미경 영상으로 효모 세포들이 변화하는 모습을 살펴본다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Yeast Time Lapse.webm",
     "subjects": [
@@ -611,7 +611,7 @@
     "id": "ciliate-dividing",
     "title": "섬모충이 이분법으로 증식한다",
     "summary": "섬모충의 이분법 과정을 현미경으로 촬영한 영상이다.",
-    "detail": "섬모충의 이분법 과정을 현미경으로 촬영한 영상이다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "Деление инфузории.webm",
     "subjects": [
@@ -626,7 +626,7 @@
     "id": "stylonychia-division",
     "title": "스틸로니키아가 둘로 나뉜다",
     "summary": "섬모충 스틸로니키아가 세포 분열하는 모습을 관찰한다.",
-    "detail": "섬모충 스틸로니키아가 세포 분열하는 모습을 관찰한다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Деление стилонихии 1.webm",
     "subjects": [
@@ -640,7 +640,7 @@
     "id": "choanoflagellate-prey",
     "title": "깃편모충이 세균을 잡아 삼킨다",
     "summary": "Salpingoeca rosetta가 세균을 붙잡아 식세포작용으로 섭취하는 장면이다.",
-    "detail": "Salpingoeca rosetta가 세균을 붙잡아 식세포작용으로 섭취하는 장면이다.",
+    "detail": "포식은 다른 생물을 먹이로 삼는 상호작용으로, 접근과 접촉 및 섭취의 단계를 구분해 볼 수 있다. 영상에서 포식자와 먹이의 위치가 어떻게 달라지는지 따라가면 현상을 이해하기 쉽다.",
     "category": "포식",
     "file": "Prey-Capture-and-Phagocytosis-in-the-Choanoflagellate-Salpingoeca-rosetta-pone.0095577.s003.ogv",
     "subjects": [
@@ -656,7 +656,7 @@
     "id": "macrophage-fusarium",
     "title": "대식세포에 삼켜진 곰팡이가 균사를 뻗는다",
     "summary": "쥐 대식세포가 곰팡이를 포식하지만 세포 안에서 균사가 자라 세포가 파괴되는 모습이다.",
-    "detail": "쥐 대식세포가 곰팡이를 포식하지만 세포 안에서 균사가 자라 세포가 파괴되는 모습이다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "Hyphal-Growth-of-Phagocytosed-Fusarium-oxysporum-Causes-Cell-Lysis-and-Death-of-Murine-Macrophages-pone.0101999.s001.ogv",
     "subjects": [
@@ -672,7 +672,7 @@
     "id": "macrophage-candida",
     "title": "대식세포와 칸디다 곰팡이의 공방",
     "summary": "대식세포에 삼켜진 칸디다가 균사를 뻗고 대식세포를 손상시키는 과정을 관찰한다.",
-    "detail": "대식세포에 삼켜진 칸디다가 균사를 뻗고 대식세포를 손상시키는 과정을 관찰한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s001.ogv",
     "subjects": [
@@ -688,7 +688,7 @@
     "id": "bacterial-gliding",
     "title": "실 모양 세균이 표면을 따라 움직인다",
     "summary": "사상형 세균이 표면을 따라 미끄러지듯 이동하는 장면이다.",
-    "detail": "사상형 세균이 표면을 따라 미끄러지듯 이동하는 장면이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Bacteria in goop DSC 6898.webm",
     "subjects": [
@@ -702,7 +702,7 @@
     "id": "bacterial-evolution",
     "title": "항생제 구역을 향해 퍼지는 세균 집단",
     "summary": "항생제 농도가 높아지는 구역으로 세균 군집이 확장하며 내성 변이가 선택되는 실험이다.",
-    "detail": "항생제 농도가 높아지는 구역으로 세균 군집이 확장하며 내성 변이가 선택되는 실험이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Kishony lab-The Evolution of Bacteria on a Mega-Plate.webm",
     "subjects": [
@@ -716,7 +716,7 @@
     "id": "ciliate-noodle",
     "title": "섬모충이 기다란 먹이를 삼킨다",
     "summary": "섬모충이 길쭉한 먹이 입자를 섭취하는 장면이다.",
-    "detail": "섬모충이 길쭉한 먹이 입자를 섭취하는 장면이다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Ciliate eating noodle DSC 1545.webm",
     "subjects": [
@@ -731,7 +731,7 @@
     "id": "euplotes-moving",
     "title": "유플로테스의 움직임을 관찰한다",
     "summary": "Euplotes cf. woodruffi로 표기된 섬모충을 현미경으로 관찰한 영상이다.",
-    "detail": "Euplotes cf. woodruffi로 표기된 섬모충을 현미경으로 관찰한 영상이다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Euplotes cf woodruffi DSC 2280 20x.webm",
     "subjects": [
@@ -746,7 +746,7 @@
     "id": "mesodinium-moving",
     "title": "빠르게 움직이는 메소디니움",
     "summary": "담수의 Mesodinium 속 섬모충이 움직이는 장면이다.",
-    "detail": "담수의 Mesodinium 속 섬모충이 움직이는 장면이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Mesodinium DSC 2444.webm",
     "subjects": [
@@ -760,7 +760,7 @@
     "id": "rotifer-closeup",
     "title": "윤충이 몸을 움직이는 근접 관찰",
     "summary": "윤충의 몸이 움직이는 모습을 근접 촬영한 영상이다.",
-    "detail": "윤충의 몸이 움직이는 모습을 근접 촬영한 영상이다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "Rotifer closeup moving DSC 6861.webm",
     "subjects": [
@@ -774,7 +774,7 @@
     "id": "collotheca-rotifer",
     "title": "꽃처럼 펼친 섬모를 가진 윤충",
     "summary": "콜로테카 속 윤충의 몸과 머리 부분을 미분간섭현미경으로 관찰한다.",
-    "detail": "콜로테카 속 윤충의 몸과 머리 부분을 미분간섭현미경으로 관찰한다.",
+    "detail": "특정 장면을 관찰했다고 해서 그 개체의 종이나 상호작용의 성격을 반드시 확정할 수 있는 것은 아니다. 확인 가능한 움직임과 형태를 중심으로 관찰해 보자.",
     "category": "생태 관찰",
     "file": "Коловратки Collotheca 2.webm",
     "subjects": [
@@ -789,7 +789,7 @@
     "id": "bdelloid-feeding",
     "title": "윤충이 섬모를 움직여 먹이를 먹는다",
     "summary": "윤충이 섬모를 이용해 먹이를 섭취하는 모습을 위상차 현미경으로 기록했다.",
-    "detail": "윤충이 섬모를 이용해 먹이를 섭취하는 모습을 위상차 현미경으로 기록했다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
     "category": "먹이 섭취",
     "file": "Бделлоидная коловратка.webm",
     "subjects": [
@@ -804,7 +804,7 @@
     "id": "conochilus-rotifer",
     "title": "물속을 떠다니는 코노킬루스 윤충",
     "summary": "담수에서 채집한 플랑크톤성 코노킬루스 윤충의 움직임을 관찰한다.",
-    "detail": "담수에서 채집한 플랑크톤성 코노킬루스 윤충의 움직임을 관찰한다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Conochilus.webm",
     "subjects": [
@@ -819,7 +819,7 @@
     "id": "nassula-division",
     "title": "나술라 섬모충이 둘로 분열한다",
     "summary": "나술라 섬모충의 이분법을 기록한 실제 현미경 영상이다.",
-    "detail": "나술라 섬모충의 이분법을 기록한 실제 현미경 영상이다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "Nassula Ciliate Cell Division.ogv",
     "subjects": [
@@ -833,7 +833,7 @@
     "id": "termite-symbionts",
     "title": "흰개미와 공생하는 원생생물과 세균",
     "summary": "흰개미와 공생 관계를 이루는 메타모나다 원생생물과 스피로헤타 세균을 관찰한다.",
-    "detail": "흰개미와 공생 관계를 이루는 메타모나다 원생생물과 스피로헤타 세균을 관찰한다.",
+    "detail": "공생은 서로 다른 생물이 밀접하게 살아가는 관계이며, 그 결과가 항상 양쪽에 이익이 되는 것은 아니다. 실제 영상에서 확인되는 근접·접촉 장면과 관계의 생태학적 해석을 구분해 보자.",
     "category": "공생",
     "file": "Excavate protist and spirochaetes in a symbiotic relationship with a termite..webm",
     "subjects": [
@@ -848,7 +848,7 @@
     "id": "pseudomonas-wound",
     "title": "상처 부위로 몰려드는 녹농균",
     "summary": "녹농균이 손상된 기도 상피세포 부위로 빠르게 이동하는 화학주성 실험 영상이다.",
-    "detail": "녹농균이 손상된 기도 상피세포 부위로 빠르게 이동하는 화학주성 실험 영상이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Chemotaxis-and-Binding-of-Pseudomonas-aeruginosa-to-Scratch-Wounded-Human-Cystic-Fibrosis-Airway-pone.0150109.s001.ogv",
     "subjects": [
@@ -864,7 +864,7 @@
     "id": "borrelia-platelet",
     "title": "혈소판 위를 앞뒤로 오가는 보렐리아",
     "summary": "라임병의 원인균 보렐리아가 혈소판을 따라 앞뒤로 이동하는 16배속 영상이다.",
-    "detail": "라임병의 원인균 보렐리아가 혈소판을 따라 앞뒤로 이동하는 16배속 영상이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Clocking-the-Lyme-Spirochete-pone.0001633.s001.ogv",
     "subjects": [
@@ -880,7 +880,7 @@
     "id": "dictyostelium-aggregation",
     "title": "사회성 아메바가 서로 모여든다",
     "summary": "딕티오스텔리움 세포들이 표면 특성에 따라 스스로 응집하는 과정을 관찰한다.",
-    "detail": "딕티오스텔리움 세포들이 표면 특성에 따라 스스로 응집하는 과정을 관찰한다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Dictyostelium-Cells-Migrate-Similarly-on-Surfaces-of-Varying-Chemical-Composition-pone.0087981.s002.ogv",
     "subjects": [
@@ -895,7 +895,7 @@
     "id": "stylonychia-feeding-current",
     "title": "섬모로 먹이 흐름을 만드는 스틸로니키아",
     "summary": "스틸로니키아 섬모충이 섬모를 움직여 먹이 입자가 접근하는 물의 흐름을 만든다.",
-    "detail": "스틸로니키아 섬모충이 섬모를 움직여 먹이 입자가 접근하는 물의 흐름을 만든다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Stylonychia feeding current DSC 2441.webm",
     "subjects": [
@@ -909,7 +909,7 @@
     "id": "loxodes-cyanobacteria",
     "title": "긴 남세균을 삼키는 록소데스",
     "summary": "록소데스 섬모충이 길쭉한 남세균을 섭취하는 장면이다.",
-    "detail": "록소데스 섬모충이 길쭉한 남세균을 섭취하는 장면이다.",
+    "detail": "포식은 다른 생물을 먹이로 삼는 상호작용으로, 접근과 접촉 및 섭취의 단계를 구분해 볼 수 있다. 영상에서 포식자와 먹이의 위치가 어떻게 달라지는지 따라가면 현상을 이해하기 쉽다.",
     "category": "포식",
     "file": "Инфузория Loxodes съедает длинную цианобактерию.webm",
     "subjects": [
@@ -924,7 +924,7 @@
     "id": "paramecium-feeding-savitsky",
     "title": "짚신벌레의 먹이 섭취 과정",
     "summary": "Paramecium caudatum의 먹이 섭취와 식포를 통한 잔여물 배출을 관찰한다.",
-    "detail": "Paramecium caudatum의 먹이 섭취와 식포를 통한 잔여물 배출을 관찰한다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "category": "먹이 섭취",
     "file": "Питание инфузории туфельки.webm",
     "subjects": [
@@ -938,7 +938,7 @@
     "id": "nematode-electrotaxis",
     "title": "전기 자극에 반응해 움직이는 선충",
     "summary": "예쁜꼬마선충이 전기장 속에서 몸을 굽혀 방향을 재설정한 뒤 이동을 이어가는 실험 장면이다.",
-    "detail": "예쁜꼬마선충이 전기장 속에서 몸을 굽혀 방향을 재설정한 뒤 이동을 이어가는 실험 장면이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Running-Worms-C.-elegans-Self-Sorting-by-Electrotaxis-pone.0016637.s002.ogv",
     "subjects": [
@@ -952,7 +952,7 @@
     "id": "rapid-ciliate-movement",
     "title": "자유롭게 빠르게 움직이는 섬모충",
     "summary": "종이 확정되지 않은 섬모충의 빠른 움직임을 관찰한다.",
-    "detail": "종이 확정되지 않은 섬모충의 빠른 움직임을 관찰한다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "Ciliate in goop DSC 6916.webm",
     "subjects": [
@@ -966,7 +966,7 @@
     "id": "dengue-surface",
     "title": "뎅기 바이러스가 세포 표면을 움직인다",
     "summary": "형광 표지된 뎅기 바이러스가 세포막을 따라 이동하다 클라트린 피복 함몰에 포획되는 모습이다.",
-    "detail": "형광 표지된 뎅기 바이러스가 세포막을 따라 이동하다 클라트린 피복 함몰에 포획되는 모습이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s002.ogv",
     "subjects": [
@@ -981,7 +981,7 @@
     "id": "dengue-endosome",
     "title": "뎅기 바이러스가 엔도솜 안으로 이동한다",
     "summary": "세포에 들어온 바이러스 입자가 엔도솜과 함께 이동하며 초기 엔도솜이 성숙하는 과정이다.",
-    "detail": "세포에 들어온 바이러스 입자가 엔도솜과 함께 이동하며 초기 엔도솜이 성숙하는 과정이다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s003.ogv",
     "subjects": [
@@ -996,7 +996,7 @@
     "id": "dengue-traffic",
     "title": "세포 안에서 이동하는 뎅기 바이러스",
     "summary": "형광 표지된 바이러스와 엔도솜을 추적해 세포 내부 이동 경로를 보여준다.",
-    "detail": "형광 표지된 바이러스와 엔도솜을 추적해 세포 내부 이동 경로를 보여준다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s004.ogv",
     "subjects": [
@@ -1011,7 +1011,7 @@
     "id": "dengue-early",
     "title": "바이러스가 세포 내부 소기관에 도달한다",
     "summary": "뎅기 바이러스의 세포 내 이동을 형광 현미경으로 추적한 실험이다.",
-    "detail": "뎅기 바이러스의 세포 내 이동을 형광 현미경으로 추적한 실험이다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s005.ogv",
     "subjects": [
@@ -1026,7 +1026,7 @@
     "id": "papilloma-entry",
     "title": "인유두종바이러스의 세포 진입을 관찰한다",
     "summary": "인유두종바이러스 16형의 세포 진입에 관여하는 액틴 의존 과정을 관찰한 연구 영상이다.",
-    "detail": "인유두종바이러스 16형의 세포 진입에 관여하는 액틴 의존 과정을 관찰한 연구 영상이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "file": "Entry-of-Human-Papillomavirus-Type-16-by-Actin-Dependent-Clathrin--and-Lipid-Raft-Independent-ppat.1002657.s011.ogv",
     "subjects": [
@@ -1041,7 +1041,7 @@
     "id": "vaccinia-spread",
     "title": "백시니아 바이러스가 세포 사이로 퍼진다",
     "summary": "백시니아 바이러스 감염이 배양 세포 사이에서 퍼지는 양상을 기록한 연구 영상이다.",
-    "detail": "백시니아 바이러스 감염이 배양 세포 사이에서 퍼지는 양상을 기록한 연구 영상이다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "file": "F11-Mediated-Inhibition-of-RhoA-Signalling-Enhances-the-Spread-of-Vaccinia-Virus-In-Vitro-and-In-pone.0008506.s002.ogv",
     "subjects": [
@@ -1056,7 +1056,7 @@
     "id": "hsv-transport",
     "title": "단순포진바이러스가 세포 밖으로 이동한다",
     "summary": "단순포진바이러스가 세포에서 나가는 과정과 관련 단백질의 이동을 관찰한 영상이다.",
-    "detail": "단순포진바이러스가 세포에서 나가는 과정과 관련 단백질의 이동을 관찰한 영상이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "file": "Herpes-Simplex-Virus-Dances-with-Amyloid-Precursor-Protein-while-Exiting-the-Cell-pone.0017966.s011.ogv",
     "subjects": [
@@ -1071,7 +1071,7 @@
     "id": "hep-b-nuclear",
     "title": "B형간염 바이러스 캡시드의 핵 진입 연구",
     "summary": "B형간염 바이러스 캡시드와 핵공의 상호작용을 현미경 영상으로 관찰한다.",
-    "detail": "B형간염 바이러스 캡시드와 핵공의 상호작용을 현미경 영상으로 관찰한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "file": "Nucleoporin-153-Arrests-the-Nuclear-Import-of-Hepatitis-B-Virus-Capsids-in-the-Nuclear-Basket-ppat.1000741.s001.ogv",
     "subjects": [
@@ -1086,7 +1086,7 @@
     "id": "myxo-social-1",
     "title": "점액세균 무리가 집단으로 미끄러진다",
     "summary": "점액세균 Myxococcus xanthus가 고체 표면에서 집단으로 움직이는 모습이다.",
-    "detail": "점액세균 Myxococcus xanthus가 고체 표면에서 집단으로 움직이는 모습이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s001.ogv",
     "subjects": [
@@ -1100,7 +1100,7 @@
     "id": "myxo-social-2",
     "title": "점액세균의 집단 이동을 다른 조건에서 비교한다",
     "summary": "점액세균 군집이 움직이는 모습을 조건별로 비교한 시간경과 현미경 영상이다.",
-    "detail": "점액세균 군집이 움직이는 모습을 조건별로 비교한 시간경과 현미경 영상이다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s002.ogv",
     "subjects": [
@@ -1114,7 +1114,7 @@
     "id": "myxo-exchange",
     "title": "점액세균끼리 접촉해 막 성분을 교환한다",
     "summary": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
-    "detail": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s013.ogv",
     "subjects": [
@@ -1129,7 +1129,7 @@
     "id": "myxo-motility-gene",
     "title": "운동 유전자 변화가 점액세균 군집에 미치는 영향",
     "summary": "운동 관련 유전자 변형 조건에서 점액세균의 이동 양상을 관찰한다.",
-    "detail": "운동 관련 유전자 변형 조건에서 점액세균의 이동 양상을 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S2.ogv",
     "subjects": [
@@ -1143,7 +1143,7 @@
     "id": "myxo-swarm-gene",
     "title": "운동성 변화에 따라 군집이 퍼지는 모습",
     "summary": "점액세균의 운동성·집단 확장 양상을 조건별로 기록한 영상이다.",
-    "detail": "점액세균의 운동성·집단 확장 양상을 조건별로 기록한 영상이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S5.ogv",
     "subjects": [
@@ -1157,7 +1157,7 @@
     "id": "myxo-surface-motor",
     "title": "점액세균이 표면에서 미끄러지듯 이동한다",
     "summary": "표면 운동과 포자 형성에 관여하는 운동 기구를 연구한 현미경 기록이다.",
-    "detail": "표면 운동과 포자 형성에 관여하는 운동 기구를 연구한 현미경 기록이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "file": "A-Versatile-Class-of-Cell-Surface-Directional-Motors-Gives-Rise-to-Gliding-Motility-and-Sporulation-pbio.1001728.s014.ogv",
     "subjects": [
@@ -1171,7 +1171,7 @@
     "id": "pseudomonas-psl",
     "title": "녹농균이 생물막 안에서 움직인다",
     "summary": "녹농균 미세 군집의 중앙에서 세균이 유영하고 Psl 생물막 기질이 형성된 모습이다.",
-    "detail": "녹농균 미세 군집의 중앙에서 세균이 유영하고 Psl 생물막 기질이 형성된 모습이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Assembly-and-Development-of-the-Pseudomonas-aeruginosa-Biofilm-Matrix-ppat.1000354.s003.ogv",
     "subjects": [
@@ -1185,7 +1185,7 @@
     "id": "pseudomonas-colony",
     "title": "녹농균 군집의 생물막 내부를 관찰한다",
     "summary": "서로 다른 녹농균 균주의 생물막 미세 군집에서 움직이는 세포를 기록했다.",
-    "detail": "서로 다른 녹농균 균주의 생물막 미세 군집에서 움직이는 세포를 기록했다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Assembly-and-Development-of-the-Pseudomonas-aeruginosa-Biofilm-Matrix-ppat.1000354.s004.ogv",
     "subjects": [
@@ -1199,7 +1199,7 @@
     "id": "biofilm-explosive",
     "title": "세균이 파열되며 생물막 형성에 기여한다",
     "summary": "녹농균의 세포가 둥글어졌다가 터지며 세포외 DNA가 방출되는 장면을 형광으로 촬영했다.",
-    "detail": "녹농균의 세포가 둥글어졌다가 터지며 세포외 DNA가 방출되는 장면을 형광으로 촬영했다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s8.ogv",
     "subjects": [
@@ -1213,7 +1213,7 @@
     "id": "biofilm-interstitial",
     "title": "녹농균 생물막 사이에서 나타나는 세포 파열",
     "summary": "형광 표지된 세포외 DNA와 함께 녹농균 생물막에서 세포 파열 현상을 관찰한다.",
-    "detail": "형광 표지된 세포외 DNA와 함께 녹농균 생물막에서 세포 파열 현상을 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s3.ogv",
     "subjects": [
@@ -1227,7 +1227,7 @@
     "id": "biofilm-development",
     "title": "녹농균 생물막의 성장 과정을 관찰한다",
     "summary": "녹농균 생물막의 시간에 따른 변화를 위상차 현미경으로 촬영한 실험이다.",
-    "detail": "녹농균 생물막의 시간에 따른 변화를 위상차 현미경으로 촬영한 실험이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s6.ogv",
     "subjects": [
@@ -1241,7 +1241,7 @@
     "id": "e-coli-matrix",
     "title": "대장균이 생물막을 이루는 모습을 추적한다",
     "summary": "배양 조건에서 대장균 세포의 배열과 미세 군집 변화를 시간경과로 관찰한다.",
-    "detail": "배양 조건에서 대장균 세포의 배열과 미세 군집 변화를 시간경과로 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Genetic-Dissection-of-an-Exogenously-Induced-Biofilm-in-Laboratory-and-Clinical-Isolates-of-E.-coli-ppat.1000432.s022.ogv",
     "subjects": [
@@ -1255,7 +1255,7 @@
     "id": "rhodobacter-group",
     "title": "광합성 세균의 장거리 집단 이동",
     "summary": "로도박터 속 광합성 세균이 고체 표면 위에서 협응하며 움직이는 모습이다.",
-    "detail": "로도박터 속 광합성 세균이 고체 표면 위에서 협응하며 움직이는 모습이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Coordinated-Long-Range-Solid-Substrate-Movement-of-the-Purple-Photosynthetic-Bacterium-Rhodobacter-pone.0019646.s001.ogv",
     "subjects": [
@@ -1269,7 +1269,7 @@
     "id": "bacterial-colony-3d",
     "title": "세균 군집이 평면에서 입체로 성장한다",
     "summary": "세균 군체가 이차원적 분열에서 입체적인 군집 구조로 변하는 과정을 관찰한다.",
-    "detail": "세균 군체가 이차원적 분열에서 입체적인 군집 구조로 변하는 과정을 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Bacterial-Colony-from-Two-Dimensional-Division-to-Three-Dimensional-Development-pone.0048098.s007.ogv",
     "subjects": [
@@ -1283,7 +1283,7 @@
     "id": "oral-biofilm-growth",
     "title": "구강 미생물 생물막이 자라난다",
     "summary": "형광 표지를 이용해 구강 생물막 형성 과정을 시간경과로 관찰한다.",
-    "detail": "형광 표지를 이용해 구강 생물막 형성 과정을 시간경과로 관찰한다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Red-and-Green-Fluorescence-from-Oral-Biofilms-pone.0168428.s003.ogv",
     "subjects": [
@@ -1297,7 +1297,7 @@
     "id": "neutrophil-conidia",
     "title": "호중구가 곰팡이 포자를 여러 개 삼킨다",
     "summary": "빠르게 이동하는 호중구가 아스페르길루스 분생포자를 차례로 포식한다.",
-    "detail": "빠르게 이동하는 호중구가 아스페르길루스 분생포자를 차례로 포식한다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "S1-Polymorphonuclear Cells with Conidia in Liquid Media.ogv",
     "subjects": [
@@ -1312,7 +1312,7 @@
     "id": "neutrophil-candida",
     "title": "호중구가 칸디다 효모와 상호작용한다",
     "summary": "액체 배지에서 호중구와 칸디다 효모 세포가 상호작용하는 현미경 기록이다.",
-    "detail": "액체 배지에서 호중구와 칸디다 효모 세포가 상호작용하는 현미경 기록이다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "file": "S10-PMNs with C albicans Yeasts in Liquid Media.ogv",
     "subjects": [
@@ -1327,7 +1327,7 @@
     "id": "neutrophil-collagen",
     "title": "콜라겐 속에서 칸디다를 추적하는 호중구",
     "summary": "콜라겐 환경에서 호중구가 칸디다 효모 세포와 접촉하는 양상을 관찰한다.",
-    "detail": "콜라겐 환경에서 호중구가 칸디다 효모 세포와 접촉하는 양상을 관찰한다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "S12-PMNs with C albicans Yeasts in Collagen.ogv",
     "subjects": [
@@ -1342,7 +1342,7 @@
     "id": "neutrophil-choice",
     "title": "호중구가 여러 포자를 끌고 이동한다",
     "summary": "호중구가 아스페르길루스 포자를 다수 붙잡고 끌고 가며 칸디다 효모와 접촉한다.",
-    "detail": "호중구가 아스페르길루스 포자를 다수 붙잡고 끌고 가며 칸디다 효모와 접촉한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "file": "S14-Competitive Phagocytosis Assay in Media.ogv",
     "subjects": [
@@ -1358,7 +1358,7 @@
     "id": "neutrophil-3d-choice",
     "title": "콜라겐에서 벌어지는 호중구의 포식 실험",
     "summary": "콜라겐 기반 환경에서 호중구와 곰팡이 세포의 상호작용을 기록한 영상이다.",
-    "detail": "콜라겐 기반 환경에서 호중구와 곰팡이 세포의 상호작용을 기록한 영상이다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "S15-Competitive Phagocytosis Assay in Collagen.ogv",
     "subjects": [
@@ -1374,7 +1374,7 @@
     "id": "macrophage-conidia",
     "title": "대식세포가 곰팡이 포자에 접근한다",
     "summary": "J774 대식세포와 아스페르길루스 분생포자의 상호작용을 시간경과로 관찰한다.",
-    "detail": "J774 대식세포와 아스페르길루스 분생포자의 상호작용을 시간경과로 관찰한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "file": "S4-J774 Cells with Conidia in Liquid Media.ogv",
     "subjects": [
@@ -1389,7 +1389,7 @@
     "id": "neutrophil-drag",
     "title": "호중구가 포자를 붙잡고 이동한다",
     "summary": "호중구가 포자를 끌고 이동하는 모습을 보여주는 포식 실험이다.",
-    "detail": "호중구가 포자를 끌고 이동하는 모습을 보여주는 포식 실험이다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "file": "S7-PMNs Dragging Conidia in Media.ogv",
     "subjects": [
@@ -1404,7 +1404,7 @@
     "id": "neutrophil-phagocytosis-compare",
     "title": "포자가 붙은 상태와 삼켜진 상태의 차이",
     "summary": "곰팡이 포자가 호중구 표면에 붙어 있는 경우와 세포 안에 들어간 경우를 비교한다.",
-    "detail": "곰팡이 포자가 호중구 표면에 붙어 있는 경우와 세포 안에 들어간 경우를 비교한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "file": "S9-Conidia Can Be Attached to the PMN Surface or Truly Internalized.ogv",
     "subjects": [
@@ -1419,7 +1419,7 @@
     "id": "dicty-camp",
     "title": "사회성 아메바가 화학 신호를 향해 이동한다",
     "summary": "딕티오스텔리움의 화학주성을 촬영한 연구 실험 영상이다.",
-    "detail": "딕티오스텔리움의 화학주성을 촬영한 연구 실험 영상이다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "category": "환경 반응",
     "file": "Investigating-the-Effect-of-Emetic-Compounds-on-Chemotaxis-in-Dictyostelium-Identifies-a-Non-pone.0024439.s001.ogv",
     "subjects": [
@@ -1433,7 +1433,7 @@
     "id": "dicty-chemotaxis-treatment",
     "title": "화학물질 처리 후 아메바의 이동을 비교한다",
     "summary": "화학주성에 대한 처리 조건의 효과를 비교하는 딕티오스텔리움 현미경 영상이다.",
-    "detail": "화학주성에 대한 처리 조건의 효과를 비교하는 딕티오스텔리움 현미경 영상이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "file": "Investigating-the-Effect-of-Emetic-Compounds-on-Chemotaxis-in-Dictyostelium-Identifies-a-Non-pone.0024439.s002.ogv",
     "subjects": [
@@ -1447,7 +1447,7 @@
     "id": "dicty-collective-contact",
     "title": "아메바들이 접촉하며 집단으로 움직인다",
     "summary": "딕티오스텔리움 세포의 집단 화학주성과 세포 간 접촉을 관찰한다.",
-    "detail": "딕티오스텔리움 세포의 집단 화학주성과 세포 간 접촉을 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "file": "Chemotaxis-of-Dictyostelium-discoideum-Collective-Oscillation-of-Cellular-Contacts-pone.0054172.s008.ogv",
     "subjects": [
@@ -1461,7 +1461,7 @@
     "id": "dicty-oscillations",
     "title": "사회성 아메바의 집단 접촉이 주기적으로 바뀐다",
     "summary": "집단으로 이동하는 사회성 아메바에서 세포 간 접촉과 운동 변화를 관찰한다.",
-    "detail": "집단으로 이동하는 사회성 아메바에서 세포 간 접촉과 운동 변화를 관찰한다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "file": "Chemotaxis-of-Dictyostelium-discoideum-Collective-Oscillation-of-Cellular-Contacts-pone.0054172.s009.ogv",
     "subjects": [
@@ -1475,7 +1475,7 @@
     "id": "dicty-actin",
     "title": "화학주성 중 세포막의 활성 영역이 움직인다",
     "summary": "딕티오스텔리움의 이동과 관련된 세포막 활성 영역을 영상으로 관찰한다.",
-    "detail": "딕티오스텔리움의 이동과 관련된 세포막 활성 영역을 영상으로 관찰한다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "category": "환경 반응",
     "file": "Activated-Membrane-Patches-Guide-Chemotactic-Cell-Motility-pcbi.1002044.s007.ogv",
     "subjects": [
@@ -1489,7 +1489,7 @@
     "id": "dicty-pseudopod",
     "title": "아메바의 위족이 생겨나며 이동한다",
     "summary": "아메바 세포 표면의 위족 형성과 움직임을 관찰한 실험 영상이다.",
-    "detail": "아메바 세포 표면의 위족 형성과 움직임을 관찰한 실험 영상이다.",
+    "detail": "미시 생물의 이동에는 섬모, 편모, 위족 또는 세포 표면의 운동이 이용될 수 있다. 움직이는 방향과 몸의 형태가 함께 어떻게 변하는지 관찰해 보자.",
     "category": "이동",
     "file": "An-Excitable-Cortex-and-Memory-Model-Successfully-Predicts-New-Pseudopod-Dynamics-pone.0033528.s003.ogv",
     "subjects": [
@@ -1503,7 +1503,7 @@
     "id": "dicty-phagosome",
     "title": "아메바가 먹이를 감싸며 포식한다",
     "summary": "딕티오스텔리움의 식세포작용과 관련된 세포막 형태 변화를 관찰한다.",
-    "detail": "딕티오스텔리움의 식세포작용과 관련된 세포막 형태 변화를 관찰한다.",
+    "detail": "세포 수준의 포식에서는 몸의 형태나 표면 구조가 먹이를 붙잡는 데 중요한 역할을 할 수 있다. 먹이가 포식자와 접촉하기 전후 장면을 비교하며 관찰해 보자.",
     "category": "포식",
     "file": "Curvature-recognition-and-force-generation-in-phagocytosis-1741-7007-8-154-S1.ogv",
     "subjects": [
@@ -1517,7 +1517,7 @@
     "id": "dicty-cytokinesis",
     "title": "아메바의 세포질이 두 부분으로 갈라진다",
     "summary": "딕티오스텔리움 세포질 분열 중 분열구가 형성되는 모습이다.",
-    "detail": "딕티오스텔리움 세포질 분열 중 분열구가 형성되는 모습이다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "Deconvolution-of-the-Cellular-Force-Generating-Subsystems-that-Govern-Cytokinesis-Furrow-Ingression-pcbi.1002467.s008.ogv",
     "subjects": [
@@ -1531,7 +1531,7 @@
     "id": "onion-mitosis",
     "title": "양파 세포에서 일어나는 유사분열",
     "summary": "양파 조직을 현미경으로 관찰한 실제 유사분열 촬영 자료다.",
-    "detail": "양파 조직을 현미경으로 관찰한 실제 유사분열 촬영 자료다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Video 20220223 125657.webm",
     "subjects": [
@@ -1545,7 +1545,7 @@
     "id": "fission-yeast-divide",
     "title": "분열효모가 핵을 분리하는 장면",
     "summary": "분열효모에서 방추체 미세소관이 없는 조건의 핵 분열을 관찰한다.",
-    "detail": "분열효모에서 방추체 미세소관이 없는 조건의 핵 분열을 관찰한다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "Fission-Yeast-Cells-Undergo-Nuclear-Division-in-the-Absence-of-Spindle-Microtubules-pbio.1000512.s005.ogv",
     "subjects": [
@@ -1559,7 +1559,7 @@
     "id": "ptk-mitosis",
     "title": "배양 동물 세포가 유사분열한다",
     "summary": "PtK 세포에서 유사분열과 관련된 세포의 형태 변화를 현미경으로 관찰한다.",
-    "detail": "PtK 세포에서 유사분열과 관련된 세포의 형태 변화를 현미경으로 관찰한다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Deciphering-protein-function-during-mitosis-in-PtK-cells-using-RNAi-1471-2121-7-26-S1.ogv",
     "subjects": [
@@ -1573,7 +1573,7 @@
     "id": "bacillus-spore",
     "title": "고초균의 포자 형성 과정을 살펴본다",
     "summary": "고초균의 포자 형성과 관련된 세포 형태 변화를 관찰한다.",
-    "detail": "고초균의 포자 형성과 관련된 세포 형태 변화를 관찰한다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "file": "A-Novel-Cell-Type-Enables-B.-subtilis-to-Escape-from-Unsuccessful-Sporulation-in-Minimal-Medium-Video1.ogv",
     "subjects": [
@@ -1587,7 +1587,7 @@
     "id": "mitosis-timelapse",
     "title": "세포가 분열하는 전체 과정을 관찰한다",
     "summary": "유사분열이 진행되는 세포의 형태와 위치 변화를 보여주는 현미경 영상이다.",
-    "detail": "유사분열이 진행되는 세포의 형태와 위치 변화를 보여주는 현미경 영상이다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "file": "Mitosis 480*360.theora.ogv",
     "subjects": [
@@ -1602,7 +1602,7 @@
     "file": "The-Toxoplasma-Acto-MyoA-Motor-Complex-Is-Important-but-Not-Essential-for-Gliding-Motility-and-Host-pone.0091819.s006.ogv",
     "title": "톡소포자충이 숙주 세포에 침입한다",
     "summary": "톡소포자충이 살아 있는 섬유아세포에 침입하는 과정을 실시간으로 관찰한다.",
-    "detail": "톡소포자충이 살아 있는 섬유아세포에 침입하는 과정을 실시간으로 관찰한다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "subjects": [
       "toxoplasma",
@@ -1617,7 +1617,7 @@
     "file": "The-Toxoplasma-Acto-MyoA-Motor-Complex-Is-Important-but-Not-Essential-for-Gliding-Motility-and-Host-pone.0091819.s008.ogv",
     "title": "운동 단백질 결핍 톡소포자충의 느린 침입",
     "summary": "MyoA 운동 단백질 결핍 조건에서 톡소포자충이 느리게 숙주 세포로 들어간다.",
-    "detail": "MyoA 운동 단백질 결핍 조건에서 톡소포자충이 느리게 숙주 세포로 들어간다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "subjects": [
       "toxoplasma",
@@ -1632,7 +1632,7 @@
     "file": "Toxoplasma-MIC2-Is-a-Major-Determinant-of-Invasion-and-Virulence-ppat.0020084.sv001.ogv",
     "title": "톡소포자충의 세포 침입 관련 운동",
     "summary": "톡소포자충의 침입 관련 MIC2 단백질을 연구한 현미경 영상이다.",
-    "detail": "톡소포자충의 침입 관련 MIC2 단백질을 연구한 현미경 영상이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "subjects": [
       "toxoplasma"
@@ -1646,7 +1646,7 @@
     "file": "Concerted-Action-of-Two-Formins-in-Gliding-Motility-and-Host-Cell-Invasion-by-Toxoplasma-gondii-ppat.1001132.s003.ogv",
     "title": "톡소포자충이 미끄러지듯 이동한다",
     "summary": "톡소포자충의 운동과 숙주 침입에 관여하는 포르민 단백질 관련 현미경 영상이다.",
-    "detail": "톡소포자충의 운동과 숙주 침입에 관여하는 포르민 단백질 관련 현미경 영상이다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "category": "이동",
     "subjects": [
       "toxoplasma"
@@ -1660,7 +1660,7 @@
     "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s002.ogv",
     "title": "대식세포가 살아 있는 칸디다를 삼킨다",
     "summary": "대식세포가 살아 있는 칸디다 알비칸스를 식세포작용으로 섭취한다.",
-    "detail": "대식세포가 살아 있는 칸디다 알비칸스를 식세포작용으로 섭취한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "subjects": [
       "macrophage",
@@ -1675,7 +1675,7 @@
     "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s003.ogv",
     "title": "대식세포가 칸디다를 추적한다",
     "summary": "대식세포가 칸디다 알비칸스에 접근하는 모습을 촬영했다.",
-    "detail": "대식세포가 칸디다 알비칸스에 접근하는 모습을 촬영했다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "subjects": [
       "macrophage",
@@ -1690,7 +1690,7 @@
     "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s004.ogv",
     "title": "대식세포 내부의 칸디다를 형광으로 추적한다",
     "summary": "형광 표지된 곰팡이와 대식세포 식포의 위치 관계를 관찰한다.",
-    "detail": "형광 표지된 곰팡이와 대식세포 식포의 위치 관계를 관찰한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "category": "면역",
     "subjects": [
       "macrophage",
@@ -1705,7 +1705,7 @@
     "file": "Hyphal-Growth-of-Phagocytosed-Fusarium-oxysporum-Causes-Cell-Lysis-and-Death-of-Murine-Macrophages-pone.0101999.s002.ogv",
     "title": "삼켜진 푸사리움이 대식세포를 파괴한다",
     "summary": "대식세포에 포식된 곰팡이가 균사를 뻗어 세포를 파괴한다.",
-    "detail": "대식세포에 포식된 곰팡이가 균사를 뻗어 세포를 파괴한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
     "category": "감염·기생",
     "subjects": [
       "macrophage",
@@ -1720,7 +1720,7 @@
     "file": "Exploitation-of-Other-Social-Amoebae-by-Dictyostelium-caveatum-pone.0000212.s007.ogv",
     "title": "다른 사회성 아메바를 이용하는 딕티오스텔리움",
     "summary": "D. caveatum과 D. discoideum의 상호작용으로 아메바 응집 집단에서 변화가 나타난다.",
-    "detail": "D. caveatum과 D. discoideum의 상호작용으로 아메바 응집 집단에서 변화가 나타난다.",
+    "detail": "생물 간 경쟁은 먹이, 공간 또는 자원 이용을 둘러싸고 나타날 수 있다. 한 종만 있을 때와 다른 종과 함께 있을 때의 개체 분포나 행동을 비교하면 좋다.",
     "category": "경쟁",
     "subjects": [
       "dicty-caveatum",
@@ -1735,7 +1735,7 @@
     "file": "Exploitation-of-Other-Social-Amoebae-by-Dictyostelium-caveatum-pone.0000212.s009.ogv",
     "title": "사회성 아메바 집단의 분화가 시작된다",
     "summary": "사회성 아메바 집단이 모인 뒤 포자·줄기 세포 분화가 시작되는 모습이다.",
-    "detail": "사회성 아메바 집단이 모인 뒤 포자·줄기 세포 분화가 시작되는 모습이다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "category": "집단행동",
     "subjects": [
       "dicty-caveatum",
@@ -1750,7 +1750,7 @@
     "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s008.ogv",
     "title": "화학 신호의 흐름이 사라진 아메바 집단",
     "summary": "특정 유전자 결핍 조건에서 주기적 화학 신호와 응집 흐름이 나타나지 않는 모습이다.",
-    "detail": "특정 유전자 결핍 조건에서 주기적 화학 신호와 응집 흐름이 나타나지 않는 모습이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "subjects": [
       "dictyostelium"
@@ -1764,7 +1764,7 @@
     "file": "On-the-effects-of-cycloheximide-on-cell-motility-and-polarisation-in-Dictyostelium-discoideum-1471-2121-7-5-S2.ogv",
     "title": "미세관의 화학 신호에 반응하는 아메바",
     "summary": "딕티오스텔리움이 cAMP 신호에 반응하는 실험이다.",
-    "detail": "딕티오스텔리움이 cAMP 신호에 반응하는 실험이다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "category": "환경 반응",
     "subjects": [
       "dictyostelium"
@@ -1778,7 +1778,7 @@
     "file": "The-Mechanistic-Basis-of-Myxococcus-xanthus-Rippling-Behavior-and-Its-Physiological-Role-during-pcbi.1002715.s017.ogv",
     "title": "점액세균 군집에 물결무늬가 생긴다",
     "summary": "점액세균의 리플링 집단 행동과 포식의 관계를 연구한 영상이다.",
-    "detail": "점액세균의 리플링 집단 행동과 포식의 관계를 연구한 영상이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "category": "집단행동",
     "subjects": [
       "myxococcus"
@@ -1792,7 +1792,7 @@
     "file": "Biofilm-Induced-Tolerance-towards-Antimicrobial-Peptides-pone.0001891.s001.ogv",
     "title": "항균 물질을 처리한 세균 생물막의 변화",
     "summary": "성숙한 생물막에 항균 펩타이드를 처리한 뒤 세포의 생존 상태를 추적한다.",
-    "detail": "성숙한 생물막에 항균 펩타이드를 처리한 뒤 세포의 생존 상태를 추적한다.",
+    "detail": "방어 반응은 자극을 감지한 뒤 손상을 줄이기 위한 여러 세포 및 생리 과정과 관련된다. 처리 조건과 대조 조건이 있다면 변화를 구분해서 관찰해 보자.",
     "category": "방어",
     "subjects": [
       "bacteria"
@@ -1806,7 +1806,7 @@
     "file": "Fission-Yeast-Cells-Undergo-Nuclear-Division-in-the-Absence-of-Spindle-Microtubules-pbio.1000512.s007.ogv",
     "title": "분열효모의 핵 분열 과정",
     "summary": "분열효모의 핵 분열과 세포 내부 구조를 현미경으로 관찰한다.",
-    "detail": "분열효모의 핵 분열과 세포 내부 구조를 현미경으로 관찰한다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "category": "번식",
     "subjects": [
       "fission-yeast"
@@ -1820,7 +1820,7 @@
     "file": "Mitosis drosophila larva.ogv",
     "title": "초파리 유충에서 일어나는 세포 분열",
     "summary": "초파리 유충에서 세포 유사분열을 관찰한 현미경 영상이다.",
-    "detail": "초파리 유충에서 세포 유사분열을 관찰한 현미경 영상이다.",
+    "detail": "무성생식과 세포 분열은 종마다 진행 방식이 다르며, 핵의 분열과 세포질 분열이 구분되기도 한다. 영상에서는 분열 전후 세포의 형태를 살펴보면 좋다.",
     "category": "번식",
     "subjects": [
       "drosophila"
@@ -1834,7 +1834,7 @@
     "file": "Host-Cell-Entry-of-Respiratory-Syncytial-Virus-Involves-Macropinocytosis-Followed-by-Proteolytic-ppat.1003309.s005.ogv",
     "title": "호흡기세포융합바이러스의 세포 진입",
     "summary": "바이러스 감염 과정에 관여하는 세포 내부 유입 현상을 연구한 영상이다.",
-    "detail": "바이러스 감염 과정에 관여하는 세포 내부 유입 현상을 연구한 영상이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
     "category": "감염·기생",
     "subjects": [
       "rsv-virus",
@@ -1849,7 +1849,7 @@
     "file": "Inflammatory-Stimuli-Reprogram-Macrophage-Phagocytosis-to-Macropinocytosis-for-the-Rapid-ppat.1003879.s010.ogv",
     "title": "염증 자극을 받은 대식세포의 섭취 방식 변화",
     "summary": "대식세포의 거대음세포작용과 관련된 섭취 반응을 관찰한다.",
-    "detail": "대식세포의 거대음세포작용과 관련된 섭취 반응을 관찰한다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "category": "면역",
     "subjects": [
       "macrophage"
@@ -1863,7 +1863,7 @@
     "file": "Activated-Membrane-Patches-Guide-Chemotactic-Cell-Motility-pcbi.1002044.s011.ogv",
     "title": "아메바 세포막에서 이동 방향이 만들어진다",
     "summary": "사회성 아메바의 세포막 활성 영역과 극성 형성을 관찰한다.",
-    "detail": "사회성 아메바의 세포막 활성 영역과 극성 형성을 관찰한다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "category": "환경 반응",
     "subjects": [
       "dictyostelium"
@@ -1882,7 +1882,7 @@
       "green-algae"
     ],
     "summary": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
-    "detail": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
+    "detail": "세포 수준의 포식에서는 몸의 형태나 표면 구조가 먹이를 붙잡는 데 중요한 역할을 할 수 있다. 먹이가 포식자와 접촉하기 전후 장면을 비교하며 관찰해 보자.",
     "creator": "Andrei Savitsky",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -1897,7 +1897,7 @@
       "mayorella"
     ],
     "summary": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
-    "detail": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
+    "detail": "포식은 다른 생물을 먹이로 삼는 상호작용으로, 접근과 접촉 및 섭취의 단계를 구분해 볼 수 있다. 영상에서 포식자와 먹이의 위치가 어떻게 달라지는지 따라가면 현상을 이해하기 쉽다.",
     "creator": "Andrei Savitsky",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -1911,7 +1911,7 @@
       "collotheca"
     ],
     "summary": "Collotheca 속 윤충의 먹이 섭취를 관찰한 현미경 영상이다.",
-    "detail": "Collotheca 속 윤충의 먹이 섭취를 관찰한 현미경 영상이다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "creator": "Brandon Seah",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -1925,7 +1925,7 @@
       "rotifer"
     ],
     "summary": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
-    "detail": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -1939,7 +1939,7 @@
       "rotifer"
     ],
     "summary": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
-    "detail": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -1954,7 +1954,7 @@
       "candida"
     ],
     "summary": "HVCN1 결손 호중구가 칸디다를 식세포작용으로 섭취하는 실험이다.",
-    "detail": "HVCN1 결손 호중구가 칸디다를 식세포작용으로 섭취하는 실험이다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -1969,7 +1969,7 @@
       "candida"
     ],
     "summary": "호중구가 방출한 칸디다를 인접한 호중구가 다시 포식한다.",
-    "detail": "호중구가 방출한 칸디다를 인접한 호중구가 다시 포식한다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -1984,7 +1984,7 @@
       "candida"
     ],
     "summary": "사람 호중구가 칸디다를 포식하는 도중 DPI를 처리한 현미경 타임랩스다.",
-    "detail": "사람 호중구가 칸디다를 포식하는 도중 DPI를 처리한 현미경 타임랩스다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -2000,7 +2000,7 @@
       "aspergillus"
     ],
     "summary": "콜라겐 환경에서 호중구가 아스페르길루스 포자보다 칸디다 효모를 선택적으로 섭취한다.",
-    "detail": "콜라겐 환경에서 호중구가 아스페르길루스 포자보다 칸디다 효모를 선택적으로 섭취한다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
@@ -2014,7 +2014,7 @@
       "myxococcus"
     ],
     "summary": "점액세균의 리플링 집단행동과 포식의 관계를 연구한 영상이다.",
-    "detail": "점액세균의 리플링 집단행동과 포식의 관계를 연구한 영상이다.",
+    "detail": "집단행동에서는 개체 하나의 움직임보다 여러 세포가 만들어 내는 전체적인 패턴이 중요하다. 같은 방향으로 움직이거나 서로 모이는 영역이 어떻게 변하는지 살펴보면 좋다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
@@ -2028,7 +2028,7 @@
       "h-pylori"
     ],
     "summary": "형광 표지된 헬리코박터 파일로리의 움직임을 공초점 현미경으로 관찰한다.",
-    "detail": "형광 표지된 헬리코박터 파일로리의 움직임을 공초점 현미경으로 관찰한다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -2042,7 +2042,7 @@
       "h-pylori"
     ],
     "summary": "위 조직 손상 부위에 대한 헬리코박터의 이동과 집락 형성을 연구한 영상이다.",
-    "detail": "위 조직 손상 부위에 대한 헬리코박터의 이동과 집락 형성을 연구한 영상이다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -2056,7 +2056,7 @@
       "e-coli"
     ],
     "summary": "대장균의 텀블링과 화학주성을 비교하는 현미경 자료다.",
-    "detail": "대장균의 텀블링과 화학주성을 비교하는 현미경 자료다.",
+    "detail": "현미경으로 보는 이동은 실제 크기가 매우 작은 대상의 운동을 확대해 보여준다. 이동 속도뿐 아니라 경로가 직선인지 굽어지는지에도 주목해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
@@ -2070,7 +2070,7 @@
       "animal-cell"
     ],
     "summary": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
-    "detail": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -2084,7 +2084,7 @@
       "rpe-cell"
     ],
     "summary": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
-    "detail": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
+    "detail": "환경 반응에는 이동 방향 변화뿐 아니라 세포 내부 물의 조절과 형태 변화도 포함될 수 있다. 화면에서 변화가 시작되는 시점과 이후 모습을 구분해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
@@ -2098,7 +2098,7 @@
       "ptk-cell"
     ],
     "summary": "PtK 배양 세포에 RNA 간섭을 적용했을 때 유사분열이 변하는 모습을 관찰한다.",
-    "detail": "PtK 배양 세포에 RNA 간섭을 적용했을 때 유사분열이 변하는 모습을 관찰한다.",
+    "detail": "세포가 분열하는 동안 세포질이나 핵의 형태가 단계적으로 바뀔 수 있다. 영상에서 하나의 세포가 두 부분으로 구분되는 순서와 걸리는 시간을 비교해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
@@ -2113,7 +2113,7 @@
       "tumor-cell"
     ],
     "summary": "대식세포 식세포작용을 관찰한 항체 처리 비교 연구의 대조군 영상이다.",
-    "detail": "대식세포 식세포작용을 관찰한 항체 처리 비교 연구의 대조군 영상이다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
@@ -2127,7 +2127,7 @@
       "bacteria"
     ],
     "summary": "세균이 미세유체 장치 안에서 변화하는 모습을 실시간으로 관찰한다.",
-    "detail": "세균이 미세유체 장치 안에서 변화하는 모습을 실시간으로 관찰한다.",
+    "detail": "같은 물방울 안에서도 서로 다른 생물이 주변 환경과 다양한 방식으로 상호작용한다. 영상에서는 대상의 형태와 주변 구조를 함께 살펴보면 좋다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
@@ -2141,7 +2141,7 @@
       "cellulophaga"
     ],
     "summary": "셀룰로파가 세균 집락의 구조색과 무지갯빛 광학 현상을 관찰한다.",
-    "detail": "셀룰로파가 세균 집락의 구조색과 무지갯빛 광학 현상을 관찰한다.",
+    "detail": "특정 장면을 관찰했다고 해서 그 개체의 종이나 상호작용의 성격을 반드시 확정할 수 있는 것은 아니다. 확인 가능한 움직임과 형태를 중심으로 관찰해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
@@ -2155,7 +2155,7 @@
       "dictyostelium"
     ],
     "summary": "cAMP를 채운 미세관으로 자극한 아메바의 이동을 관찰한다.",
-    "detail": "cAMP를 채운 미세관으로 자극한 아메바의 이동을 관찰한다.",
+    "detail": "미생물과 세포는 물리적 자극이나 화학적 환경에 따라 움직임과 형태가 달라질 수 있다. 자극이 가해진 위치와 개체가 반응하는 방향을 비교하면 이해하기 쉽다.",
     "creator": "논문 원저자 · Wikimedia Commons",
     "license": "CC BY 2.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
@@ -2169,8 +2169,393 @@
       "myxococcus"
     ],
     "summary": "점액세균의 반복적인 리플링 군집 운동을 관찰한다.",
-    "detail": "점액세균의 반복적인 리플링 군집 운동을 관찰한다.",
+    "detail": "미생물 집단의 운동과 군집 형성은 세포 사이의 접촉이나 주변 환경의 영향을 받을 수 있다. 영상의 시작과 끝에서 개체의 분포와 무리의 형태를 비교해 보자.",
     "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "ciliates-carcass",
+    "file": "Ciliates feeding on insect carcass DSC 2327.webm",
+    "title": "곤충 사체에 모여든 섬모충",
+    "category": "먹이 섭취",
+    "subjects": [
+      "ciliate",
+      "insect-larva"
+    ],
+    "summary": "곤충 사체 주변에서 활동하며 먹이를 섭취하는 섬모충들을 관찰한다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "heliozoan-prey",
+    "file": "Heliozoan feeding DSC 1665.webm",
+    "title": "태양충이 가시처럼 뻗은 위족으로 먹이를 잡는다",
+    "category": "포식",
+    "subjects": [
+      "heliozoan"
+    ],
+    "summary": "방사형 위족을 가진 태양충이 먹이를 섭취하는 실제 현미경 영상이다.",
+    "detail": "세포 수준의 포식에서는 몸의 형태나 표면 구조가 먹이를 붙잡는 데 중요한 역할을 할 수 있다. 먹이가 포식자와 접촉하기 전후 장면을 비교하며 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "coleps-eat",
+    "file": "Coleps feeding DSC 1562.webm",
+    "title": "콜렙스 섬모충이 먹이를 삼킨다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "coleps"
+    ],
+    "summary": "콜렙스 속 섬모충의 먹이 섭취 행동을 현미경으로 촬영했다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "larva-eat",
+    "file": "Larva eating DSC 1075.webm",
+    "title": "작은 곤충 유충이 유기물 조각을 먹는다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "insect-larva"
+    ],
+    "summary": "미세한 곤충 유충이 유기물 잔해를 섭취하는 모습이다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "nematode-eats-fungus",
+    "file": "Aphelenchoides feeding in fungal synnemata.ogv",
+    "title": "작은 선충이 곰팡이 조직을 찔러 먹는다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "aphelenchoides",
+      "fungal-hypha"
+    ],
+    "summary": "Aphelenchoides 선충이 구침을 이용해 균류 조직에서 먹이를 섭취한다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC0 1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/"
+  },
+  {
+    "id": "nematode-fungus-1",
+    "file": "Fungivorous nematodes.ogv",
+    "title": "곰팡이를 먹는 선충들의 움직임",
+    "category": "먹이 섭취",
+    "subjects": [
+      "nematode",
+      "fungal-hypha"
+    ],
+    "summary": "곰팡이를 먹는 선충을 관찰한 실제 현미경 자료다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "nematode-fungus-2",
+    "file": "Fungivorous nematodes (02).ogv",
+    "title": "곰팡이 주변을 탐색하는 선충",
+    "category": "먹이 섭취",
+    "subjects": [
+      "nematode",
+      "fungal-hypha"
+    ],
+    "summary": "균류를 먹는 선충이 곰팡이 조직 주변에서 움직인다.",
+    "detail": "미생물과 미소동물은 섬모, 위족 또는 입 주변 구조를 이용해 먹이를 모으기도 한다. 화면에서 먹이 입자의 이동 방향과 섭식 구조의 움직임을 함께 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "rotifer-extra",
+    "file": "Feeding rotifer.ogv",
+    "title": "윤충이 섬모로 먹이를 끌어모은다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "rotifer"
+    ],
+    "summary": "윤충이 섬모 운동으로 먹이 입자가 이동하는 물의 흐름을 만든다.",
+    "detail": "먹이 섭취는 주변 물질을 단순히 접촉하는 것과 실제로 세포 안이나 소화기관으로 들이는 것이 다르다. 영상에 나타나는 먹이의 이동과 개체의 반응을 주목해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-early",
+    "file": "Lipid-Droplet-Formation-Their-Localization-and-Dynamics-during-Leishmania-major-Macrophage-Infection-pone.0148640.s007.ogv",
+    "title": "리슈만편모충 감염 초기의 대식세포 변화",
+    "category": "감염·기생",
+    "subjects": [
+      "leishmania-major",
+      "macrophage"
+    ],
+    "summary": "감염 초기의 대식세포와 리슈만편모충의 상호작용을 타임랩스로 관찰했다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-late",
+    "file": "Lipid-Droplet-Formation-Their-Localization-and-Dynamics-during-Leishmania-major-Macrophage-Infection-pone.0148640.s008.ogv",
+    "title": "리슈만편모충 감염 24시간 뒤",
+    "category": "감염·기생",
+    "subjects": [
+      "leishmania-major",
+      "macrophage"
+    ],
+    "summary": "리슈만편모충에 감염된 대식세포의 상태를 24시간 뒤 공초점 현미경으로 관찰한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-divide",
+    "file": "The-Diverse-and-Dynamic-Nature-of-Leishmania-Parasitophorous-Vacuoles-Studied-by-Multidimensional-pntd.0001518.s005.ogv",
+    "title": "대식세포 안에서 분열하는 리슈만편모충",
+    "category": "감염·기생",
+    "subjects": [
+      "leishmania-major",
+      "macrophage"
+    ],
+    "summary": "대식세포의 기생액포 안에서 기생충이 증식하는 장면을 형광으로 촬영했다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-divide-2",
+    "file": "The-Diverse-and-Dynamic-Nature-of-Leishmania-Parasitophorous-Vacuoles-Studied-by-Multidimensional-pntd.0001518.s007.ogv",
+    "title": "형광으로 관찰한 기생충의 세포 내부 분열",
+    "category": "감염·기생",
+    "subjects": [
+      "leishmania-major",
+      "macrophage"
+    ],
+    "summary": "대식세포 안의 리슈만편모충과 주변 세포 소기관을 서로 다른 형광으로 구분해 관찰한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-immunity",
+    "file": "Innate-Killing-of-Leishmania-donovani-by-Macrophages-of-the-Splenic-Marginal-Zone-Requires-IRF-7-ppat.1000813.s011.ogv",
+    "title": "리슈만편모충 감염에 맞서는 대식세포",
+    "category": "면역",
+    "subjects": [
+      "leishmania-donovani",
+      "macrophage"
+    ],
+    "summary": "리슈만편모충 감염에 반응하는 대식세포를 관찰한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leish-signals",
+    "file": "Innate-Killing-of-Leishmania-donovani-by-Macrophages-of-the-Splenic-Marginal-Zone-Requires-IRF-7-ppat.1000813.s012.ogv",
+    "title": "감염된 대식세포 안에 면역 신호가 모인다",
+    "category": "면역",
+    "subjects": [
+      "leishmania-donovani",
+      "macrophage"
+    ],
+    "summary": "리슈만편모충에 감염된 세포에서 IRF-7과 관련 신호 단백질의 위치를 형광으로 추적했다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-apoptotic",
+    "file": "Discovering-Molecules-That-Regulate-Efferocytosis-Using-Primary-Human-Macrophages-and-High-Content-pone.0145078.s005.ogv",
+    "title": "대식세포가 죽어가는 세포 두 개를 연속으로 삼킨다",
+    "category": "면역",
+    "subjects": [
+      "macrophage",
+      "jurkat-cell",
+      "apoptotic-cell"
+    ],
+    "summary": "중앙에 있는 대식세포가 세포자멸사를 겪는 유르카트 세포 두 개를 차례로 포식하는 30분 타임랩스다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "astrocyte-debris",
+    "file": "Engulfing-Astrocytes-Protect-Neurons-from-Contact-Induced-Apoptosis-following-Injury-pone.0033090.s005.ogv",
+    "title": "별아교세포가 죽은 세포 조각을 끌어당긴다",
+    "category": "면역",
+    "subjects": [
+      "astrocyte",
+      "apoptotic-cell"
+    ],
+    "summary": "손상 부위 근처 별아교세포가 세포 잔해를 자신의 세포체 쪽으로 가져오는 장면이다.",
+    "detail": "호중구와 대식세포처럼 서로 다른 면역세포는 주변 대상을 인식하고 포식하는 방식에 차이가 있다. 실험 영상에서는 세포와 표적이 만나는 순간을 중심으로 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "astrocyte-phagocytic",
+    "file": "Engulfing-Astrocytes-Protect-Neurons-from-Contact-Induced-Apoptosis-following-Injury-pone.0033090.s006.ogv",
+    "title": "별아교세포가 손상된 세포를 처리한다",
+    "category": "면역",
+    "subjects": [
+      "astrocyte",
+      "apoptotic-cell"
+    ],
+    "summary": "별아교세포가 손상된 세포와 상호작용하며 잔해를 제거하는 모습을 관찰한다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "chlamydia-inclusion",
+    "file": "Penicillin-Induced-Persistence-in-Chlamydia-trachomatis-High-Quality-Time-Lapse-Video-Analysis-of-pone.0007723.s002.ogv",
+    "title": "클라미디아 감염 뒤 세포 안에 봉입체가 자란다",
+    "category": "감염·기생",
+    "subjects": [
+      "chlamydia",
+      "hela-cell"
+    ],
+    "summary": "클라미디아 감염이 진행되면서 세포 안의 봉입체가 커지는 과정을 시간경과로 촬영했다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "chlamydia-drug",
+    "file": "Penicillin-Induced-Persistence-in-Chlamydia-trachomatis-High-Quality-Time-Lapse-Video-Analysis-of-pone.0007723.s003.ogv",
+    "title": "페니실린을 처리한 감염 세포에서 일어나는 변화",
+    "category": "감염·기생",
+    "subjects": [
+      "chlamydia",
+      "hela-cell"
+    ],
+    "summary": "페니실린이 존재하는 환경에서 클라미디아의 발달 주기를 추적한 영상이다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "chlamydia-recovery",
+    "file": "Penicillin-Induced-Persistence-in-Chlamydia-trachomatis-High-Quality-Time-Lapse-Video-Analysis-of-pone.0007723.s004.ogv",
+    "title": "페니실린 제거 뒤 클라미디아가 다시 변화한다",
+    "category": "감염·기생",
+    "subjects": [
+      "chlamydia",
+      "hela-cell"
+    ],
+    "summary": "감염 후 20시간에 페니실린을 제거하고 클라미디아의 이후 발달을 관찰했다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "helicobacter-colony",
+    "file": "Helicobacter-pylori-Usurps-Cell-Polarity-to-Turn-the-Cell-Surface-into-a-Replicative-Niche-ppat.1000407.s009.ogv",
+    "title": "헬리코박터균이 상피세포 위에 작은 군집을 만든다",
+    "category": "감염·기생",
+    "subjects": [
+      "h-pylori",
+      "epithelial-cell"
+    ],
+    "summary": "형광으로 표시한 헬리코박터 파일로리가 상피세포 접합부에서 미세 군집을 형성한다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "hiv-cells",
+    "file": "HIV-Cell-to-Cell-Spread-Results-in-Earlier-Onset-of-Viral-Gene-Expression-by-Multiple-Infections-ppat.1005964.s010.ogv",
+    "title": "HIV 감염으로 변하는 세포의 신호를 추적한다",
+    "category": "감염·기생",
+    "subjects": [
+      "hiv",
+      "jurkat-cell"
+    ],
+    "summary": "HIV에 감염된 배양 세포에서 시간에 따른 바이러스 유전자 발현의 변화를 관찰한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "chikungunya-1",
+    "file": "Real-Time-Whole-Body-Visualization-of-Chikungunya-Virus-Infection-and-Host-Interferon-Response-in-ppat.1003619.s001.ogv",
+    "title": "치쿤구니야 바이러스가 유충 몸속에서 퍼진다",
+    "category": "감염·기생",
+    "subjects": [
+      "chikungunya",
+      "insect-larva"
+    ],
+    "summary": "형광 표지된 치쿤구니야 바이러스의 유충 내 분포를 시간경과로 촬영했다.",
+    "detail": "감염 과정은 병원체의 숙주 접근, 진입, 세포 내부 이동 및 증식 등으로 나누어 이해할 수 있다. 형광 현미경으로 촬영한 경우 밝게 보이는 신호는 표지된 물질을 뜻하며 바이러스 입자 자체의 색은 아니다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "chikungunya-2",
+    "file": "Real-Time-Whole-Body-Visualization-of-Chikungunya-Virus-Infection-and-Host-Interferon-Response-in-ppat.1003619.s002.ogv",
+    "title": "치쿤구니야 바이러스 감염을 형광으로 추적한다",
+    "category": "감염·기생",
+    "subjects": [
+      "chikungunya",
+      "insect-larva"
+    ],
+    "summary": "치쿤구니야 바이러스 감염에 따른 유충 내부의 형광 신호를 추적한다.",
+    "detail": "숙주 세포에 들어간 병원체는 세포 내부 환경을 이용하거나 숙주의 방어 반응을 유도할 수 있다. 화면의 형광 신호나 세포 형태가 시간에 따라 변하는 부분을 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-latex",
+    "file": "ISG15-Regulates-Peritoneal-Macrophages-Functionality-against-Viral-Infection-ppat.1003632.s011.ogv",
+    "title": "대식세포가 형광 구슬을 삼키는 장면",
+    "category": "면역",
+    "subjects": [
+      "macrophage"
+    ],
+    "summary": "대식세포가 형광 표시한 라텍스 입자를 포식하는 실험 영상이다.",
+    "detail": "식세포작용은 면역세포가 외부 물질이나 다른 세포를 둘러싸 내부로 들이는 과정이다. 세포의 이동뿐 아니라 접촉 이후 먹이 입자가 어떻게 처리되는지 살펴보면 좋다.",
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "green-ciliate-2",
+    "file": "Two green ciliates DSC 1535.webm",
+    "title": "초록색 섬모충 두 개체를 가까이서 관찰한다",
+    "category": "생태 관찰",
+    "subjects": [
+      "two-green-ciliates"
+    ],
+    "summary": "녹색을 띤 섬모충 두 개체가 움직이는 모습을 관찰한다. 녹색의 원인이 공생 조류인지는 이 영상만으로 확정하지 않는다.",
+    "detail": "특정 장면을 관찰했다고 해서 그 개체의 종이나 상호작용의 성격을 반드시 확정할 수 있는 것은 아니다. 확인 가능한 움직임과 형태를 중심으로 관찰해 보자.",
+    "creator": "Wikimedia Commons 원본 제작자",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   }

@@ -542,5 +542,117 @@
     "group": "현미경 관찰 대상",
     "wikiTitle": "종양세포",
     "searchTerm": "종양세포"
+  },
+  {
+    "id": "heliozoan",
+    "name": "태양충",
+    "scientific": "Heliozoa",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "태양충",
+    "searchTerm": "태양충"
+  },
+  {
+    "id": "coleps",
+    "name": "콜렙스",
+    "scientific": "Coleps",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "콜렙스",
+    "searchTerm": "콜렙스"
+  },
+  {
+    "id": "insect-larva",
+    "name": "곤충 유충",
+    "scientific": "Insect larva",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "곤충 유충",
+    "searchTerm": "곤충 유충"
+  },
+  {
+    "id": "aphelenchoides",
+    "name": "아펠렌코이데스 선충",
+    "scientific": "Aphelenchoides",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "아펠렌코이데스 선충",
+    "searchTerm": "아펠렌코이데스 선충"
+  },
+  {
+    "id": "leishmania-major",
+    "name": "리슈만편모충 메이저",
+    "scientific": "Leishmania major",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "리슈만편모충 메이저",
+    "searchTerm": "리슈만편모충 메이저"
+  },
+  {
+    "id": "leishmania-donovani",
+    "name": "리슈만편모충 도노바니",
+    "scientific": "Leishmania donovani",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "리슈만편모충 도노바니",
+    "searchTerm": "리슈만편모충 도노바니"
+  },
+  {
+    "id": "chlamydia",
+    "name": "클라미디아 트라코마티스",
+    "scientific": "Chlamydia trachomatis",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "클라미디아 트라코마티스",
+    "searchTerm": "클라미디아 트라코마티스"
+  },
+  {
+    "id": "hiv",
+    "name": "인간면역결핍바이러스",
+    "scientific": "Human immunodeficiency virus",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "인간면역결핍바이러스",
+    "searchTerm": "인간면역결핍바이러스"
+  },
+  {
+    "id": "chikungunya",
+    "name": "치쿤구니야 바이러스",
+    "scientific": "Chikungunya virus",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "치쿤구니야 바이러스",
+    "searchTerm": "치쿤구니야 바이러스"
+  },
+  {
+    "id": "astrocyte",
+    "name": "별아교세포",
+    "scientific": "Astrocyte",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "별아교세포",
+    "searchTerm": "별아교세포"
+  },
+  {
+    "id": "apoptotic-cell",
+    "name": "세포자멸사 세포",
+    "scientific": "Apoptotic cell",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "세포자멸사 세포",
+    "searchTerm": "세포자멸사 세포"
+  },
+  {
+    "id": "jurkat-cell",
+    "name": "유르카트 세포",
+    "scientific": "Jurkat cell",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "유르카트 세포",
+    "searchTerm": "유르카트 세포"
+  },
+  {
+    "id": "fungal-hypha",
+    "name": "곰팡이 균사",
+    "scientific": "Fungal hyphae",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "곰팡이 균사",
+    "searchTerm": "곰팡이 균사"
+  },
+  {
+    "id": "two-green-ciliates",
+    "name": "녹색 섬모충",
+    "scientific": "Green ciliates",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "녹색 섬모충",
+    "searchTerm": "녹색 섬모충"
   }
 ]
