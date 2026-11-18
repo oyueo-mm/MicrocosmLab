@@ -3217,5 +3217,2405 @@
     "license": "CC BY-SA 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
     "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1hdp51h",
+    "title": "호중구의 운동",
+    "summary": "호중구과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "An-Actin-Based-Wave-Generator-Organizes-Cell-Motility-pbio.0050221.sv001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Marganski W, Wu L, Altschuler S, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1heek3q",
+    "title": "호중구의 운동 · 2",
+    "summary": "호중구과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "An-Actin-Based-Wave-Generator-Organizes-Cell-Motility-pbio.0050221.sv002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Marganski W, Wu L, Altschuler S, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1hf3z5z",
+    "title": "호중구의 운동 · 3",
+    "summary": "호중구과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "An-Actin-Based-Wave-Generator-Organizes-Cell-Motility-pbio.0050221.sv003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Marganski W, Wu L, Altschuler S, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1in73z3",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Analysis-of-Cells-Targeted-by-Salmonella-Type-III-Secretion-In-Vivo-ppat.0030196.sv001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Geddes K, Cruz F, Heffron F",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1inwj1c",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Analysis-of-Cells-Targeted-by-Salmonella-Type-III-Secretion-In-Vivo-ppat.0030196.sv002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Geddes K, Cruz F, Heffron F",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ioly3l",
+    "title": "호중구의 면역세포 반응 · 3",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Analysis-of-Cells-Targeted-by-Salmonella-Type-III-Secretion-In-Vivo-ppat.0030196.sv003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Geddes K, Cruz F, Heffron F",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1s72jiv",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Dendritic-Cells-Take-up-and-Present-Antigens-from-Viable-and-Apoptotic-Polymorphonuclear-Leukocytes-pone.0029300.s008.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Alfaro C, Suarez N, Oñate C, Perez-Gracia J, Martinez-Forero I, Hervas-Stubbs S, Rodriguez I, Perez G, Bolaños E, Palazon A, de Sanmamed M, Morales-Kastresana A, Gonzalez A, Melero",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-5kwz0",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Development-of-an-In-Vitro-Model-for-the-Multi-Parametric-Quantification-of-the-Cellular-pone.0032621.s010.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Dementhon K, El-Kirat-Chatel S, Noël T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-6ac19",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Development-of-an-In-Vitro-Model-for-the-Multi-Parametric-Quantification-of-the-Cellular-pone.0032621.s011.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Dementhon K, El-Kirat-Chatel S, Noël T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-6zr3i",
+    "title": "호중구의 면역세포 반응 · 3",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Development-of-an-In-Vitro-Model-for-the-Multi-Parametric-Quantification-of-the-Cellular-pone.0032621.s012.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Dementhon K, El-Kirat-Chatel S, Noël T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-112xibf",
+    "title": "호중구의 세포 이동",
+    "summary": "호중구과 관련된 세포 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Burn-Injury-Reduces-Neutrophil-Directional-Migration-Speed-in-Microfluidic-Devices-pone.0011921.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Butler K, Ambravaneswaran V, Agrawal N, Bilodeau M, Toner M, Tompkins R, Fagan S, Irimia D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-skwkrq",
+    "title": "호중구의 식세포작용",
+    "summary": "호중구과 관련된 식세포작용을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Anaplasma-phagocytophilum-Ats-1-Is-Imported-into-Host-Cell-Mitochondria-and-Interferes-with-ppat.1000774.s004.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Niu H, Kozjak-Pavlovic V, Rudel T, Rikihisa Y",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jbpgl0",
+    "title": "호중구의 식세포작용",
+    "summary": "호중구과 관련된 식세포작용을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Environmental-Dimensionality-Controls-the-Interaction-of-Phagocytes-with-the-Pathogenic-Fungi-ppat.0030013.sv001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Behnsen J, Narang P, Hasenberg M, Gunzer F, Bilitewski U, Klippel N, Rohde M, Brock M, Brakhage A, Gunzer M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jcevn9",
+    "title": "호중구의 식세포작용 · 2",
+    "summary": "호중구과 관련된 식세포작용을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Environmental-Dimensionality-Controls-the-Interaction-of-Phagocytes-with-the-Pathogenic-Fungi-ppat.0030013.sv002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Behnsen J, Narang P, Hasenberg M, Gunzer F, Bilitewski U, Klippel N, Rohde M, Brock M, Brakhage A, Gunzer M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jd4api",
+    "title": "호중구의 식세포작용 · 3",
+    "summary": "호중구과 관련된 식세포작용을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Environmental-Dimensionality-Controls-the-Interaction-of-Phagocytes-with-the-Pathogenic-Fungi-ppat.0030013.sv003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Behnsen J, Narang P, Hasenberg M, Gunzer F, Bilitewski U, Klippel N, Rohde M, Brock M, Brakhage A, Gunzer M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1f4z1qg",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1f5ogsp",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1f6dvuy",
+    "title": "호중구의 면역세포 반응 · 3",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Hem-1-Complexes-Are-Essential-for-Rac-Activation-Actin-Polymerization-and-Myosin-Regulation-during-pbio.0040038.sv003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Weiner O, Rentel M, Ott A, Brown G, Jedrychowski M, Yaffe M, Gygi S, Cantley L, Bourne H, Kirschner M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-4aigsq",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "ITAM-Signaling-by-Vav-Family-Rho-Guanine-Nucleotide-Exchange-Factors-Regulates-Interstitial-Transit-pone.0004652.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Graham D, Zinselmeyer B, Mascarenhas F, Delgado R, Miller M, Swat W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-4b7vuz",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "ITAM-Signaling-by-Vav-Family-Rho-Guanine-Nucleotide-Exchange-Factors-Regulates-Interstitial-Transit-pone.0004652.s002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Graham D, Zinselmeyer B, Mascarenhas F, Delgado R, Miller M, Swat W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1iwxeg1",
+    "title": "호중구의 감염 반응",
+    "summary": "호중구과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Kupffer-Cells-Hasten-Resolution-of-Liver-Immunopathology-in-Mouse-Models-of-Viral-Hepatitis-ppat.1002061.s009.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Sitia G, Iannacone M, Aiolfi R, Isogawa M, van Rooijen N, Scozzesi C, Bianchi M, von Andrian U, Chisari F, Guidotti L",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jdvfy1",
+    "title": "호중구의 감염 반응 · 2",
+    "summary": "호중구과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Kupffer-Cells-Hasten-Resolution-of-Liver-Immunopathology-in-Mouse-Models-of-Viral-Hepatitis-ppat.1002061.s010.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Sitia G, Iannacone M, Aiolfi R, Isogawa M, van Rooijen N, Scozzesi C, Bianchi M, von Andrian U, Chisari F, Guidotti L",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-mkqsb",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Inactivation-of-Staphylococcal-Phenol-Soluble-Modulins-by-Serum-Lipoprotein-Particles-ppat.1002606.s006.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Surewaard B, Nijland R, Spaan A, Kruijtzer J, de Haas C, van Strijp J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1g1z22",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "HSP90-Inhibition-Suppresses-Lipopolysaccharide-Induced-Lung-Inflammation-In-Vivo-pone.0114975.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Lilja A, Weeden C, McArthur K, Nguyen T, Donald A, Wong Z, Dousha L, Bozinovski S, Vlahos R, Burns C, Asselin-Labat M, Anderson G",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-unnq67",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Modulation-of-Neutrophil-Function-by-a-Secreted-Mucinase-of-Escherichia-coli-O157∶H7-ppat.1000320.s004.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Szabady R, Lokuta M, Walters K, Huttenlocher A, Welch R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-uod58g",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Modulation-of-Neutrophil-Function-by-a-Secreted-Mucinase-of-Escherichia-coli-O157∶H7-ppat.1000320.s005.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Szabady R, Lokuta M, Walters K, Huttenlocher A, Welch R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-up2kap",
+    "title": "호중구의 면역세포 반응 · 3",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Modulation-of-Neutrophil-Function-by-a-Secreted-Mucinase-of-Escherichia-coli-O157∶H7-ppat.1000320.s006.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Szabady R, Lokuta M, Walters K, Huttenlocher A, Welch R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jekv0a",
+    "title": "호중구의 감염 반응 · 3",
+    "summary": "호중구과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Kupffer-Cells-Hasten-Resolution-of-Liver-Immunopathology-in-Mouse-Models-of-Viral-Hepatitis-ppat.1002061.s011.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Sitia G, Iannacone M, Aiolfi R, Isogawa M, van Rooijen N, Scozzesi C, Bianchi M, von Andrian U, Chisari F, Guidotti L",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1vzdvny",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Ligation-of-Signal-Inhibitory-Receptor-on-Leukocytes-1-Suppresses-the-Release-of-Neutrophil-pone.0078459.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Van Avondt K, Fritsch-Stork R, Derksen R, Meyaard L",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1pf32gt",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Live-Imaging-and-Gene-Expression-Analysis-in-Zebrafish-Identifies-a-Link-between-Neutrophils-and-pone.0112183.s003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Freisinger C, Huttenlocher A",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1nwj2nz",
+    "title": "호중구의 세포 사멸",
+    "summary": "호중구과 관련된 세포 사멸을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Natural-Product-Celastrol-Destabilizes-Tubulin-Heterodimer-and-Facilitates-Mitotic-Cell-Death-pone.0010318.s009.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Jo H, Loison F, Hattori H, Silberstein L, Yu H, Luo H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1odh45z",
+    "title": "호중구의 세포 사멸 · 2",
+    "summary": "호중구과 관련된 세포 사멸을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Natural-Product-Celastrol-Destabilizes-Tubulin-Heterodimer-and-Facilitates-Mitotic-Cell-Death-pone.0010318.s010.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Jo H, Loison F, Hattori H, Silberstein L, Yu H, Luo H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1oe6j88",
+    "title": "호중구의 세포 사멸 · 3",
+    "summary": "호중구과 관련된 세포 사멸을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Natural-Product-Celastrol-Destabilizes-Tubulin-Heterodimer-and-Facilitates-Mitotic-Cell-Death-pone.0010318.s011.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Jo H, Loison F, Hattori H, Silberstein L, Yu H, Luo H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1u13ztj",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Monomeric-and-Dimeric-CXCL8-Are-Both-Essential-for-In-Vivo-Neutrophil-Recruitment-pone.0011754.s003.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Das S, Rajagopalan L, Guerrero-Plata A, Sai J, Richmond A, Garofalo R, Rajarathnam K",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1u1tevs",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Monomeric-and-Dimeric-CXCL8-Are-Both-Essential-for-In-Vivo-Neutrophil-Recruitment-pone.0011754.s004.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Das S, Rajagopalan L, Guerrero-Plata A, Sai J, Richmond A, Garofalo R, Rajarathnam K",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1a8yrph",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Molecular-and-Functional-Characterization-of-Hv1-Proton-Channel-in-Human-Granulocytes-pone.0014081.s004.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Petheő G, Orient A, Baráth M, Kovács I, Réthi B, Lányi Á, Rajki A, Rajnavölgyi É, Geiszt M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1a9o6rq",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Molecular-and-Functional-Characterization-of-Hv1-Proton-Channel-in-Human-Granulocytes-pone.0014081.s005.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Petheő G, Orient A, Baráth M, Kovács I, Réthi B, Lányi Á, Rajki A, Rajnavölgyi É, Geiszt M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-576q3z",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Persistent-Cell-Motion-in-the-Absence-of-External-Signals-A-Search-Strategy-for-Eukaryotic-Cells-pone.0002093.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Li L, Nørrelykke S, Cox E, Hatakeyama M",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-57w568",
+    "title": "호중구의 면역세포 반응 · 2",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Persistent-Cell-Motion-in-the-Absence-of-External-Signals-A-Search-Strategy-for-Eukaryotic-Cells-pone.0002093.s002.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Li L, Nørrelykke S, Cox E, Hatakeyama M",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jw3idf",
+    "title": "호중구의 면역세포 반응",
+    "summary": "호중구과 관련된 면역세포 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Neutrophils 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "면역",
+    "file": "Nucleobindin-Co-Localizes-and-Associates-with-Cyclooxygenase-(COX)-2-in-Human-Neutrophils-pone.0002229.s001.ogv",
+    "subjects": [
+      "neutrophil"
+    ],
+    "creator": "Leclerc P, Biarc J, St-Onge M, Gilbert C, Dussault A, Laflamme C, Pouliot M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-muz182",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s006.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H, Rust M, Chen C, van der Ende-Metselaar H, Wilschut J, Zhuang X, Smit J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-mvogab",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s007.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H, Rust M, Chen C, van der Ende-Metselaar H, Wilschut J, Zhuang X, Smit J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-mwdvck",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s008.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H, Rust M, Chen C, van der Ende-Metselaar H, Wilschut J, Zhuang X, Smit J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-160ug05",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "F11-Mediated-Inhibition-of-RhoA-Signalling-Enhances-the-Spread-of-Vaccinia-Virus-In-Vitro-and-In-pone.0008506.s003.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cordeiro J, Guerra S, Arakawa Y, Dodding M, Esteban M, Way M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-161jv2e",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "F11-Mediated-Inhibition-of-RhoA-Signalling-Enhances-the-Spread-of-Vaccinia-Virus-In-Vitro-and-In-pone.0008506.s004.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cordeiro J, Guerra S, Arakawa Y, Dodding M, Esteban M, Way M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1j21yz4",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "A36-dependent-Actin-Filament-Nucleation-Promotes-Release-of-Vaccinia-Virus-ppat.1003239.s001.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Horsington J, Lynn H, Turnbull L, Cheng D, Braet F, Diefenbach R, Whitchurch C, Karupiah G, Newsome T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1j2re1d",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "A36-dependent-Actin-Filament-Nucleation-Promotes-Release-of-Vaccinia-Virus-ppat.1003239.s002.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Horsington J, Lynn H, Turnbull L, Cheng D, Braet F, Diefenbach R, Whitchurch C, Karupiah G, Newsome T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1j3gt3m",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "A36-dependent-Actin-Filament-Nucleation-Promotes-Release-of-Vaccinia-Virus-ppat.1003239.s003.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Horsington J, Lynn H, Turnbull L, Cheng D, Braet F, Diefenbach R, Whitchurch C, Karupiah G, Newsome T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-ognznx",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Herpes-Simplex-Virus-Dances-with-Amyloid-Precursor-Protein-while-Exiting-the-Cell-pone.0017966.s010.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cheng S, Ferland P, Webster P, Bearer E",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-oi2tsf",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Herpes-Simplex-Virus-Dances-with-Amyloid-Precursor-Protein-while-Exiting-the-Cell-pone.0017966.s012.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cheng S, Ferland P, Webster P, Bearer E",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1629a4n",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "F11-Mediated-Inhibition-of-RhoA-Signalling-Enhances-the-Spread-of-Vaccinia-Virus-In-Vitro-and-In-pone.0008506.s005.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cordeiro J, Guerra S, Arakawa Y, Dodding M, Esteban M, Way M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-goc8jr",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Group-Selection-and-Contribution-of-Minority-Variants-during-Virus-Adaptation-Determines-Virus-ppat.1004838.s002.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Bordería A, Isakov O, Moratorio G, Henningsson R, Agüera-González S, Organtini L, Gnädig N, Blanc H, Alcover A, Hafenstein S, Fontes M, Shomron N, Vignuzzi M",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1aa4v9i",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Gene-Expression-Correlates-with-the-Number-of-Herpes-Viral-Genomes-Initiating-Infection-in-Single-ppat.1006082.s012.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cohen E, Kobiler O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1aauabr",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Gene-Expression-Correlates-with-the-Number-of-Herpes-Viral-Genomes-Initiating-Infection-in-Single-ppat.1006082.s013.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cohen E, Kobiler O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1abjpe0",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Gene-Expression-Correlates-with-the-Number-of-Herpes-Viral-Genomes-Initiating-Infection-in-Single-ppat.1006082.s014.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cohen E, Kobiler O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-xvrgb1",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Multiple-Phosphatidylinositol-3-Kinases-Regulate-Vaccinia-Virus-Morphogenesis-pone.0010884.s015.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "McNulty S, Bornmann W, Schriewer J, Werner C, Smith S, Olson V, Damon I, Buller R, Heuser J, Kalman D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-xwgvda",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Multiple-Phosphatidylinositol-3-Kinases-Regulate-Vaccinia-Virus-Morphogenesis-pone.0010884.s016.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "McNulty S, Bornmann W, Schriewer J, Werner C, Smith S, Olson V, Damon I, Buller R, Heuser J, Kalman D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-xx6afj",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Multiple-Phosphatidylinositol-3-Kinases-Regulate-Vaccinia-Virus-Morphogenesis-pone.0010884.s017.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "McNulty S, Bornmann W, Schriewer J, Werner C, Smith S, Olson V, Damon I, Buller R, Heuser J, Kalman D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-ois8uo",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Herpes-Simplex-Virus-Dances-with-Amyloid-Precursor-Protein-while-Exiting-the-Cell-pone.0017966.s013.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Cheng S, Ferland P, Webster P, Bearer E",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-b42352",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Nucleoporin-153-Arrests-the-Nuclear-Import-of-Hepatitis-B-Virus-Capsids-in-the-Nuclear-Basket-ppat.1000741.s004.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Schmitz A, Schwarz A, Foss M, Zhou L, Rabe B, Hoellenriegel J, Stoeber M, Panté N, Kann M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1fx60qd",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Trafficking-of-Sendai-Virus-Nucleocapsids-Is-Mediated-by-Intracellular-Vesicles-pone.0010994.s001.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Chambers R, Takimoto T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1fxvfsm",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Trafficking-of-Sendai-Virus-Nucleocapsids-Is-Mediated-by-Intracellular-Vesicles-pone.0010994.s002.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Chambers R, Takimoto T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1fykuuv",
+    "title": "바이러스 감염 세포의 감염 반응 · 3",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Trafficking-of-Sendai-Virus-Nucleocapsids-Is-Mediated-by-Intracellular-Vesicles-pone.0010994.s003.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Chambers R, Takimoto T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-19jemdi",
+    "title": "바이러스 감염 세포의 감염 반응",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "The-Human-Polyoma-JC-Virus-Agnoprotein-Acts-as-a-Viroporin-ppat.1000801.s008.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Suzuki T, Orba Y, Okada Y, Sunden Y, Kimura T, Tanaka S, Nagashima K, Hall W, Sawa H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-19k41fr",
+    "title": "바이러스 감염 세포의 감염 반응 · 2",
+    "summary": "바이러스 감염 세포과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of viral infections in HeLa cells 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "The-Human-Polyoma-JC-Virus-Agnoprotein-Acts-as-a-Viroporin-ppat.1000801.s009.ogv",
+    "subjects": [
+      "hela-cell"
+    ],
+    "creator": "Suzuki T, Orba Y, Okada Y, Sunden Y, Kimura T, Tanaka S, Nagashima K, Hall W, Sawa H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1bdwyqm",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodacoupled1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1bemdsv",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodacoupled2.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1q4n3fm",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodaspiralis100x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-a2yqo4",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodacircus100x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1pfqz7x",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Bigcolpoda100x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-7c5rc0",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodaspiralis1st.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-zxc3oy",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodaharrass400x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1rotyy0",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Blepharisma americana.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "Hernantoro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-18i96vf",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Firstappearncept1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-18iylxo",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Firstappearncept2.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-h122w5",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodaspiralis400x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-dtgsbj",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodatrio.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-56vswr",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Detailedcolpoda400x2.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-566dui",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Detailedcolpoda400x1.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-n5dl4b",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Colpodastuck.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "John Alan Elson",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1i1ndir",
+    "title": "섬모충의 현미경 관찰",
+    "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Frontonia vernalis.ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-go02qf",
+    "title": "섬모충의 세포 분열",
+    "summary": "섬모충과 관련된 세포 분열을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "번식",
+    "file": "Stylonychia growing a second mouth (stomatogenesis prior to division).ogv",
+    "subjects": [
+      "ciliate"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1r10att",
+    "title": "윤충의 현미경 관찰",
+    "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "먹이 섭취",
+    "file": "Rotifer video.ogv",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Ra'ike (see also: de:Benutzer:Ra'ike )",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1yojttc",
+    "title": "윤충의 먹이 섭취",
+    "summary": "윤충과 관련된 먹이 섭취을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "먹이 섭취",
+    "file": "Rotifera feeding and moving.ogv",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "NotFromUtrecht",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-puuoio",
+    "title": "윤충의 먹이 섭취",
+    "summary": "윤충과 관련된 먹이 섭취을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "먹이 섭취",
+    "file": "Movie of Rotifer, feeding (probably of the genus Cephalodella).theora.ogv",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Vincent van Zeijst",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1swu68p",
+    "title": "윤충의 현미경 관찰",
+    "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "먹이 섭취",
+    "file": "Floscularia ornata.ogv",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Kruczy89",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-13bozvu",
+    "title": "윤충의 현미경 관찰",
+    "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "먹이 섭취",
+    "file": "Rotifer entering inert state.ogg",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "NathanScientific",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-48rizz",
+    "title": "아메바의 운동",
+    "summary": "아메바과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Amoeba motility DIC.ogv",
+    "subjects": [
+      "amoeba"
+    ],
+    "creator": "Masur",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-ksp94j",
+    "title": "아메바의 운동",
+    "summary": "아메바과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Amoeba movement timelapse.ogv",
+    "subjects": [
+      "amoeba"
+    ],
+    "creator": "NotFromUtrecht",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-v4kvkf",
+    "title": "아메바의 운동",
+    "summary": "아메바과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Amoeba movement.ogv",
+    "subjects": [
+      "amoeba"
+    ],
+    "creator": "NotFromUtrecht",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-12wpst8",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Arrest-of-Cytoplasmic-Streaming-Induces-Algal-Proliferation-in-Green-Paramecia-pone.0001352.s002.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Takahashi T, Shirai Y, Kosaka T, Hosoya H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-12xf7vh",
+    "title": "짚신벌레의 현미경 관찰 · 2",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Arrest-of-Cytoplasmic-Streaming-Induces-Algal-Proliferation-in-Green-Paramecia-pone.0001352.s003.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Takahashi T, Shirai Y, Kosaka T, Hosoya H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-12y4mxq",
+    "title": "짚신벌레의 현미경 관찰 · 3",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Arrest-of-Cytoplasmic-Streaming-Induces-Algal-Proliferation-in-Green-Paramecia-pone.0001352.s004.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Takahashi T, Shirai Y, Kosaka T, Hosoya H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1582h8b",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Movies-of-cellular-and-sub-cellular-motion-by-digital-holographic-microscopy-1475-925X-5-21-S1.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Mann C, Yu L, Kim M",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-158rwak",
+    "title": "짚신벌레의 현미경 관찰 · 2",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Movies-of-cellular-and-sub-cellular-motion-by-digital-holographic-microscopy-1475-925X-5-21-S2.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Mann C, Yu L, Kim M",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-159hbct",
+    "title": "짚신벌레의 현미경 관찰 · 3",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Movies-of-cellular-and-sub-cellular-motion-by-digital-holographic-microscopy-1475-925X-5-21-S3.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Mann C, Yu L, Kim M",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-6159rw",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Paramecium bursaria.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-18uhvjb",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Paramecium putrinum.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1nk6ju9",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Paramecium Dividing.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ui47o8",
+    "title": "짚신벌레의 접합",
+    "summary": "짚신벌레과 관련된 접합을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Paramecium caudatum conjugation.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-18gqanh",
+    "title": "짚신벌레의 현미경 관찰",
+    "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "생태 관찰",
+    "file": "Paramecium recorded with Microbescope, 2014-10-14 es.ogv",
+    "subjects": [
+      "paramecium"
+    ],
+    "creator": "User:Ragesoss",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-141dywc",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "A-Quorum-Sensing-Factor-in-Vegetative-Dictyostelium-Discoideum-Cells-Revealed-by-Quantitative-pone.0026901.s009.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Golé L, Rivière C, Hayakawa Y, Rieu J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-14ic0ec",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "A-Quorum-Sensing-Factor-in-Vegetative-Dictyostelium-Discoideum-Cells-Revealed-by-Quantitative-pone.0026901.s010.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Golé L, Rivière C, Hayakawa Y, Rieu J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-3itdq1",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S1.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schaloske R, Lusche D, Bezares-Roder K, Happle K, Malchow D, Schlatterer C",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-3jissa",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S2.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schaloske R, Lusche D, Bezares-Roder K, Happle K, Malchow D, Schlatterer C",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ex2a2v",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Asymmetric-PTEN-Distribution-Regulated-by-Spatial-Heterogeneity-in-Membrane-Binding-State-pcbi.1002862.s008.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Matsuoka S, Shibata T, Ueda M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1exrp54",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Asymmetric-PTEN-Distribution-Regulated-by-Spatial-Heterogeneity-in-Membrane-Binding-State-pcbi.1002862.s009.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Matsuoka S, Shibata T, Ueda M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1fzuys4",
+    "title": "사회성 아메바의 감염 반응",
+    "summary": "사회성 아메바과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Activation-of-Ran-GTPase-by-a-Legionella-Effector-Promotes-Microtubule-Polymerization-Pathogen-ppat.1003598.s009.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Rothmeier E, Pfaffinger G, Hoffmann C, Harrison C, Grabmayr H, Repnik U, Hannemann M, Wolke S, Bausch A, Griffiths G, Muller-Taubenberger A, Itzen A, Hilbi H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ggt0a4",
+    "title": "사회성 아메바의 감염 반응 · 2",
+    "summary": "사회성 아메바과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Activation-of-Ran-GTPase-by-a-Legionella-Effector-Promotes-Microtubule-Polymerization-Pathogen-ppat.1003598.s010.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Rothmeier E, Pfaffinger G, Hoffmann C, Harrison C, Grabmayr H, Repnik U, Hannemann M, Wolke S, Bausch A, Griffiths G, Muller-Taubenberger A, Itzen A, Hilbi H",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-nw2n52",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s005.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Myre M, Lumsden A, Thompson M, Wasco W, MacDonald M, Gusella J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-nws27b",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s006.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Myre M, Lumsden A, Thompson M, Wasco W, MacDonald M, Gusella J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-nxhh9k",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s007.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Myre M, Lumsden A, Thompson M, Wasco W, MacDonald M, Gusella J",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1lkv99p",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "FYVE-Dependent-Endosomal-Targeting-of-an-Arrestin-Related-Protein-in-Amoeba-pone.0015249.s007.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Guetta D, Langou K, Grunwald D, Klein G, Aubry L",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-3k87uj",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S3.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schaloske R, Lusche D, Bezares-Roder K, Happle K, Malchow D, Schlatterer C",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-z4wyyj",
+    "title": "사회성 아메바의 세포 이동",
+    "summary": "사회성 아메바과 관련된 세포 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Chemotaxis-of-Dictyostelium-discoideum-Collective-Oscillation-of-Cellular-Contacts-pone.0054172.s010.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schäfer E, Tarantola M, Polo E, Westendorf C, Oikawa N, Bodenschatz E, Geil B, Janshoff A",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-e094nk",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Innate-Non-Specific-Cell-Substratum-Adhesion-pone.0042033.s001.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Loomis W, Fuller D, Gutierrez E, Groisman A, Rappel W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-e0yjpt",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Innate-Non-Specific-Cell-Substratum-Adhesion-pone.0042033.s002.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Loomis W, Fuller D, Gutierrez E, Groisman A, Rappel W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-jtexn6",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S1.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schimmel B, Berbusse G, Naylor K",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-ju4cpf",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S2.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schimmel B, Berbusse G, Naylor K",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-jutrro",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S3.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Schimmel B, Berbusse G, Naylor K",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jvfxhm",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s003.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Lima W, Vinet A, Pieters J, Cosson P",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1mu80c6",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s006.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Uyeda T, Iwadate Y, Umeki N, Nagasaki A, Yumura S",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1muxfef",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s007.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Uyeda T, Iwadate Y, Umeki N, Nagasaki A, Yumura S",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1mvmugo",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s008.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Uyeda T, Iwadate Y, Umeki N, Nagasaki A, Yumura S",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jw5cjv",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s004.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Lima W, Vinet A, Pieters J, Cosson P",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1jwurm4",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s005.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Lima W, Vinet A, Pieters J, Cosson P",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-191kjfi",
+    "title": "사회성 아메바의 군집 행동",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S2.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Noratel E, Petty C, Kelsey J, Cost H, Basappa N, Blumberg D",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-192zdk0",
+    "title": "사회성 아메바의 군집 행동 · 2",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S4.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Noratel E, Petty C, Kelsey J, Cost H, Basappa N, Blumberg D",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-195t1t0",
+    "title": "사회성 아메바의 군집 행동 · 3",
+    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S8.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Noratel E, Petty C, Kelsey J, Cost H, Basappa N, Blumberg D",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-ugp4kg",
+    "title": "점액세균의 군집 행동",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s014.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Pathak D, Wei X, Bucuvalas A, Haft D, Gerloff D, Wall D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-uhejmp",
+    "title": "점액세균의 군집 행동 · 2",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s015.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Pathak D, Wei X, Bucuvalas A, Haft D, Gerloff D, Wall D",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-avvkmp",
+    "title": "점액세균의 집단 이동",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S3.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Fremgen S, Burke N, Hartzell P",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-awkzoy",
+    "title": "점액세균의 집단 이동 · 2",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S4.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Fremgen S, Burke N, Hartzell P",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1wf0lr9",
+    "title": "점액세균의 세포 분열",
+    "summary": "점액세균과 관련된 세포 분열을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "번식",
+    "file": "A-Versatile-Class-of-Cell-Surface-Directional-Motors-Gives-Rise-to-Gliding-Motility-and-Sporulation-pbio.1001728.s010.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Wartel M, Ducret A, Thutupalli S, Czerwinski F, Le Gall A, Mauriello E, Bergam P, Brun Y, Shaevitz J, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1wfq0ti",
+    "title": "점액세균의 세포 분열 · 2",
+    "summary": "점액세균과 관련된 세포 분열을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "번식",
+    "file": "A-Versatile-Class-of-Cell-Surface-Directional-Motors-Gives-Rise-to-Gliding-Motility-and-Sporulation-pbio.1001728.s011.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Wartel M, Ducret A, Thutupalli S, Czerwinski F, Le Gall A, Mauriello E, Bergam P, Brun Y, Shaevitz J, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1wgffvr",
+    "title": "점액세균의 세포 분열 · 3",
+    "summary": "점액세균과 관련된 세포 분열을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "번식",
+    "file": "A-Versatile-Class-of-Cell-Surface-Directional-Motors-Gives-Rise-to-Gliding-Motility-and-Sporulation-pbio.1001728.s012.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Wartel M, Ducret A, Thutupalli S, Czerwinski F, Le Gall A, Mauriello E, Bergam P, Brun Y, Shaevitz J, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1oj6g73",
+    "title": "점액세균의 운동",
+    "summary": "점액세균과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Emergence-and-Modular-Evolution-of-a-Novel-Motility-Machinery-in-Bacteria-pgen.1002268.s016.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Luciano J, Agrebi R, Le Gall A, Wartel M, Fiegna F, Ducret A, Brochier-Armanet C, Mignot T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ojvv9c",
+    "title": "점액세균의 운동 · 2",
+    "summary": "점액세균과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Emergence-and-Modular-Evolution-of-a-Novel-Motility-Machinery-in-Bacteria-pgen.1002268.s017.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Luciano J, Agrebi R, Le Gall A, Wartel M, Fiegna F, Ducret A, Brochier-Armanet C, Mignot T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1uip6eb",
+    "title": "점액세균의 집단 이동",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s003.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Hu W, Hossain M, Lux R, Wang J, Yang Z, Li Y, Shi W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1ujelgk",
+    "title": "점액세균의 집단 이동 · 2",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s004.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Hu W, Hossain M, Lux R, Wang J, Yang Z, Li Y, Shi W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1uk40it",
+    "title": "점액세균의 집단 이동 · 3",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s005.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Hu W, Hossain M, Lux R, Wang J, Yang Z, Li Y, Shi W",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1r3m069",
+    "title": "점액세균의 군집 행동",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s010.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Guzzo M, Agrebi R, Espinosa L, Baronian G, Molle V, Mauriello E, Brochier-Armanet C, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1r4bf8i",
+    "title": "점액세균의 군집 행동 · 2",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s011.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Guzzo M, Agrebi R, Espinosa L, Baronian G, Molle V, Mauriello E, Brochier-Armanet C, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1r50uar",
+    "title": "점액세균의 군집 행동 · 3",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s012.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Guzzo M, Agrebi R, Espinosa L, Baronian G, Molle V, Mauriello E, Brochier-Armanet C, Mignot T",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-j0w8kn",
+    "title": "점액세균의 군집 행동",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Functional-Organization-of-a-Multimodular-Bacterial-Chemosensory-Apparatus-pgen.1004164.s012.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Moine A, Agrebi R, Espinosa L, Kirby J, Zusman D, Mignot T, Mauriello E",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-j1lnmw",
+    "title": "점액세균의 군집 행동 · 2",
+    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Functional-Organization-of-a-Multimodular-Bacterial-Chemosensory-Apparatus-pgen.1004164.s013.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Moine A, Agrebi R, Espinosa L, Kirby J, Zusman D, Mignot T, Mauriello E",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-11y7rl1",
+    "title": "점액세균의 집단 이동",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mechanism-for-Collective-Cell-Alignment-in-Myxococcus-xanthus-Bacteria-pcbi.1004474.s010.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-3wpivt",
+    "title": "점액세균의 운동",
+    "summary": "점액세균과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Myxococcus-xanthus-Gliding-Motors-Are-Elastically-Coupled-to-the-Substrate-as-Predicted-by-the-pcbi.1003619.s009.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Litwin D, Czerwinski F, Sun M, Kaplan H, Shaevitz J, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-4dnkdt",
+    "title": "점액세균의 운동 · 2",
+    "summary": "점액세균과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Myxococcus-xanthus-Gliding-Motors-Are-Elastically-Coupled-to-the-Substrate-as-Predicted-by-the-pcbi.1003619.s010.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Litwin D, Czerwinski F, Sun M, Kaplan H, Shaevitz J, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-4eczg2",
+    "title": "점액세균의 운동 · 3",
+    "summary": "점액세균과 관련된 운동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "이동",
+    "file": "Myxococcus-xanthus-Gliding-Motors-Are-Elastically-Coupled-to-the-Substrate-as-Predicted-by-the-pcbi.1003619.s011.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Litwin D, Czerwinski F, Sun M, Kaplan H, Shaevitz J, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1211fu1",
+    "title": "점액세균의 집단 이동 · 2",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mechanism-for-Collective-Cell-Alignment-in-Myxococcus-xanthus-Bacteria-pcbi.1004474.s014.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-121quwa",
+    "title": "점액세균의 집단 이동 · 3",
+    "summary": "점액세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Mechanism-for-Collective-Cell-Alignment-in-Myxococcus-xanthus-Bacteria-pcbi.1004474.s015.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Balagam R, Igoshin O",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1m7ut3k",
+    "title": "세균의 감염 반응",
+    "summary": "세균과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Coral-Pathogens-Identified-for-White-Syndrome-(WS)-Epizootics-in-the-Indo-Pacific-pone.0002393.s006.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Sussman M, Willis B, Victor S, Bourne D, Ahmed N",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-zu372f",
+    "title": "세균의 집단 이동",
+    "summary": "세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Collective-Motion-of-Spherical-Bacteria-pone.0083760.s003.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Rabani A, Ariel G, Be'er A",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-zusm4o",
+    "title": "세균의 집단 이동 · 2",
+    "summary": "세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Collective-Motion-of-Spherical-Bacteria-pone.0083760.s004.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Rabani A, Ariel G, Be'er A",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-zvi16x",
+    "title": "세균의 집단 이동 · 3",
+    "summary": "세균과 관련된 집단 이동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "Collective-Motion-of-Spherical-Bacteria-pone.0083760.s005.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Rabani A, Ariel G, Be'er A",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-1m8k85t",
+    "title": "세균의 감염 반응 · 2",
+    "summary": "세균과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Coral-Pathogens-Identified-for-White-Syndrome-(WS)-Epizootics-in-the-Indo-Pacific-pone.0002393.s007.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Sussman M, Willis B, Victor S, Bourne D, Ahmed N",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-13q1a7o",
+    "title": "세균의 군집 행동",
+    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "High-Resolution-In-Vivo-Bioluminescent-Imaging-for-the-Study-of-Bacterial-Tumour-Targeting-pone.0030940.s001.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Cronin M, Akin A, Collins S, Meganck J, Kim J, Baban C, Joyce S, van Dam G, Zhang N, van Sinderen D, O'Sullivan G, Kasahara N, Gahan C, Francis K, Tangney M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-13rg4c6",
+    "title": "세균의 군집 행동 · 2",
+    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "집단행동",
+    "file": "High-Resolution-In-Vivo-Bioluminescent-Imaging-for-the-Study-of-Bacterial-Tumour-Targeting-pone.0030940.s003.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Cronin M, Akin A, Collins S, Meganck J, Kim J, Baban C, Joyce S, van Dam G, Zhang N, van Sinderen D, O'Sullivan G, Kasahara N, Gahan C, Francis K, Tangney M",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "bulk-a4ttcs",
+    "title": "세균의 감염 반응",
+    "summary": "세균과 관련된 감염 반응을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
+    "category": "감염·기생",
+    "file": "Genomes-and-Virulence-Factors-of-Novel-Bacterial-Pathogens-Causing-Bleaching-Disease-in-the-Marine-pone.0027387.s009.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "Fernandes N, Case R, Longford S, Seyedsayamdost M, Steinberg P, Kjelleberg S, Thomas T",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
   }
 ]
