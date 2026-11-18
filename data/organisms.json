@@ -806,5 +806,93 @@
     "group": "나방",
     "wikiTitle": "Uraba lugens",
     "searchTerm": "Uraba lugens"
+  },
+  {
+    "id": "vampyrella",
+    "name": "뱀파이렐라",
+    "scientific": "Vampyrella",
+    "group": "포식성 아메바",
+    "wikiTitle": "Vampyrella",
+    "searchTerm": "Vampyrella"
+  },
+  {
+    "id": "suctorian",
+    "name": "흡관충",
+    "scientific": "Suctoria",
+    "group": "포식성 섬모충",
+    "wikiTitle": "Suctoria",
+    "searchTerm": "Suctoria"
+  },
+  {
+    "id": "ophryoglena",
+    "name": "오피로글레나",
+    "scientific": "Ophryoglena",
+    "group": "섬모충",
+    "wikiTitle": "Ophryoglena",
+    "searchTerm": "Ophryoglena"
+  },
+  {
+    "id": "killer-t-cell",
+    "name": "세포독성 T세포",
+    "scientific": "Cytotoxic T lymphocyte",
+    "group": "면역세포",
+    "wikiTitle": "Cytotoxic T lymphocyte",
+    "searchTerm": "Cytotoxic T lymphocyte"
+  },
+  {
+    "id": "cancer-cell",
+    "name": "암세포",
+    "scientific": "Cancer cell",
+    "group": "세포",
+    "wikiTitle": "Cancer cell",
+    "searchTerm": "Cancer cell"
+  },
+  {
+    "id": "arthrobotrys",
+    "name": "아르트로보트리스 곰팡이",
+    "scientific": "Arthrobotrys oligospora",
+    "group": "포식성 곰팡이",
+    "wikiTitle": "Arthrobotrys oligospora",
+    "searchTerm": "Arthrobotrys oligospora"
+  },
+  {
+    "id": "bursaria",
+    "name": "부르사리아",
+    "scientific": "Bursaria truncatella",
+    "group": "섬모충",
+    "wikiTitle": "Bursaria truncatella",
+    "searchTerm": "Bursaria truncatella"
+  },
+  {
+    "id": "chaetogaster",
+    "name": "케토가스터",
+    "scientific": "Chaetogaster",
+    "group": "수생 환형동물",
+    "wikiTitle": "Chaetogaster",
+    "searchTerm": "Chaetogaster"
+  },
+  {
+    "id": "cyphoderia",
+    "name": "시포데리아",
+    "scientific": "Cyphoderia",
+    "group": "유각아메바",
+    "wikiTitle": "Cyphoderia",
+    "searchTerm": "Cyphoderia"
+  },
+  {
+    "id": "ciliate-parasite",
+    "name": "기생성 섬모충",
+    "scientific": "Ciliophora",
+    "group": "기생 원생생물",
+    "wikiTitle": "Ciliophora",
+    "searchTerm": "Ciliophora"
+  },
+  {
+    "id": "virus-generic",
+    "name": "바이러스",
+    "scientific": "Virus",
+    "group": "바이러스",
+    "wikiTitle": "Virus",
+    "searchTerm": "Virus"
   }
 ]
