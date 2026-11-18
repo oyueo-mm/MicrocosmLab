@@ -886,7 +886,7 @@
     "subjects": [
       "dictyostelium"
     ],
-    "creator": "PLOS ONE 논문 연구진",
+    "creator": "McCann C · Rericha E · Wang C · Losert W · Parent C",
     "license": "CC0 1.0",
     "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
     "note": "표면 특성에 따른 세포 응집 실험"
@@ -937,14 +937,14 @@
   {
     "id": "nematode-electrotaxis",
     "title": "전기 자극에 반응해 움직이는 선충",
-    "summary": "예쁜꼬마선충을 대상으로 전기주성에 의한 이동 행동을 기록한 실험 영상이다.",
-    "detail": "예쁜꼬마선충을 대상으로 전기주성에 의한 이동 행동을 기록한 실험 영상이다.",
+    "summary": "예쁜꼬마선충이 전기장 속에서 몸을 굽혀 방향을 재설정한 뒤 이동을 이어가는 실험 장면이다.",
+    "detail": "예쁜꼬마선충이 전기장 속에서 몸을 굽혀 방향을 재설정한 뒤 이동을 이어가는 실험 장면이다.",
     "category": "환경 반응",
     "file": "Running-Worms-C.-elegans-Self-Sorting-by-Electrotaxis-pone.0016637.s002.ogv",
     "subjects": [
       "nematode"
     ],
-    "creator": "PLOS ONE 논문 연구진",
+    "creator": "Manière X · Lebois F · Matic I · Ladoux B · Di Meglio J · Hersen P",
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
