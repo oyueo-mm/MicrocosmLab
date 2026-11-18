@@ -1,0 +1,58 @@
+[
+  {
+    "id": "didinium-paramecium",
+    "title": "디디니움이 짚신벌레를 통째로 삼킨다",
+    "summary": "포식성 섬모충 Didinium이 Paramecium을 포획해 삼킨다.",
+    "category": "포식",
+    "url": "https://www.biophys.jp/video/detail_en.php?id=187",
+    "source": "일본생물물리학회 · Yoshiaki Iwadate"
+  },
+  {
+    "id": "trachelius-campanella",
+    "title": "트라켈리우스가 다른 섬모충을 공격한다",
+    "summary": "Trachelius가 Campanella를 포식하는 Nikon 현미경 영상 경연대회 2015년 1위 장면.",
+    "category": "포식",
+    "url": "https://www.microscope.healthcare.nikon.com/about/news/microscopic-predator-attack-scene-wins-first-place-in-annual-nikon-small-world-in-motion-competition",
+    "source": "Nikon Small World in Motion · Wim van Egmond"
+  },
+  {
+    "id": "dileptus-hunts",
+    "title": "딜렙투스의 먹이 추격과 섭취",
+    "summary": "긴 앞부분을 이용해 다른 미생물을 추적하고 먹는 포식성 섬모충.",
+    "category": "포식",
+    "url": "https://www.youtube.com/watch?v=io731XY8fH8",
+    "source": "Journey to the Microcosmos"
+  },
+  {
+    "id": "pristionchus-bites",
+    "title": "포식성 선충이 다른 선충을 물어뜯는다",
+    "summary": "Pristionchus pacificus가 다른 선충을 포식하는 행동을 관찰한 연구 영상.",
+    "category": "포식",
+    "url": "https://www.jove.com/v/54404/assaying-predatory-feeding-behaviors-pristionchus-other",
+    "source": "JoVE · Max Planck 연구진"
+  },
+  {
+    "id": "polykrikos-harpoon",
+    "title": "포식성 와편모조류의 작살 발사",
+    "summary": "Polykrikos의 작살 같은 포획 소기관이 발사되는 고속 촬영 연구 영상 자료.",
+    "category": "포식",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC5375639/",
+    "source": "Science Advances · 공개 연구 자료"
+  },
+  {
+    "id": "hydra-daphnia",
+    "title": "히드라가 물벼룩을 붙잡는다",
+    "summary": "히드라와 물벼룩의 포식자·먹이 상호작용을 현미경으로 촬영한 장면.",
+    "category": "포식",
+    "url": "https://www.youtube.com/watch?v=yLE2piMxzcQ",
+    "source": "Hydra and Daphnia Battle · 촬영자 채널"
+  },
+  {
+    "id": "parasitoid-emergence",
+    "title": "기생벌 유충이 숙주 밖으로 나온다",
+    "summary": "기생벌 Cotesia urabae 유충이 Uraba lugens 숙주에서 나와 고치를 만드는 장면.",
+    "category": "감염·기생",
+    "url": "https://www.microscope.healthcare.nikon.com/about/news/microscopic-predator-attack-scene-wins-first-place-in-annual-nikon-small-world-in-motion-competition",
+    "source": "Nikon Small World in Motion · Gonzalo Avila"
+  }
+]
