@@ -1,0 +1,54 @@
+[
+  {
+    "id": "bdello-single-invasion",
+    "title": "포식성 세균이 대장균에 침입한다",
+    "summary": "Bdellovibrio bacteriovorus 한 마리가 대장균 표면에 부착한 후 내부로 침입한다.",
+    "detail": "야생형 Bdellovibrio HD100이 대장균 K-12 MG1655에 들어가는 과정을 촬영한 7 fps 타임랩스다. 침입 전후 먹이 세포가 둥글어지는 변화도 관찰할 수 있다.",
+    "category": "포식",
+    "file": "Specialized-Peptidoglycan-Hydrolases-Sculpt-the-Intra-bacterial-Niche-of-Predatory-Bdellovibrio-and-ppat.1002524.s010.ogv",
+    "subjects": [
+      "bdellovibrio",
+      "e-coli"
+    ],
+    "creator": "Lerner T, Lovering A, Bui N, Uchida K, Aizawa S, Vollmer W, Sockett R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "seriesId": "bdellovibrio-ecoli-2012",
+    "featured": true,
+    "note": "Lerner et al. (2012) Video S1 · 짧은 타임랩스 · 원본 저해상도"
+  },
+  {
+    "id": "bdello-rival-invasion",
+    "title": "두 포식성 세균의 침입 경쟁",
+    "summary": "포식성 세균 두 마리가 같은 대장균에 침입을 시도하지만 한 마리만 성공한다.",
+    "detail": "두 야생형 Bdellovibrio가 같은 대장균에 부착한다. 한 개체는 침입에 성공하지만 다른 개체는 실패한다. 7 fps 타임랩스.",
+    "category": "포식",
+    "file": "Specialized-Peptidoglycan-Hydrolases-Sculpt-the-Intra-bacterial-Niche-of-Predatory-Bdellovibrio-and-ppat.1002524.s016.ogv",
+    "subjects": [
+      "bdellovibrio",
+      "e-coli"
+    ],
+    "creator": "Lerner T, Lovering A, Bui N, Uchida K, Aizawa S, Vollmer W, Sockett R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "seriesId": "bdellovibrio-ecoli-2012",
+    "note": "Lerner et al. (2012) Video S7 · 원본 저해상도"
+  },
+  {
+    "id": "bdello-double-invasion",
+    "title": "두 포식성 세균이 연달아 침입한다",
+    "summary": "한 마리가 들어간 직후 다른 포식성 세균도 같은 대장균으로 침입한다.",
+    "detail": "야생형 Bdellovibrio 두 마리가 같은 대장균에 차례로 침입하는 'tailgating' 현상을 기록한 영상이다. 7 fps 타임랩스.",
+    "category": "포식",
+    "file": "Specialized-Peptidoglycan-Hydrolases-Sculpt-the-Intra-bacterial-Niche-of-Predatory-Bdellovibrio-and-ppat.1002524.s018.ogv",
+    "subjects": [
+      "bdellovibrio",
+      "e-coli"
+    ],
+    "creator": "Lerner T, Lovering A, Bui N, Uchida K, Aizawa S, Vollmer W, Sockett R",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "seriesId": "bdellovibrio-ecoli-2012",
+    "note": "Lerner et al. (2012) Video S9 · 원본 저해상도"
+  }
+]
