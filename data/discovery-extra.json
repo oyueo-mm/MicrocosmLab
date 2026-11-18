@@ -1,0 +1,470 @@
+[
+  {
+    "id": "discovery-extra-hydra-huge-mouth",
+    "title": "히드라가 자기보다 큰 먹이를 삼키는 방법",
+    "summary": "입을 크게 벌려 먹이를 삼키는 히드라의 독특한 섭식 전략.",
+    "detail": "입을 크게 벌려 먹이를 삼키는 히드라의 독특한 섭식 전략. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "hydra"
+    ],
+    "tags": [
+      "삼키기",
+      "포식"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "SciShow",
+    "url": "https://www.youtube.com/watch?v=vHJh_j_aHQQ",
+    "thumbnail": "https://i.ytimg.com/vi/vHJh_j_aHQQ/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-hydra-reproduction",
+    "title": "히드라의 복잡한 번식과 생존",
+    "summary": "히드라의 생식 방식과 생활사를 보여 주는 영상.",
+    "detail": "히드라의 생식 방식과 생활사를 보여 주는 영상. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "번식",
+    "subjects": [
+      "hydra"
+    ],
+    "tags": [
+      "생식",
+      "생활사"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=pGUshqfloDA",
+    "thumbnail": "https://i.ytimg.com/vi/pGUshqfloDA/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-death-microcosmos",
+    "title": "미시 세계에서 일어나는 죽음",
+    "summary": "미소생물의 사멸과 생존 한계를 살펴보는 영상.",
+    "detail": "미소생물의 사멸과 생존 한계를 살펴보는 영상. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "세포 활동",
+    "subjects": [
+      "ciliate",
+      "tardigrade"
+    ],
+    "tags": [
+      "세포 사멸",
+      "생존"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=oRmbWj2ZITM",
+    "thumbnail": "https://i.ytimg.com/vi/oRmbWj2ZITM/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-hydra-elastic",
+    "title": "히드라의 놀라운 신축성과 회복력",
+    "summary": "히드라가 몸을 수축하고 확장하는 행동을 관찰.",
+    "detail": "히드라가 몸을 수축하고 확장하는 행동을 관찰. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "환경 반응",
+    "subjects": [
+      "hydra"
+    ],
+    "tags": [
+      "수축",
+      "재생"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=jnD_YitEk5M",
+    "thumbnail": "https://i.ytimg.com/vi/jnD_YitEk5M/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-hydra-tentacles",
+    "title": "히드라의 촉수가 먹이를 잡는 순간",
+    "summary": "먹이 포획에 사용하는 히드라의 촉수와 자포를 소개.",
+    "detail": "먹이 포획에 사용하는 히드라의 촉수와 자포를 소개. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "포식",
+    "subjects": [
+      "hydra"
+    ],
+    "tags": [
+      "포획",
+      "촉수",
+      "자포"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=DXGdw9DMZvw",
+    "thumbnail": "https://i.ytimg.com/vi/DXGdw9DMZvw/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-purple-amoeba",
+    "title": "6년을 찾아 헤맨 보라색 아메바",
+    "summary": "매우 드물게 관찰되는 보라색 아메바의 모습.",
+    "detail": "매우 드물게 관찰되는 보라색 아메바의 모습. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "amoeba"
+    ],
+    "tags": [
+      "희귀 생물",
+      "형태"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=wG5yaD6QRg4",
+    "thumbnail": "https://i.ytimg.com/vi/wG5yaD6QRg4/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-portugal-amoeba",
+    "title": "포르투갈에서 발견한 가느다란 아메바",
+    "summary": "가느다란 위족으로 먹이를 탐색하는 작은 아메바.",
+    "detail": "가느다란 위족으로 먹이를 탐색하는 작은 아메바. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "amoeba",
+      "bacteria"
+    ],
+    "tags": [
+      "위족",
+      "탐색"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=g-j5aAUxGWY",
+    "thumbnail": "https://i.ytimg.com/vi/g-j5aAUxGWY/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-microbe-stress",
+    "title": "미생물은 스트레스를 어떻게 견딜까?",
+    "summary": "미시 생물의 휴면과 스트레스 대응 전략.",
+    "detail": "미시 생물의 휴면과 스트레스 대응 전략. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "환경 반응",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "휴면",
+      "환경 스트레스"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=5HDu3_CciNU",
+    "thumbnail": "https://i.ytimg.com/vi/5HDu3_CciNU/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-amoeba-brain-eaters",
+    "title": "아메바의 기묘한 먹이 섭취",
+    "summary": "아메바의 식세포작용과 일부 기생성 종류를 다룬 해설.",
+    "detail": "아메바의 식세포작용과 일부 기생성 종류를 다룬 해설. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "amoeba"
+    ],
+    "tags": [
+      "식세포작용",
+      "아메바"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=TRfPo53EuZc",
+    "thumbnail": "https://i.ytimg.com/vi/TRfPo53EuZc/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-plant-pathogen",
+    "title": "식물을 감염시키는 미생물성 병원체",
+    "summary": "감염성 미생물이 식물에 질병을 일으키는 과정과 배경.",
+    "detail": "감염성 미생물이 식물에 질병을 일으키는 과정과 배경. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "plant-cell"
+    ],
+    "tags": [
+      "식물 감염",
+      "기생"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=OimM-diDYz8",
+    "thumbnail": "https://i.ytimg.com/vi/OimM-diDYz8/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-algae-inheritance",
+    "title": "짚신벌레가 공생 조류를 물려주는 장면",
+    "summary": "녹색 짚신벌레 내부 조류가 다음 세대에 이어지는 현상.",
+    "detail": "녹색 짚신벌레 내부 조류가 다음 세대에 이어지는 현상. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "공생",
+    "subjects": [
+      "paramecium",
+      "green-algae"
+    ],
+    "tags": [
+      "공생",
+      "유전"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=c6-DSQNcV-s",
+    "thumbnail": "https://i.ytimg.com/vi/c6-DSQNcV-s/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-eukaryote-origins",
+    "title": "세포가 세포를 삼켜 탄생한 진핵생물",
+    "summary": "세포내 공생설과 진핵생물 진화에 관한 해설.",
+    "detail": "세포내 공생설과 진핵생물 진화에 관한 해설. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "공생",
+    "subjects": [
+      "animal-cell",
+      "bacteria"
+    ],
+    "tags": [
+      "세포내 공생",
+      "진화"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=4LhBZ2H5SwM",
+    "thumbnail": "https://i.ytimg.com/vi/4LhBZ2H5SwM/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-microcosmos-symbiosis",
+    "title": "미생물들이 함께 살아가는 복잡한 관계",
+    "summary": "공생과 경쟁을 통해 이어지는 미시 생물들의 관계.",
+    "detail": "공생과 경쟁을 통해 이어지는 미시 생물들의 관계. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "공생",
+    "subjects": [
+      "paramecium",
+      "green-algae"
+    ],
+    "tags": [
+      "공생",
+      "경쟁"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=NgZeYxl3aL8",
+    "thumbnail": "https://i.ytimg.com/vi/NgZeYxl3aL8/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-hydra-mouthless-eating",
+    "title": "입이 없어도 먹을 수 있는 생물들",
+    "summary": "여러 동물의 특이한 먹이 섭취 구조를 설명.",
+    "detail": "여러 동물의 특이한 먹이 섭취 구조를 설명. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "hydra"
+    ],
+    "tags": [
+      "섭식",
+      "적응"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "SciShow",
+    "url": "https://www.youtube.com/watch?v=W2NkHmNGwlo",
+    "thumbnail": "https://i.ytimg.com/vi/W2NkHmNGwlo/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-blood-fed-microbes",
+    "title": "미생물에게 피를 주면 어떤 일이 생길까?",
+    "summary": "특이한 먹이원을 제공하고 관찰하는 현미경 실험.",
+    "detail": "특이한 먹이원을 제공하고 관찰하는 현미경 실험. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "실험",
+      "먹이 섭취"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=LySkXs1-2qM",
+    "thumbnail": "https://i.ytimg.com/vi/LySkXs1-2qM/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-microbiology-starter",
+    "title": "현미경으로 만날 수 있는 네 가지 생물",
+    "summary": "수중 미소생물을 찾아 관찰하는 입문 영상.",
+    "detail": "수중 미소생물을 찾아 관찰하는 입문 영상. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "생태",
+      "관찰"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=TVAaXikhVEw",
+    "thumbnail": "https://i.ytimg.com/vi/TVAaXikhVEw/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-ciliate-free-will",
+    "title": "뇌 없는 섬모충은 어떻게 방향을 결정할까?",
+    "summary": "섬모충의 환경 반응과 움직임을 설명.",
+    "detail": "섬모충의 환경 반응과 움직임을 설명. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "환경 반응",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "자극 반응",
+      "이동"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=IHCaG40QzSI",
+    "thumbnail": "https://i.ytimg.com/vi/IHCaG40QzSI/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-bacterial-communities",
+    "title": "세균들이 만드는 놀라운 집단 구조",
+    "summary": "세균 군집의 형성과 상호작용을 보여 주는 해설.",
+    "detail": "세균 군집의 형성과 상호작용을 보여 주는 해설. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "집단행동",
+    "subjects": [
+      "bacteria"
+    ],
+    "tags": [
+      "군집",
+      "생물막"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=GvQrH8qas0Q",
+    "thumbnail": "https://i.ytimg.com/vi/GvQrH8qas0Q/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-colorless-euglenoids",
+    "title": "빛 없이 먹이를 찾아먹는 유글레나류",
+    "summary": "광합성 없이 세균·미생물 등을 섭취하는 유글레나류의 생태.",
+    "detail": "광합성 없이 세균·미생물 등을 섭취하는 유글레나류의 생태. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "euglena",
+      "bacteria"
+    ],
+    "tags": [
+      "포식",
+      "식세포작용"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=VxTBLJlDxNs",
+    "thumbnail": "https://i.ytimg.com/vi/VxTBLJlDxNs/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-antarctica-microscopy",
+    "title": "남극의 미시 생물 탐사",
+    "summary": "남극 시료 속 미생물을 찾는 현미경 탐사.",
+    "detail": "남극 시료 속 미생물을 찾는 현미경 탐사. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "극한 환경",
+      "탐사"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=T1uctvvypPE",
+    "thumbnail": "https://i.ytimg.com/vi/T1uctvvypPE/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-unsolved-microbes",
+    "title": "미시 세계의 설명하기 어려운 장면들",
+    "summary": "미소생물을 관찰하다 만나는 미해결 현상을 다룬 영상.",
+    "detail": "미소생물을 관찰하다 만나는 미해결 현상을 다룬 영상. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "탐색",
+      "기이한 생물"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=A_IlpiGUAOQ",
+    "thumbnail": "https://i.ytimg.com/vi/A_IlpiGUAOQ/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-mitochondria-variations",
+    "title": "미토콘드리아는 언제나 같은 일을 할까?",
+    "summary": "미소생물의 에너지 생산 방식과 세포 내부 구조.",
+    "detail": "미소생물의 에너지 생산 방식과 세포 내부 구조. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "세포 활동",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "세포 소기관",
+      "에너지"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=5O3uVFozSog",
+    "thumbnail": "https://i.ytimg.com/vi/5O3uVFozSog/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-extra-microscopic-locomotion",
+    "title": "미소생물의 기묘한 발과 이동 장치",
+    "summary": "윤충과 복모동물 등 다양한 미소생물의 이동 구조.",
+    "detail": "윤충과 복모동물 등 다양한 미소생물의 이동 구조. 외부 제공처의 촬영·해설 영상을 공식 임베드로 표시한다.",
+    "category": "이동",
+    "subjects": [
+      "rotifer",
+      "gastrotrich"
+    ],
+    "tags": [
+      "운동",
+      "이동 기관"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=KDYCkuKrMoA",
+    "thumbnail": "https://i.ytimg.com/vi/KDYCkuKrMoA/hqdefault.jpg"
+  }
+]
