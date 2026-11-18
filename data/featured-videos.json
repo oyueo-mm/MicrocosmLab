@@ -50,5 +50,27 @@
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
     "seriesId": "bdellovibrio-ecoli-2012",
     "note": "Lerner et al. (2012) Video S9 · 원본 저해상도"
+  },
+  {
+    "id": "culicinae-larva-feeding",
+    "title": "모기 유충이 물속의 먹이를 모아 먹는다",
+    "summary": "모기아과 유충이 물속 부유물을 모아 섭취하는 행동을 관찰한다.",
+    "detail": "물속에서 미세한 먹이 입자를 끌어들이는 유충의 입 주변 움직임이 보인다. 이 영상의 원본은 종이 특정되지 않은 모기아과 유충이며, 포식이 아닌 입자 섭식으로 분류한다.",
+    "category": "먹이 섭취",
+    "file": "Feeding behavior of Culicinae larvae.webm",
+    "subjects": [
+      "mosquito-larva"
+    ],
+    "creator": "Eiku en exil",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "여과 섭식",
+      "유충",
+      "수생 생물"
+    ],
+    "impact": 2,
+    "featured": true,
+    "note": "Wikimedia Commons 원본 설명 확인 · 2020년 4월 13일 촬영"
   }
 ]
