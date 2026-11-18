@@ -6,7 +6,10 @@
   "scripts": {
     "dev": "vite --host 0.0.0.0",
     "build": "tsc --noEmit && vite build",
-    "preview": "vite preview --host 0.0.0.0"
+    "preview": "vite preview --host 0.0.0.0",
+    "validate:content": "node scripts/validate-content.mjs",
+    "audit:commons": "node scripts/audit-commons.mjs",
+    "discover:commons": "node scripts/discover-commons.mjs"
   },
   "dependencies": {
     "lucide-react": "^0.468.0",

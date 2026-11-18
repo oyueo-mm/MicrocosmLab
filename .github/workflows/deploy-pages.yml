@@ -25,6 +25,8 @@ jobs:
           node-version: '22'
       - name: Install dependencies
         run: npm install --no-audit --no-fund
+      - name: Validate approved content
+        run: node scripts/validate-content.mjs
       - name: Build for project Pages URL
         run: npm run build -- --base=/MicrocosmLab/
       - name: Configure Pages

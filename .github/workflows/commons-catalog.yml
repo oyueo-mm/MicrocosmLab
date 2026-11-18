@@ -1,0 +1,40 @@
+name: Commons content audit and discovery
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [data/**, scripts/**, .github/workflows/commons-catalog.yml]
+permissions:
+  contents: read
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/validate-content.mjs
+      - name: Audit upstream Commons availability and licenses
+        run: node scripts/audit-commons.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: commons-media-audit
+          path: artifacts/commons-audit.json
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Collect licensed candidates for human review
+        run: node scripts/discover-commons.mjs
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: commons-video-candidates
+          path: artifacts/commons-candidates.json

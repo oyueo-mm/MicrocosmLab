@@ -1,0 +1,322 @@
+[
+  {
+    "id": "lacrymaria",
+    "name": "라크리마리아",
+    "scientific": "Lacrymaria sp.",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "라크리마리아",
+    "searchTerm": "라크리마리아"
+  },
+  {
+    "id": "paramecium",
+    "name": "짚신벌레",
+    "scientific": "Paramecium",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "짚신벌레",
+    "searchTerm": "짚신벌레"
+  },
+  {
+    "id": "aurelia",
+    "name": "아우렐리아짚신벌레",
+    "scientific": "Paramecium aurelia",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "Paramecium aurelia",
+    "searchTerm": "Paramecium aurelia"
+  },
+  {
+    "id": "neutrophil",
+    "name": "호중구",
+    "scientific": "Neutrophil",
+    "group": "면역세포",
+    "wikiTitle": "호중구",
+    "searchTerm": "호중구"
+  },
+  {
+    "id": "bacteria",
+    "name": "세균",
+    "scientific": "Bacteria (species unidentified)",
+    "group": "원핵생물",
+    "wikiTitle": "세균",
+    "searchTerm": "세균"
+  },
+  {
+    "id": "rotifer",
+    "name": "윤충",
+    "scientific": "Rotifera",
+    "group": "미소동물 · 윤형동물",
+    "wikiTitle": "윤형동물",
+    "searchTerm": "윤형동물"
+  },
+  {
+    "id": "tardigrade",
+    "name": "완보동물",
+    "scientific": "Tardigrada",
+    "group": "미소동물",
+    "wikiTitle": "완보동물",
+    "searchTerm": "완보동물"
+  },
+  {
+    "id": "stentor",
+    "name": "나팔벌레",
+    "scientific": "Stentor sp.",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "나팔벌레",
+    "searchTerm": "나팔벌레"
+  },
+  {
+    "id": "green-algae",
+    "name": "녹조류",
+    "scientific": "Green algae (species unidentified)",
+    "group": "조류",
+    "wikiTitle": "녹조류",
+    "searchTerm": "녹조류"
+  },
+  {
+    "id": "euglena",
+    "name": "유글레나",
+    "scientific": "Euglena",
+    "group": "유글레나류",
+    "wikiTitle": "유글레나",
+    "searchTerm": "유글레나"
+  },
+  {
+    "id": "vorticella",
+    "name": "종벌레",
+    "scientific": "Vorticella",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "종벌레",
+    "searchTerm": "종벌레"
+  },
+  {
+    "id": "amoeba",
+    "name": "아메바",
+    "scientific": "Amoeba (unidentified)",
+    "group": "아메바류",
+    "wikiTitle": "아메바",
+    "searchTerm": "아메바"
+  },
+  {
+    "id": "difflugia",
+    "name": "디플루기아",
+    "scientific": "Difflugia cf.",
+    "group": "유각아메바",
+    "wikiTitle": "Difflugia",
+    "searchTerm": "Difflugia"
+  },
+  {
+    "id": "nuclearia",
+    "name": "누클레아리아",
+    "scientific": "Nuclearia",
+    "group": "아메바류",
+    "wikiTitle": "Nuclearia",
+    "searchTerm": "Nuclearia"
+  },
+  {
+    "id": "stylonychia",
+    "name": "스틸로니키아",
+    "scientific": "Stylonychia",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "Stylonychia",
+    "searchTerm": "Stylonychia"
+  },
+  {
+    "id": "daphnia",
+    "name": "물벼룩",
+    "scientific": "Daphnia",
+    "group": "미소동물 · 갑각류",
+    "wikiTitle": "물벼룩",
+    "searchTerm": "물벼룩"
+  },
+  {
+    "id": "volvox",
+    "name": "볼복스",
+    "scientific": "Volvox",
+    "group": "녹조류 · 군체",
+    "wikiTitle": "볼복스",
+    "searchTerm": "볼복스"
+  },
+  {
+    "id": "gastrotrich",
+    "name": "복모동물",
+    "scientific": "Gastrotricha",
+    "group": "미소동물 · 복모동물문",
+    "wikiTitle": "복모동물",
+    "searchTerm": "복모동물"
+  },
+  {
+    "id": "hydra",
+    "name": "히드라",
+    "scientific": "Hydra",
+    "group": "미소동물 · 자포동물",
+    "wikiTitle": "히드라 (동물)",
+    "searchTerm": "히드라"
+  },
+  {
+    "id": "yeast",
+    "name": "효모",
+    "scientific": "Yeast",
+    "group": "균류 · 단세포 진균",
+    "wikiTitle": "효모",
+    "searchTerm": "효모"
+  },
+  {
+    "id": "macrophage",
+    "name": "대식세포",
+    "scientific": "Macrophage",
+    "group": "면역세포",
+    "wikiTitle": "대식세포",
+    "searchTerm": "대식세포"
+  },
+  {
+    "id": "fusarium",
+    "name": "푸사리움 곰팡이",
+    "scientific": "Fusarium oxysporum",
+    "group": "균류",
+    "wikiTitle": "Fusarium oxysporum",
+    "searchTerm": "Fusarium oxysporum"
+  },
+  {
+    "id": "candida",
+    "name": "칸디다 알비칸스",
+    "scientific": "Candida albicans",
+    "group": "균류 · 효모",
+    "wikiTitle": "칸디다 알비칸스",
+    "searchTerm": "칸디다 알비칸스"
+  },
+  {
+    "id": "choanoflagellate",
+    "name": "깃편모충",
+    "scientific": "Salpingoeca rosetta",
+    "group": "원생생물 · 깃편모충",
+    "wikiTitle": "Salpingoeca rosetta",
+    "searchTerm": "Salpingoeca rosetta"
+  },
+  {
+    "id": "euplotes",
+    "name": "유플로테스",
+    "scientific": "Euplotes cf. woodruffi",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "Euplotes",
+    "searchTerm": "Euplotes"
+  },
+  {
+    "id": "mesodinium",
+    "name": "메소디니움",
+    "scientific": "Mesodinium sp.",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "Mesodinium",
+    "searchTerm": "Mesodinium"
+  },
+  {
+    "id": "ciliate",
+    "name": "섬모충",
+    "scientific": "Ciliophora (species unidentified)",
+    "group": "원생생물 · 섬모충",
+    "wikiTitle": "섬모충",
+    "searchTerm": "섬모충"
+  },
+  {
+    "id": "collotheca",
+    "name": "콜로테카 윤충",
+    "scientific": "Collotheca",
+    "group": "윤형동물",
+    "wikiTitle": "Collotheca",
+    "searchTerm": "Collotheca"
+  },
+  {
+    "id": "conochilus",
+    "name": "코노킬루스 윤충",
+    "scientific": "Conochilus",
+    "group": "윤형동물",
+    "wikiTitle": "Conochilus",
+    "searchTerm": "Conochilus"
+  },
+  {
+    "id": "nassula",
+    "name": "나술라 섬모충",
+    "scientific": "Nassula",
+    "group": "원생생물",
+    "wikiTitle": "Nassula",
+    "searchTerm": "Nassula"
+  },
+  {
+    "id": "metamonad",
+    "name": "메타모나다 원생생물",
+    "scientific": "Metamonada",
+    "group": "원생생물",
+    "wikiTitle": "Metamonada",
+    "searchTerm": "Metamonada"
+  },
+  {
+    "id": "spirochaete",
+    "name": "스피로헤타",
+    "scientific": "Spirochaetes",
+    "group": "세균",
+    "wikiTitle": "스피로헤타",
+    "searchTerm": "스피로헤타"
+  },
+  {
+    "id": "pseudomonas",
+    "name": "녹농균",
+    "scientific": "Pseudomonas aeruginosa",
+    "group": "세균",
+    "wikiTitle": "녹농균",
+    "searchTerm": "녹농균"
+  },
+  {
+    "id": "epithelial-cell",
+    "name": "기도 상피세포",
+    "scientific": "Airway epithelial cell",
+    "group": "사람 세포",
+    "wikiTitle": "상피세포",
+    "searchTerm": "상피세포"
+  },
+  {
+    "id": "borrelia",
+    "name": "보렐리아",
+    "scientific": "Borrelia burgdorferi",
+    "group": "세균",
+    "wikiTitle": "보렐리아",
+    "searchTerm": "보렐리아"
+  },
+  {
+    "id": "platelet",
+    "name": "혈소판",
+    "scientific": "Platelet",
+    "group": "혈액 세포 성분",
+    "wikiTitle": "혈소판",
+    "searchTerm": "혈소판"
+  },
+  {
+    "id": "dictyostelium",
+    "name": "딕티오스텔리움",
+    "scientific": "Dictyostelium discoideum",
+    "group": "사회성 아메바",
+    "wikiTitle": "Dictyostelium discoideum",
+    "searchTerm": "Dictyostelium discoideum"
+  },
+  {
+    "id": "loxodes",
+    "name": "록소데스",
+    "scientific": "Loxodes",
+    "group": "섬모충",
+    "wikiTitle": "Loxodes",
+    "searchTerm": "Loxodes"
+  },
+  {
+    "id": "cyanobacteria",
+    "name": "남세균",
+    "scientific": "Cyanobacteria",
+    "group": "세균",
+    "wikiTitle": "남세균",
+    "searchTerm": "남세균"
+  },
+  {
+    "id": "nematode",
+    "name": "예쁜꼬마선충",
+    "scientific": "Caenorhabditis elegans",
+    "group": "선형동물",
+    "wikiTitle": "예쁜꼬마선충",
+    "searchTerm": "예쁜꼬마선충"
+  }
+]
