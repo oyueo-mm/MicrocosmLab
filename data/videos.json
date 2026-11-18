@@ -1115,14 +1115,15 @@
     "title": "점액세균끼리 접촉해 막 성분을 교환한다",
     "summary": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
     "detail": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
-    "category": "공생",
+    "category": "집단행동",
     "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s013.ogv",
     "subjects": [
       "myxococcus"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "접촉 의존 외막 교환 실험",
-    "licenseUrl": "https://creativecommons.org/licenses/접촉-의존-외막-교환-실험/"
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
+    "note": "접촉 의존 외막 교환 실험"
   },
   {
     "id": "myxo-motility-gene",
@@ -1135,8 +1136,8 @@
       "myxococcus"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   {
     "id": "myxo-swarm-gene",
@@ -1149,8 +1150,8 @@
       "myxococcus"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   {
     "id": "myxo-surface-motor",
@@ -1163,8 +1164,8 @@
       "myxococcus"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "pseudomonas-psl",
@@ -1205,8 +1206,8 @@
       "pseudomonas"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "biofilm-interstitial",
@@ -1219,8 +1220,8 @@
       "pseudomonas"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "biofilm-development",
@@ -1233,8 +1234,8 @@
       "pseudomonas"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "e-coli-matrix",
@@ -1289,8 +1290,8 @@
       "bacteria"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "neutrophil-conidia",
@@ -1509,8 +1510,8 @@
       "dictyostelium"
     ],
     "creator": "Dictyostelium 화학주성 연구팀",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   {
     "id": "dicty-cytokinesis",
@@ -1551,8 +1552,8 @@
       "fission-yeast"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
   },
   {
     "id": "ptk-mitosis",
@@ -1565,8 +1566,8 @@
       "ptk-cell"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
   },
   {
     "id": "bacillus-spore",
@@ -1579,21 +1580,598 @@
       "bacillus"
     ],
     "creator": "PLOS 연구팀 · 원본 논문 저자",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "mitosis-timelapse",
     "title": "세포가 분열하는 전체 과정을 관찰한다",
-    "summary": "실제 세포 유사분열 과정을 영상으로 보여주는 현미경 자료다.",
-    "detail": "실제 세포 유사분열 과정을 영상으로 보여주는 현미경 자료다.",
+    "summary": "유사분열이 진행되는 세포의 형태와 위치 변화를 보여주는 현미경 영상이다.",
+    "detail": "유사분열이 진행되는 세포의 형태와 위치 변화를 보여주는 현미경 영상이다.",
     "category": "번식",
     "file": "Mitosis 480*360.theora.ogv",
     "subjects": [
-      "epithelial-tissue"
+      "ptk-cell"
     ],
     "creator": "Wikimedia Commons 원본 제작자",
     "license": "CC BY-SA 3.0",
     "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "toxoplasma-invade",
+    "file": "The-Toxoplasma-Acto-MyoA-Motor-Complex-Is-Important-but-Not-Essential-for-Gliding-Motility-and-Host-pone.0091819.s006.ogv",
+    "title": "톡소포자충이 숙주 세포에 침입한다",
+    "summary": "톡소포자충이 살아 있는 섬유아세포에 침입하는 과정을 실시간으로 관찰한다.",
+    "detail": "톡소포자충이 살아 있는 섬유아세포에 침입하는 과정을 실시간으로 관찰한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "toxoplasma",
+      "fibroblast"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "toxoplasma-slow-invade",
+    "file": "The-Toxoplasma-Acto-MyoA-Motor-Complex-Is-Important-but-Not-Essential-for-Gliding-Motility-and-Host-pone.0091819.s008.ogv",
+    "title": "운동 단백질 결핍 톡소포자충의 느린 침입",
+    "summary": "MyoA 운동 단백질 결핍 조건에서 톡소포자충이 느리게 숙주 세포로 들어간다.",
+    "detail": "MyoA 운동 단백질 결핍 조건에서 톡소포자충이 느리게 숙주 세포로 들어간다.",
+    "category": "감염·기생",
+    "subjects": [
+      "toxoplasma",
+      "fibroblast"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "toxoplasma-mic2",
+    "file": "Toxoplasma-MIC2-Is-a-Major-Determinant-of-Invasion-and-Virulence-ppat.0020084.sv001.ogv",
+    "title": "톡소포자충의 세포 침입 관련 운동",
+    "summary": "톡소포자충의 침입 관련 MIC2 단백질을 연구한 현미경 영상이다.",
+    "detail": "톡소포자충의 침입 관련 MIC2 단백질을 연구한 현미경 영상이다.",
+    "category": "감염·기생",
+    "subjects": [
+      "toxoplasma"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "toxoplasma-actin",
+    "file": "Concerted-Action-of-Two-Formins-in-Gliding-Motility-and-Host-Cell-Invasion-by-Toxoplasma-gondii-ppat.1001132.s003.ogv",
+    "title": "톡소포자충이 미끄러지듯 이동한다",
+    "summary": "톡소포자충의 운동과 숙주 침입에 관여하는 포르민 단백질 관련 현미경 영상이다.",
+    "detail": "톡소포자충의 운동과 숙주 침입에 관여하는 포르민 단백질 관련 현미경 영상이다.",
+    "category": "이동",
+    "subjects": [
+      "toxoplasma"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-candida-live",
+    "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s002.ogv",
+    "title": "대식세포가 살아 있는 칸디다를 삼킨다",
+    "summary": "대식세포가 살아 있는 칸디다 알비칸스를 식세포작용으로 섭취한다.",
+    "detail": "대식세포가 살아 있는 칸디다 알비칸스를 식세포작용으로 섭취한다.",
+    "category": "면역",
+    "subjects": [
+      "macrophage",
+      "candida"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-candida-tracking",
+    "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s003.ogv",
+    "title": "대식세포가 칸디다를 추적한다",
+    "summary": "대식세포가 칸디다 알비칸스에 접근하는 모습을 촬영했다.",
+    "detail": "대식세포가 칸디다 알비칸스에 접근하는 모습을 촬영했다.",
+    "category": "면역",
+    "subjects": [
+      "macrophage",
+      "candida"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-candida-phagosome",
+    "file": "Stage-Specific-Assessment-of-Candida-albicans-Phagocytosis-by-Macrophages-Identifies-Cell-Wall-ppat.1002578.s004.ogv",
+    "title": "대식세포 내부의 칸디다를 형광으로 추적한다",
+    "summary": "형광 표지된 곰팡이와 대식세포 식포의 위치 관계를 관찰한다.",
+    "detail": "형광 표지된 곰팡이와 대식세포 식포의 위치 관계를 관찰한다.",
+    "category": "면역",
+    "subjects": [
+      "macrophage",
+      "candida"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "fusarium-breakout",
+    "file": "Hyphal-Growth-of-Phagocytosed-Fusarium-oxysporum-Causes-Cell-Lysis-and-Death-of-Murine-Macrophages-pone.0101999.s002.ogv",
+    "title": "삼켜진 푸사리움이 대식세포를 파괴한다",
+    "summary": "대식세포에 포식된 곰팡이가 균사를 뻗어 세포를 파괴한다.",
+    "detail": "대식세포에 포식된 곰팡이가 균사를 뻗어 세포를 파괴한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "macrophage",
+      "fusarium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "dicty-parasitic",
+    "file": "Exploitation-of-Other-Social-Amoebae-by-Dictyostelium-caveatum-pone.0000212.s007.ogv",
+    "title": "다른 사회성 아메바를 이용하는 딕티오스텔리움",
+    "summary": "D. caveatum과 D. discoideum의 상호작용으로 아메바 응집 집단에서 변화가 나타난다.",
+    "detail": "D. caveatum과 D. discoideum의 상호작용으로 아메바 응집 집단에서 변화가 나타난다.",
+    "category": "경쟁",
+    "subjects": [
+      "dicty-caveatum",
+      "dictyostelium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-development",
+    "file": "Exploitation-of-Other-Social-Amoebae-by-Dictyostelium-caveatum-pone.0000212.s009.ogv",
+    "title": "사회성 아메바 집단의 분화가 시작된다",
+    "summary": "사회성 아메바 집단이 모인 뒤 포자·줄기 세포 분화가 시작되는 모습이다.",
+    "detail": "사회성 아메바 집단이 모인 뒤 포자·줄기 세포 분화가 시작되는 모습이다.",
+    "category": "집단행동",
+    "subjects": [
+      "dicty-caveatum",
+      "dictyostelium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-signal-deficit",
+    "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s008.ogv",
+    "title": "화학 신호의 흐름이 사라진 아메바 집단",
+    "summary": "특정 유전자 결핍 조건에서 주기적 화학 신호와 응집 흐름이 나타나지 않는 모습이다.",
+    "detail": "특정 유전자 결핍 조건에서 주기적 화학 신호와 응집 흐름이 나타나지 않는 모습이다.",
+    "category": "환경 반응",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-camp-micropipette",
+    "file": "On-the-effects-of-cycloheximide-on-cell-motility-and-polarisation-in-Dictyostelium-discoideum-1471-2121-7-5-S2.ogv",
+    "title": "미세관의 화학 신호에 반응하는 아메바",
+    "summary": "딕티오스텔리움이 cAMP 신호에 반응하는 실험이다.",
+    "detail": "딕티오스텔리움이 cAMP 신호에 반응하는 실험이다.",
+    "category": "환경 반응",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "myxo-rippling",
+    "file": "The-Mechanistic-Basis-of-Myxococcus-xanthus-Rippling-Behavior-and-Its-Physiological-Role-during-pcbi.1002715.s017.ogv",
+    "title": "점액세균 군집에 물결무늬가 생긴다",
+    "summary": "점액세균의 리플링 집단 행동과 포식의 관계를 연구한 영상이다.",
+    "detail": "점액세균의 리플링 집단 행동과 포식의 관계를 연구한 영상이다.",
+    "category": "집단행동",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "biofilm-antimicrobial",
+    "file": "Biofilm-Induced-Tolerance-towards-Antimicrobial-Peptides-pone.0001891.s001.ogv",
+    "title": "항균 물질을 처리한 세균 생물막의 변화",
+    "summary": "성숙한 생물막에 항균 펩타이드를 처리한 뒤 세포의 생존 상태를 추적한다.",
+    "detail": "성숙한 생물막에 항균 펩타이드를 처리한 뒤 세포의 생존 상태를 추적한다.",
+    "category": "방어",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "yeast-spindle-division",
+    "file": "Fission-Yeast-Cells-Undergo-Nuclear-Division-in-the-Absence-of-Spindle-Microtubules-pbio.1000512.s007.ogv",
+    "title": "분열효모의 핵 분열 과정",
+    "summary": "분열효모의 핵 분열과 세포 내부 구조를 현미경으로 관찰한다.",
+    "detail": "분열효모의 핵 분열과 세포 내부 구조를 현미경으로 관찰한다.",
+    "category": "번식",
+    "subjects": [
+      "fission-yeast"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+  },
+  {
+    "id": "drosophila-mitosis",
+    "file": "Mitosis drosophila larva.ogv",
+    "title": "초파리 유충에서 일어나는 세포 분열",
+    "summary": "초파리 유충에서 세포 유사분열을 관찰한 현미경 영상이다.",
+    "detail": "초파리 유충에서 세포 유사분열을 관찰한 현미경 영상이다.",
+    "category": "번식",
+    "subjects": [
+      "drosophila"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "rsv-entry",
+    "file": "Host-Cell-Entry-of-Respiratory-Syncytial-Virus-Involves-Macropinocytosis-Followed-by-Proteolytic-ppat.1003309.s005.ogv",
+    "title": "호흡기세포융합바이러스의 세포 진입",
+    "summary": "바이러스 감염 과정에 관여하는 세포 내부 유입 현상을 연구한 영상이다.",
+    "detail": "바이러스 감염 과정에 관여하는 세포 내부 유입 현상을 연구한 영상이다.",
+    "category": "감염·기생",
+    "subjects": [
+      "rsv-virus",
+      "hela-cell"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-macropinocytosis",
+    "file": "Inflammatory-Stimuli-Reprogram-Macrophage-Phagocytosis-to-Macropinocytosis-for-the-Rapid-ppat.1003879.s010.ogv",
+    "title": "염증 자극을 받은 대식세포의 섭취 방식 변화",
+    "summary": "대식세포의 거대음세포작용과 관련된 섭취 반응을 관찰한다.",
+    "detail": "대식세포의 거대음세포작용과 관련된 섭취 반응을 관찰한다.",
+    "category": "면역",
+    "subjects": [
+      "macrophage"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-cell-polarity",
+    "file": "Activated-Membrane-Patches-Guide-Chemotactic-Cell-Motility-pcbi.1002044.s011.ogv",
+    "title": "아메바 세포막에서 이동 방향이 만들어진다",
+    "summary": "사회성 아메바의 세포막 활성 영역과 극성 형성을 관찰한다.",
+    "detail": "사회성 아메바의 세포막 활성 영역과 극성 형성을 관찰한다.",
+    "category": "환경 반응",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "leptophrys-eat",
+    "file": "Амеба рода Leptophrys поедает водоросли. Фазовый контраст.webm",
+    "title": "렙토프리스 아메바가 조류를 먹는다",
+    "category": "포식",
+    "subjects": [
+      "leptophrys",
+      "green-algae"
+    ],
+    "summary": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
+    "detail": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "polychaos-eat",
+    "file": "Большая амеба Polychaos ест маленькую амебу.webm",
+    "title": "큰 아메바가 작은 아메바를 잡아먹는다",
+    "category": "포식",
+    "subjects": [
+      "polychaos",
+      "mayorella"
+    ],
+    "summary": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
+    "detail": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "collotheca-feeding",
+    "file": "Mystery creature feeding DSC 1798.webm",
+    "title": "콜로테카 윤충이 먹이를 잡아먹는다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "collotheca"
+    ],
+    "summary": "Collotheca 속 윤충의 먹이 섭취를 관찰한 현미경 영상이다.",
+    "detail": "Collotheca 속 윤충의 먹이 섭취를 관찰한 현미경 영상이다.",
+    "creator": "Brandon Seah",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "rotifer-mastax",
+    "file": "Ritófero usando el mastax.webm",
+    "title": "윤충의 씹는 기관이 움직인다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "rotifer"
+    ],
+    "summary": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
+    "detail": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "rotifer-cilia",
+    "file": "Rotífero.webm",
+    "title": "윤충의 섬모가 먹이를 입 쪽으로 모은다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "rotifer"
+    ],
+    "summary": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
+    "detail": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "neutrophil-hvcn1",
+    "file": "Alkalinity-of-Neutrophil-Phagocytic-Vacuoles-Is-Modulated-by-HVCN1-and-Has-Consequences-for-pone.0125906.s010.ogv",
+    "title": "호중구가 칸디다를 포식한다",
+    "category": "면역",
+    "subjects": [
+      "neutrophil",
+      "candida"
+    ],
+    "summary": "HVCN1 결손 호중구가 칸디다를 식세포작용으로 섭취하는 실험이다.",
+    "detail": "HVCN1 결손 호중구가 칸디다를 식세포작용으로 섭취하는 실험이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "neutrophil-handoff",
+    "file": "Alkalinity-of-Neutrophil-Phagocytic-Vacuoles-Is-Modulated-by-HVCN1-and-Has-Consequences-for-pone.0125906.s011.ogv",
+    "title": "한 호중구가 놓친 칸디다를 다른 호중구가 삼킨다",
+    "category": "면역",
+    "subjects": [
+      "neutrophil",
+      "candida"
+    ],
+    "summary": "호중구가 방출한 칸디다를 인접한 호중구가 다시 포식한다.",
+    "detail": "호중구가 방출한 칸디다를 인접한 호중구가 다시 포식한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "neutrophil-dpi",
+    "file": "Alkalinity-of-Neutrophil-Phagocytic-Vacuoles-Is-Modulated-by-HVCN1-and-Has-Consequences-for-pone.0125906.s009.ogv",
+    "title": "포식 중 호중구에 약물을 처리한다",
+    "category": "면역",
+    "subjects": [
+      "neutrophil",
+      "candida"
+    ],
+    "summary": "사람 호중구가 칸디다를 포식하는 도중 DPI를 처리한 현미경 타임랩스다.",
+    "detail": "사람 호중구가 칸디다를 포식하는 도중 DPI를 처리한 현미경 타임랩스다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "neutrophil-preference",
+    "file": "Environmental-Dimensionality-Controls-the-Interaction-of-Phagocytes-with-the-Pathogenic-Fungi-ppat.0030013.sv015.ogv",
+    "title": "호중구가 칸디다를 선택해 포식한다",
+    "category": "면역",
+    "subjects": [
+      "neutrophil",
+      "candida",
+      "aspergillus"
+    ],
+    "summary": "콜라겐 환경에서 호중구가 아스페르길루스 포자보다 칸디다 효모를 선택적으로 섭취한다.",
+    "detail": "콜라겐 환경에서 호중구가 아스페르길루스 포자보다 칸디다 효모를 선택적으로 섭취한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-ripple-prey",
+    "file": "The-Mechanistic-Basis-of-Myxococcus-xanthus-Rippling-Behavior-and-Its-Physiological-Role-during-pcbi.1002715.s018.ogv",
+    "title": "포식 환경에서 물결치는 점액세균",
+    "category": "집단행동",
+    "subjects": [
+      "myxococcus"
+    ],
+    "summary": "점액세균의 리플링 집단행동과 포식의 관계를 연구한 영상이다.",
+    "detail": "점액세균의 리플링 집단행동과 포식의 관계를 연구한 영상이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "helico-moving",
+    "file": "Motility-and-Chemotaxis-Mediate-the-Preferential-Colonization-of-Gastric-Injury-Sites-by-ppat.1004275.s010.ogv",
+    "title": "헬리코박터균의 이동을 추적한다",
+    "category": "환경 반응",
+    "subjects": [
+      "h-pylori"
+    ],
+    "summary": "형광 표지된 헬리코박터 파일로리의 움직임을 공초점 현미경으로 관찰한다.",
+    "detail": "형광 표지된 헬리코박터 파일로리의 움직임을 공초점 현미경으로 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "helico-chemotaxis",
+    "file": "Motility-and-Chemotaxis-Mediate-the-Preferential-Colonization-of-Gastric-Injury-Sites-by-ppat.1004275.s011.ogv",
+    "title": "헬리코박터균이 손상 부위 쪽으로 움직인다",
+    "category": "환경 반응",
+    "subjects": [
+      "h-pylori"
+    ],
+    "summary": "위 조직 손상 부위에 대한 헬리코박터의 이동과 집락 형성을 연구한 영상이다.",
+    "detail": "위 조직 손상 부위에 대한 헬리코박터의 이동과 집락 형성을 연구한 영상이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "e-coli-tumbling",
+    "file": "Modeling-E.-coli-Tumbles-by-Rotational-Diffusion.-Implications-for-Chemotaxis-pone.0035412.s001.ogv",
+    "title": "대장균이 방향을 바꾸며 헤엄친다",
+    "category": "이동",
+    "subjects": [
+      "e-coli"
+    ],
+    "summary": "대장균의 텀블링과 화학주성을 비교하는 현미경 자료다.",
+    "detail": "대장균의 텀블링과 화학주성을 비교하는 현미경 자료다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "mitosis-live",
+    "file": "Cell in mitosis (real time).ogv",
+    "title": "세포가 실시간으로 유사분열한다",
+    "category": "번식",
+    "subjects": [
+      "animal-cell"
+    ],
+    "summary": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
+    "detail": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "rpe-taxol",
+    "file": "RPE Cell Taxol treatment - mitotic catastrophe.webm",
+    "title": "탁솔 처리로 세포 분열 이상이 발생한다",
+    "category": "환경 반응",
+    "subjects": [
+      "rpe-cell"
+    ],
+    "summary": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
+    "detail": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "ptk-rnai-mitosis",
+    "file": "Deciphering-protein-function-during-mitosis-in-PtK-cells-using-RNAi-1471-2121-7-26-S2.ogv",
+    "title": "RNA 간섭을 적용한 세포의 분열",
+    "category": "번식",
+    "subjects": [
+      "ptk-cell"
+    ],
+    "summary": "PtK 배양 세포에 RNA 간섭을 적용했을 때 유사분열이 변하는 모습을 관찰한다.",
+    "detail": "PtK 배양 세포에 RNA 간섭을 적용했을 때 유사분열이 변하는 모습을 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "macrophage-anti-cd44",
+    "file": "Targeting-Tumor-Cells-with-Anti-CD44-Antibody-Triggers-Macrophage-Mediated-Immune-Modulatory-pone.0159716.s019.ogv",
+    "title": "대식세포의 종양세포 포식 대조 실험",
+    "category": "면역",
+    "subjects": [
+      "macrophage",
+      "tumor-cell"
+    ],
+    "summary": "대식세포 식세포작용을 관찰한 항체 처리 비교 연구의 대조군 영상이다.",
+    "detail": "대식세포 식세포작용을 관찰한 항체 처리 비교 연구의 대조군 영상이다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "bacterial-microfluidic",
+    "file": "A-Microscope-Automated-Fluidic-System-to-Study-Bacterial-Processes-in-Real-Time-pone.0007282.s002.ogv",
+    "title": "미세유체 장치 안에서 살아 있는 세균을 관찰한다",
+    "category": "생태 관찰",
+    "subjects": [
+      "bacteria"
+    ],
+    "summary": "세균이 미세유체 장치 안에서 변화하는 모습을 실시간으로 관찰한다.",
+    "detail": "세균이 미세유체 장치 안에서 변화하는 모습을 실시간으로 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "cellulophaga-iridescence",
+    "file": "Glitter-Like-Iridescence-within-the-Bacteroidetes-Especially-Cellulophaga-spp.-Optical-Properties-pone.0052900.s001.ogv",
+    "title": "세균 군체에 무지갯빛이 나타난다",
+    "category": "생태 관찰",
+    "subjects": [
+      "cellulophaga"
+    ],
+    "summary": "셀룰로파가 세균 집락의 구조색과 무지갯빛 광학 현상을 관찰한다.",
+    "detail": "셀룰로파가 세균 집락의 구조색과 무지갯빛 광학 현상을 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-camp-gradient",
+    "file": "On-the-effects-of-cycloheximide-on-cell-motility-and-polarisation-in-Dictyostelium-discoideum-1471-2121-7-5-S3.ogv",
+    "title": "미세관의 화학 신호에 반응하는 아메바",
+    "category": "환경 반응",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "summary": "cAMP를 채운 미세관으로 자극한 아메바의 이동을 관찰한다.",
+    "detail": "cAMP를 채운 미세관으로 자극한 아메바의 이동을 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0/"
+  },
+  {
+    "id": "myxo-rippling-extended",
+    "file": "The-Mechanistic-Basis-of-Myxococcus-xanthus-Rippling-Behavior-and-Its-Physiological-Role-during-pcbi.1002715.s015.ogv",
+    "title": "점액세균이 무리 지어 물결치듯 움직인다",
+    "category": "집단행동",
+    "subjects": [
+      "myxococcus"
+    ],
+    "summary": "점액세균의 반복적인 리플링 군집 운동을 관찰한다.",
+    "detail": "점액세균의 반복적인 리플링 군집 운동을 관찰한다.",
+    "creator": "논문 원저자 · Wikimedia Commons",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   }
 ]

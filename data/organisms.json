@@ -446,5 +446,101 @@
     "group": "세균",
     "wikiTitle": "대장균",
     "searchTerm": "대장균"
+  },
+  {
+    "id": "toxoplasma",
+    "name": "톡소포자충",
+    "scientific": "Toxoplasma gondii",
+    "group": "기생 원생생물",
+    "wikiTitle": "톡소포자충",
+    "searchTerm": "톡소포자충"
+  },
+  {
+    "id": "fibroblast",
+    "name": "섬유아세포",
+    "scientific": "Fibroblast",
+    "group": "배양 동물세포",
+    "wikiTitle": "섬유아세포",
+    "searchTerm": "섬유아세포"
+  },
+  {
+    "id": "rsv-virus",
+    "name": "호흡기세포융합바이러스",
+    "scientific": "Respiratory syncytial virus",
+    "group": "바이러스",
+    "wikiTitle": "호흡기세포융합바이러스",
+    "searchTerm": "호흡기세포융합바이러스"
+  },
+  {
+    "id": "dicty-caveatum",
+    "name": "딕티오스텔리움 카베아툼",
+    "scientific": "Dictyostelium caveatum",
+    "group": "사회성 아메바",
+    "wikiTitle": "딕티오스텔리움 카베아툼",
+    "searchTerm": "딕티오스텔리움 카베아툼"
+  },
+  {
+    "id": "drosophila",
+    "name": "초파리",
+    "scientific": "Drosophila",
+    "group": "곤충",
+    "wikiTitle": "초파리",
+    "searchTerm": "초파리"
+  },
+  {
+    "id": "leptophrys",
+    "name": "렙토프리스 아메바",
+    "scientific": "Leptophrys",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "렙토프리스 아메바",
+    "searchTerm": "렙토프리스 아메바"
+  },
+  {
+    "id": "polychaos",
+    "name": "폴리카오스 아메바",
+    "scientific": "Polychaos",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "폴리카오스 아메바",
+    "searchTerm": "폴리카오스 아메바"
+  },
+  {
+    "id": "mayorella",
+    "name": "마요렐라 아메바",
+    "scientific": "Mayorella cf.",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "마요렐라 아메바",
+    "searchTerm": "마요렐라 아메바"
+  },
+  {
+    "id": "h-pylori",
+    "name": "헬리코박터 파일로리",
+    "scientific": "Helicobacter pylori",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "헬리코박터 파일로리",
+    "searchTerm": "헬리코박터 파일로리"
+  },
+  {
+    "id": "rpe-cell",
+    "name": "망막색소상피세포",
+    "scientific": "RPE cell",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "망막색소상피세포",
+    "searchTerm": "망막색소상피세포"
+  },
+  {
+    "id": "animal-cell",
+    "name": "동물세포",
+    "scientific": "Animal cell",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "동물세포",
+    "searchTerm": "동물세포"
+  },
+  {
+    "id": "tumor-cell",
+    "name": "종양세포",
+    "scientific": "Tumor cell",
+    "group": "현미경 관찰 대상",
+    "wikiTitle": "종양세포",
+    "searchTerm": "종양세포"
   }
 ]
