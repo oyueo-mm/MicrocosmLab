@@ -27,6 +27,8 @@ jobs:
         run: npm install --no-audit --no-fund
       - name: Validate approved content
         run: node scripts/validate-content.mjs
+      - name: Check recommendation ranking
+        run: node scripts/test-recommendations.mjs
       - name: Build for project Pages URL
         run: npm run build -- --base=/MicrocosmLab/
       - name: Configure Pages
