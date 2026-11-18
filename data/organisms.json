@@ -742,5 +742,69 @@
     "group": "포식성 세균",
     "wikiTitle": "Bdellovibrio bacteriovorus",
     "searchTerm": "Bdellovibrio bacteriovorus"
+  },
+  {
+    "id": "didinium",
+    "name": "디디니움",
+    "scientific": "Didinium",
+    "group": "포식성 섬모충",
+    "wikiTitle": "Didinium",
+    "searchTerm": "Didinium"
+  },
+  {
+    "id": "trachelius",
+    "name": "트라켈리우스",
+    "scientific": "Trachelius",
+    "group": "포식성 섬모충",
+    "wikiTitle": "Trachelius",
+    "searchTerm": "Trachelius"
+  },
+  {
+    "id": "campanella",
+    "name": "캄파넬라",
+    "scientific": "Campanella",
+    "group": "섬모충",
+    "wikiTitle": "Campanella (ciliate)",
+    "searchTerm": "Campanella ciliate"
+  },
+  {
+    "id": "dileptus",
+    "name": "딜렙투스",
+    "scientific": "Dileptus",
+    "group": "포식성 섬모충",
+    "wikiTitle": "Dileptus",
+    "searchTerm": "Dileptus"
+  },
+  {
+    "id": "pristionchus",
+    "name": "프리스티온쿠스",
+    "scientific": "Pristionchus pacificus",
+    "group": "포식성 선충",
+    "wikiTitle": "Pristionchus pacificus",
+    "searchTerm": "Pristionchus pacificus"
+  },
+  {
+    "id": "polykrikos",
+    "name": "폴리크리코스",
+    "scientific": "Polykrikos",
+    "group": "포식성 와편모조류",
+    "wikiTitle": "Polykrikos",
+    "searchTerm": "Polykrikos"
+  },
+  {
+    "id": "cotesia-urabae",
+    "name": "코테시아 우라바에",
+    "scientific": "Cotesia urabae",
+    "group": "기생벌",
+    "wikiTitle": "Cotesia",
+    "searchTerm": "Cotesia urabae"
+  },
+  {
+    "id": "uraba-lugens",
+    "name": "우라바 루겐스",
+    "scientific": "Uraba lugens",
+    "group": "나방",
+    "wikiTitle": "Uraba lugens",
+    "searchTerm": "Uraba lugens"
   }
 ]
