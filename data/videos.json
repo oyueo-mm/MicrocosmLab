@@ -5617,5 +5617,117 @@
     "license": "CC BY 2.5",
     "licenseUrl": "https://creativecommons.org/licenses/by/2.5/",
     "note": "자동 수집 · 원본 메타데이터 확인 · 행동 및 종 동정은 추가 검토 필요"
+  },
+  {
+    "id": "spathidium-vorticella-hunt",
+    "file": "Хищная инфузория Spathidium съедает инфузорию Сувойку.webm",
+    "title": "스파티디움이 종벌레를 붙잡아 잡아먹는다",
+    "category": "포식",
+    "subjects": [
+      "spathidium",
+      "vorticella"
+    ],
+    "summary": "포식성 섬모충 Spathidium이 종벌레 Vorticella를 포획해 섭취한다.",
+    "detail": "포식성 섬모충에는 독성 사출소기관인 톡시시스트가 있으며, 먹이와 접촉할 때 사냥에 활용된다. 영상은 약 500배 위상차 현미경으로 촬영되었다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "featured": true
+  },
+  {
+    "id": "collotheca-ciliate-trap",
+    "file": "Коловратка Collotheca ornata поедает инфузорий.webm",
+    "title": "콜로테카 윤충이 섬모충을 덫처럼 붙잡는다",
+    "category": "포식",
+    "subjects": [
+      "collotheca",
+      "ciliate"
+    ],
+    "summary": "Collotheca ornata가 입의 깔때기 구조로 작은 섬모충을 포획해 삼키는 모습이다.",
+    "detail": "먹이가 입깔때기에 들어오면 감각 섬모가 이를 감지하고 입 구조가 수축한다. 그 뒤 먹이를 식도로 밀어 넣어 소화기관으로 보낸다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "featured": true
+  },
+  {
+    "id": "loxophyllum-dead-ciliate",
+    "file": "Инфузория Loxophyllum съедает мертвую инфузорию.webm",
+    "title": "록소필룸이 죽은 섬모충을 섭취한다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "loxophyllum",
+      "ciliate"
+    ],
+    "summary": "록소필룸 섬모충이 다른 섬모충의 사체를 섭취하는 현미경 기록이다.",
+    "detail": "살아 있는 먹이를 붙잡는 사냥과 달리 죽은 개체를 먹는 사체 섭식이다. 먹이와 접촉하는 순간부터 세포가 먹이를 처리하는 과정을 살펴볼 수 있다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "featured": true
+  },
+  {
+    "id": "neodiplogaster-fungal-hyphae",
+    "file": "Stomatal-Dimorphism-of-Neodiplogaster-acaloleptae-(Diplogastromorpha-Diplogastridae)-pone.0155715.s003.ogv",
+    "title": "선충이 균사를 잘라 내용물을 빨아먹는다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "neodiplogaster",
+      "fungal-hypha"
+    ],
+    "summary": "선충 Neodiplogaster acaloleptae가 균사의 벽을 잘라 내부 물질을 섭취한다.",
+    "detail": "입구멍과 인두가 협응해 균사에 구멍을 내고 내용물을 흡입한다. 원본 연구는 선충의 입 구조 형태가 먹이 이용에 어떻게 관련되는지 비교한다.",
+    "creator": "Kanzaki N",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "featured": true
+  },
+  {
+    "id": "neodiplogaster-dead-nematode",
+    "file": "Stomatal-Dimorphism-of-Neodiplogaster-acaloleptae-(Diplogastromorpha-Diplogastridae)-pone.0155715.s004.ogv",
+    "title": "선충이 다른 선충의 사체를 먹는다",
+    "category": "먹이 섭취",
+    "subjects": [
+      "neodiplogaster",
+      "nematode"
+    ],
+    "summary": "Neodiplogaster acaloleptae가 죽은 다른 선충의 몸에서 내용물을 섭취한다.",
+    "detail": "균사 섭식과 유사하게 입과 인두를 움직여 먹이의 내용물을 빨아들인다. 원본은 살아 있는 선충을 사냥하는 장면이 아닌 사체 섭식을 보여준다.",
+    "creator": "Kanzaki N",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "featured": true
+  },
+  {
+    "id": "damselfly-mosquito-larva",
+    "file": "Личинка стрекозы съедает личинку комара.webm",
+    "title": "실잠자리 유충이 모기 유충을 낚아챈다",
+    "category": "포식",
+    "subjects": [
+      "damselfly-nymph",
+      "mosquito-larva"
+    ],
+    "summary": "수생 실잠자리 유충이 접힌 아랫입술을 빠르게 뻗어 모기 유충을 붙잡아 먹는다.",
+    "detail": "포획에 쓰이는 변형된 아랫입술은 평소 머리 아래 접혀 있다가 사냥할 때 앞으로 튀어나온다. 먹이를 붙잡으면 다시 접어 입 쪽으로 가져온다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "featured": true
+  },
+  {
+    "id": "damselfly-ceriodaphnia",
+    "file": "Личинка равнокрылой стрекозы ловит и ест Цериодафний.webm",
+    "title": "실잠자리 유충이 물벼룩을 순식간에 포획한다",
+    "category": "포식",
+    "subjects": [
+      "damselfly-nymph",
+      "ceriodaphnia"
+    ],
+    "summary": "실잠자리 유충이 Ceriodaphnia를 돌출 가능한 아랫입술로 붙잡아 입으로 가져가는 모습이다.",
+    "detail": "접힌 아랫입술을 펴서 먹이를 갈고리로 포획하고, 다시 접어 입에 전달해 씹어 먹는다. 작은 먹이 입자가 식도를 지나가는 모습도 관찰할 수 있다.",
+    "creator": "Andrei Savitsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "featured": true
   }
 ]

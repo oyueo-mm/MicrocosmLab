@@ -678,5 +678,61 @@
     "group": "세포",
     "wikiTitle": "세포",
     "searchTerm": "세포"
+  },
+  {
+    "id": "spathidium",
+    "name": "스파티디움",
+    "scientific": "Spathidium",
+    "group": "포식성 섬모충",
+    "wikiTitle": "스파티디움",
+    "searchTerm": "스파티디움"
+  },
+  {
+    "id": "loxophyllum",
+    "name": "록소필룸",
+    "scientific": "Loxophyllum",
+    "group": "포식성 섬모충",
+    "wikiTitle": "록소필룸",
+    "searchTerm": "록소필룸"
+  },
+  {
+    "id": "neodiplogaster",
+    "name": "네오디플로가스터 선충",
+    "scientific": "Neodiplogaster acaloleptae",
+    "group": "선형동물",
+    "wikiTitle": "네오디플로가스터 선충",
+    "searchTerm": "네오디플로가스터 선충"
+  },
+  {
+    "id": "damselfly-nymph",
+    "name": "실잠자리 유충",
+    "scientific": "Zygoptera nymph",
+    "group": "수생 곤충",
+    "wikiTitle": "실잠자리 유충",
+    "searchTerm": "실잠자리 유충"
+  },
+  {
+    "id": "mosquito-larva",
+    "name": "모기 유충",
+    "scientific": "Culicidae larva",
+    "group": "수생 곤충",
+    "wikiTitle": "모기 유충",
+    "searchTerm": "모기 유충"
+  },
+  {
+    "id": "ceriodaphnia",
+    "name": "세리오다프니아",
+    "scientific": "Ceriodaphnia",
+    "group": "미소 갑각류",
+    "wikiTitle": "세리오다프니아",
+    "searchTerm": "세리오다프니아"
+  },
+  {
+    "id": "microscopy-generic",
+    "name": "현미경 관찰 대상",
+    "scientific": "Microscopic specimen",
+    "group": "세포·생물",
+    "wikiTitle": "현미경 관찰 대상",
+    "searchTerm": "현미경 관찰 대상"
   }
 ]
