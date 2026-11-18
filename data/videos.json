@@ -1812,8 +1812,8 @@
       "fission-yeast"
     ],
     "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
-    "license": "CC BY 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/3.0/"
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
   },
   {
     "id": "drosophila-mitosis",
@@ -1855,8 +1855,8 @@
       "macrophage"
     ],
     "creator": "연구 원저자 · Wikimedia Commons 원본 참조",
-    "license": "CC BY 2.5",
-    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
   },
   {
     "id": "dicty-cell-polarity",
@@ -1884,8 +1884,8 @@
     "summary": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
     "detail": "위상차 현미경으로 관찰한 렙토프리스 아메바의 조류 섭취 과정이다.",
     "creator": "Andrei Savitsky",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "polychaos-eat",
@@ -1899,8 +1899,8 @@
     "summary": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
     "detail": "폴리카오스 아메바가 작은 아메바를 섭취하는 장면이다.",
     "creator": "Andrei Savitsky",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "collotheca-feeding",
@@ -1927,8 +1927,8 @@
     "summary": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
     "detail": "윤충의 마스타크스가 먹이를 처리하는 모습을 현미경으로 관찰한다.",
     "creator": "논문 원저자 · Wikimedia Commons",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "rotifer-cilia",
@@ -1941,8 +1941,8 @@
     "summary": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
     "detail": "윤충의 섬모 운동으로 물의 흐름이 생겨 먹이 입자가 이동한다.",
     "creator": "논문 원저자 · Wikimedia Commons",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "neutrophil-hvcn1",
@@ -2072,8 +2072,8 @@
     "summary": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
     "detail": "세포의 유사분열 과정이 실시간으로 촬영된 현미경 영상이다.",
     "creator": "논문 원저자 · Wikimedia Commons",
-    "license": "CC BY-SA 3.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "rpe-taxol",
@@ -2086,8 +2086,8 @@
     "summary": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
     "detail": "탁솔을 처리한 망막색소상피세포에서 유사분열 이상이 발생하는 모습이다.",
     "creator": "논문 원저자 · Wikimedia Commons",
-    "license": "CC BY 4.0",
-    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/"
   },
   {
     "id": "ptk-rnai-mitosis",
