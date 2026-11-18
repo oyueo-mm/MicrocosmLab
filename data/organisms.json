@@ -654,5 +654,21 @@
     "group": "현미경 관찰 대상",
     "wikiTitle": "녹색 섬모충",
     "searchTerm": "녹색 섬모충"
+  },
+  {
+    "id": "zebrafish-larva",
+    "name": "제브라피시 유생",
+    "scientific": "Danio rerio larva",
+    "group": "실험 동물·배양 세포",
+    "wikiTitle": "제브라피시 유생",
+    "searchTerm": "제브라피시 유생"
+  },
+  {
+    "id": "mt4-cell",
+    "name": "MT4 T세포",
+    "scientific": "MT4 T cell",
+    "group": "실험 동물·배양 세포",
+    "wikiTitle": "MT4 T세포",
+    "searchTerm": "MT4 T세포"
   }
 ]
