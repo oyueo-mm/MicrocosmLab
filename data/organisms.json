@@ -670,5 +670,13 @@
     "group": "실험 동물·배양 세포",
     "wikiTitle": "MT4 T세포",
     "searchTerm": "MT4 T세포"
+  },
+  {
+    "id": "cell-generic",
+    "name": "세포",
+    "scientific": "Cell",
+    "group": "세포",
+    "wikiTitle": "세포",
+    "searchTerm": "세포"
   }
 ]
