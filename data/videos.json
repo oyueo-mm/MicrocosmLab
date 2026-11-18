@@ -2635,7 +2635,7 @@
   },
   {
     "id": "bulk-2fy01w",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Loxophyllum meleagris",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -2650,7 +2650,7 @@
   },
   {
     "id": "bulk-tohpop",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Thuricola",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -2695,10 +2695,10 @@
   },
   {
     "id": "bulk-gfxefw",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Colletheca DSC 6901",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Colletheca DSC 6901.webm",
     "subjects": [
       "rotifer"
@@ -2710,10 +2710,10 @@
   },
   {
     "id": "bulk-h387i5",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Colletheca DSC 6902",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Colletheca DSC 6902.webm",
     "subjects": [
       "rotifer"
@@ -2725,10 +2725,10 @@
   },
   {
     "id": "bulk-66md57",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Rotifer among Trachelomonas DSC 6853",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rotifer among Trachelomonas DSC 6853.webm",
     "subjects": [
       "rotifer"
@@ -2740,10 +2740,10 @@
   },
   {
     "id": "bulk-1rujlt3",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Maybe rotifer embryo DSC 6945",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Maybe rotifer embryo DSC 6945.webm",
     "subjects": [
       "rotifer"
@@ -2755,10 +2755,10 @@
   },
   {
     "id": "bulk-scvi5",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Detached rotifer DSC 6954",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Detached rotifer DSC 6954.webm",
     "subjects": [
       "rotifer"
@@ -2773,7 +2773,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rädertierchen (Rotifera) an der Wurzel der Wasserlinse 36-fache Vergrößerung.webm",
     "subjects": [
       "rotifer"
@@ -2788,7 +2788,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rädertierchen (Rotifera) an der Wurzel der Wasserlinse 200-fache Vergrößerung.webm",
     "subjects": [
       "rotifer"
@@ -2803,7 +2803,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка 2.webm",
     "subjects": [
       "rotifer"
@@ -2818,7 +2818,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка 11.webm",
     "subjects": [
       "rotifer"
@@ -2833,7 +2833,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка 10.webm",
     "subjects": [
       "rotifer"
@@ -2845,10 +2845,10 @@
   },
   {
     "id": "bulk-9p23pc",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Rotifer on alga DSC 6948",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rotifer on alga DSC 6948.webm",
     "subjects": [
       "rotifer"
@@ -2863,7 +2863,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка Collotheca.webm",
     "subjects": [
       "rotifer"
@@ -2878,7 +2878,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка pterodina.webm",
     "subjects": [
       "rotifer"
@@ -2893,7 +2893,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Перемещение коловратки.webm",
     "subjects": [
       "rotifer"
@@ -2908,7 +2908,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка Epiphanes senta.webm",
     "subjects": [
       "rotifer"
@@ -2923,7 +2923,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка 3.webm",
     "subjects": [
       "rotifer"
@@ -2938,7 +2938,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка, съевшая водоросли.webm",
     "subjects": [
       "rotifer"
@@ -2953,7 +2953,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка 9.webm",
     "subjects": [
       "rotifer"
@@ -2968,7 +2968,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Коловратка. Дифференциально-интерференционный контраст, объектив 40х.webm",
     "subjects": [
       "rotifer"
@@ -2983,7 +2983,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Питание коловратки.webm",
     "subjects": [
       "rotifer"
@@ -2998,7 +2998,7 @@
     "title": "윤충의 현미경 관찰",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Питание коловратки 2.webm",
     "subjects": [
       "rotifer"
@@ -3010,10 +3010,10 @@
   },
   {
     "id": "bulk-4f4now",
-    "title": "아메바의 현미경 관찰",
+    "title": "아메바 관찰 · Amoeba gen et sp indet mov1",
     "summary": "아메바과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "이동",
+    "category": "생태 관찰",
     "file": "Amoeba gen et sp indet mov1.webm",
     "subjects": [
       "amoeba"
@@ -3025,10 +3025,10 @@
   },
   {
     "id": "bulk-52fgr5",
-    "title": "아메바의 현미경 관찰",
+    "title": "아메바 관찰 · Amoeba gen et sp indet mov2",
     "summary": "아메바과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "이동",
+    "category": "생태 관찰",
     "file": "Amoeba gen et sp indet mov2.webm",
     "subjects": [
       "amoeba"
@@ -3043,7 +3043,7 @@
     "title": "아메바의 현미경 관찰",
     "summary": "아메바과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "이동",
+    "category": "생태 관찰",
     "file": "Раковинная амеба 2.webm",
     "subjects": [
       "amoeba"
@@ -3058,7 +3058,7 @@
     "title": "아메바의 현미경 관찰",
     "summary": "아메바과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "이동",
+    "category": "생태 관찰",
     "file": "Раковинная амеба 3.webm",
     "subjects": [
       "amoeba"
@@ -3088,7 +3088,7 @@
     "title": "아메바의 현미경 관찰",
     "summary": "아메바과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Amoebozoa 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "이동",
+    "category": "생태 관찰",
     "file": "Раковинная амеба.webm",
     "subjects": [
       "amoeba"
@@ -3100,7 +3100,7 @@
   },
   {
     "id": "bulk-9f5jwn",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Para1004",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -3115,7 +3115,7 @@
   },
   {
     "id": "bulk-6tybnn",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Para1000",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -3130,7 +3130,7 @@
   },
   {
     "id": "bulk-84jxs5",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Para1002",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -3161,9 +3161,9 @@
   {
     "id": "bulk-1xih0v3",
     "title": "세균의 군집 행동",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Reconstitution in 6 phases, of the changes in cell shape (in red) and nucleoid structure (roughly equivalent to the DNA, in green), during the cell cycle of the bacteria D. radiodurans.webm",
     "subjects": [
       "bacteria"
@@ -3176,9 +3176,9 @@
   {
     "id": "bulk-3zlo4m",
     "title": "세균의 군집 행동",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Бактерии зубного налета.webm",
     "subjects": [
       "bacteria"
@@ -3191,9 +3191,9 @@
   {
     "id": "bulk-101fk7c",
     "title": "세균의 군집 행동",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Бактерии в сметане.webm",
     "subjects": [
       "bacteria"
@@ -3206,9 +3206,9 @@
   {
     "id": "bulk-1oukeki",
     "title": "세균의 군집 행동",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Бактерии и волос.webm",
     "subjects": [
       "bacteria"
@@ -4195,7 +4195,7 @@
   },
   {
     "id": "bulk-1bdwyqm",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodacoupled1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4210,7 +4210,7 @@
   },
   {
     "id": "bulk-1bemdsv",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodacoupled2",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4225,7 +4225,7 @@
   },
   {
     "id": "bulk-1q4n3fm",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodaspiralis100x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4240,7 +4240,7 @@
   },
   {
     "id": "bulk-a2yqo4",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodacircus100x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4255,7 +4255,7 @@
   },
   {
     "id": "bulk-1pfqz7x",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Bigcolpoda100x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4270,7 +4270,7 @@
   },
   {
     "id": "bulk-7c5rc0",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodaspiralis1st",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4285,7 +4285,7 @@
   },
   {
     "id": "bulk-zxc3oy",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodaharrass400x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4300,7 +4300,7 @@
   },
   {
     "id": "bulk-1rotyy0",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Blepharisma americana",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4315,7 +4315,7 @@
   },
   {
     "id": "bulk-18i96vf",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Firstappearncept1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4330,7 +4330,7 @@
   },
   {
     "id": "bulk-18iylxo",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Firstappearncept2",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4345,7 +4345,7 @@
   },
   {
     "id": "bulk-h122w5",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodaspiralis400x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4360,7 +4360,7 @@
   },
   {
     "id": "bulk-dtgsbj",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodatrio",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4375,7 +4375,7 @@
   },
   {
     "id": "bulk-56vswr",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Detailedcolpoda400x2",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4390,7 +4390,7 @@
   },
   {
     "id": "bulk-566dui",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Detailedcolpoda400x1",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4405,7 +4405,7 @@
   },
   {
     "id": "bulk-n5dl4b",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Colpodastuck",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4420,7 +4420,7 @@
   },
   {
     "id": "bulk-1i1ndir",
-    "title": "섬모충의 현미경 관찰",
+    "title": "섬모충 관찰 · Frontonia vernalis",
     "summary": "섬모충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Ciliophora 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4450,10 +4450,10 @@
   },
   {
     "id": "bulk-1r10att",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Rotifer video",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rotifer video.ogv",
     "subjects": [
       "rotifer"
@@ -4495,10 +4495,10 @@
   },
   {
     "id": "bulk-1swu68p",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Floscularia ornata",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Floscularia ornata.ogv",
     "subjects": [
       "rotifer"
@@ -4510,10 +4510,10 @@
   },
   {
     "id": "bulk-13bozvu",
-    "title": "윤충의 현미경 관찰",
+    "title": "윤충 관찰 · Rotifer entering inert state",
     "summary": "윤충과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Rotifera 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "먹이 섭취",
+    "category": "생태 관찰",
     "file": "Rotifer entering inert state.ogg",
     "subjects": [
       "rotifer"
@@ -4660,7 +4660,7 @@
   },
   {
     "id": "bulk-6159rw",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Paramecium bursaria",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4675,7 +4675,7 @@
   },
   {
     "id": "bulk-18uhvjb",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Paramecium putrinum",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4690,7 +4690,7 @@
   },
   {
     "id": "bulk-1nk6ju9",
-    "title": "짚신벌레의 현미경 관찰",
+    "title": "짚신벌레 관찰 · Paramecium Dividing",
     "summary": "짚신벌레과 관련된 현미경 관찰을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of Paramecium 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "생태 관찰",
@@ -4736,7 +4736,7 @@
   {
     "id": "bulk-141dywc",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "집단행동",
     "file": "A-Quorum-Sensing-Factor-in-Vegetative-Dictyostelium-Discoideum-Cells-Revealed-by-Quantitative-pone.0026901.s009.ogv",
@@ -4751,7 +4751,7 @@
   {
     "id": "bulk-14ic0ec",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "집단행동",
     "file": "A-Quorum-Sensing-Factor-in-Vegetative-Dictyostelium-Discoideum-Cells-Revealed-by-Quantitative-pone.0026901.s010.ogv",
@@ -4766,9 +4766,9 @@
   {
     "id": "bulk-3itdq1",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S1.ogv",
     "subjects": [
       "dictyostelium"
@@ -4781,9 +4781,9 @@
   {
     "id": "bulk-3jissa",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S2.ogv",
     "subjects": [
       "dictyostelium"
@@ -4796,9 +4796,9 @@
   {
     "id": "bulk-1ex2a2v",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Asymmetric-PTEN-Distribution-Regulated-by-Spatial-Heterogeneity-in-Membrane-Binding-State-pcbi.1002862.s008.ogv",
     "subjects": [
       "dictyostelium"
@@ -4811,9 +4811,9 @@
   {
     "id": "bulk-1exrp54",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Asymmetric-PTEN-Distribution-Regulated-by-Spatial-Heterogeneity-in-Membrane-Binding-State-pcbi.1002862.s009.ogv",
     "subjects": [
       "dictyostelium"
@@ -4856,7 +4856,7 @@
   {
     "id": "bulk-nw2n52",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "집단행동",
     "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s005.ogv",
@@ -4871,7 +4871,7 @@
   {
     "id": "bulk-nws27b",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "집단행동",
     "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s006.ogv",
@@ -4886,7 +4886,7 @@
   {
     "id": "bulk-nxhh9k",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
     "category": "집단행동",
     "file": "Deficiency-of-Huntingtin-Has-Pleiotropic-Effects-in-the-Social-Amoeba-Dictyostelium-discoideum-pgen.1002052.s007.ogv",
@@ -4901,9 +4901,9 @@
   {
     "id": "bulk-1lkv99p",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "FYVE-Dependent-Endosomal-Targeting-of-an-Arrestin-Related-Protein-in-Amoeba-pone.0015249.s007.ogv",
     "subjects": [
       "dictyostelium"
@@ -4916,9 +4916,9 @@
   {
     "id": "bulk-3k87uj",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Ca2+-regulation-in-the-absence-of-the-iplA-gene-product-in-Dictyostelium-discoideum-1471-2121-6-13-S3.ogv",
     "subjects": [
       "dictyostelium"
@@ -4946,9 +4946,9 @@
   {
     "id": "bulk-e094nk",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Innate-Non-Specific-Cell-Substratum-Adhesion-pone.0042033.s001.ogv",
     "subjects": [
       "dictyostelium"
@@ -4961,9 +4961,9 @@
   {
     "id": "bulk-e0yjpt",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Innate-Non-Specific-Cell-Substratum-Adhesion-pone.0042033.s002.ogv",
     "subjects": [
       "dictyostelium"
@@ -4976,9 +4976,9 @@
   {
     "id": "bulk-jtexn6",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S1.ogv",
     "subjects": [
       "dictyostelium"
@@ -4991,9 +4991,9 @@
   {
     "id": "bulk-ju4cpf",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S2.ogv",
     "subjects": [
       "dictyostelium"
@@ -5006,9 +5006,9 @@
   {
     "id": "bulk-jutrro",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Mitochondrial-fission-and-fusion-in-Dictyostelium-discoideum-a-search-for-proteins-involved-in-1756-0500-5-505-S3.ogv",
     "subjects": [
       "dictyostelium"
@@ -5021,9 +5021,9 @@
   {
     "id": "bulk-1jvfxhm",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s003.ogv",
     "subjects": [
       "dictyostelium"
@@ -5036,9 +5036,9 @@
   {
     "id": "bulk-1mu80c6",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s006.ogv",
     "subjects": [
       "dictyostelium"
@@ -5051,9 +5051,9 @@
   {
     "id": "bulk-1muxfef",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s007.ogv",
     "subjects": [
       "dictyostelium"
@@ -5066,9 +5066,9 @@
   {
     "id": "bulk-1mvmugo",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Stretching-Actin-Filaments-within-Cells-Enhances-their-Affinity-for-the-Myosin-II-Motor-Domain-pone.0026200.s008.ogv",
     "subjects": [
       "dictyostelium"
@@ -5081,9 +5081,9 @@
   {
     "id": "bulk-1jw5cjv",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s004.ogv",
     "subjects": [
       "dictyostelium"
@@ -5096,9 +5096,9 @@
   {
     "id": "bulk-1jwurm4",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Role-of-PKD2-in-Rheotaxis-in-Dictyostelium-pone.0088682.s005.ogv",
     "subjects": [
       "dictyostelium"
@@ -5111,9 +5111,9 @@
   {
     "id": "bulk-191kjfi",
     "title": "사회성 아메바의 군집 행동",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S2.ogv",
     "subjects": [
       "dictyostelium"
@@ -5126,9 +5126,9 @@
   {
     "id": "bulk-192zdk0",
     "title": "사회성 아메바의 군집 행동 · 2",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S4.ogv",
     "subjects": [
       "dictyostelium"
@@ -5141,9 +5141,9 @@
   {
     "id": "bulk-195t1t0",
     "title": "사회성 아메바의 군집 행동 · 3",
-    "summary": "사회성 아메바과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
+    "summary": "사회성 아메바의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Dictyostelium discoideum 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "The-adhesion-modulation-protein-AmpA-localizes-to-an-endocytic-compartment-andinfluences-substrate-1471-2121-13-29-S8.ogv",
     "subjects": [
       "dictyostelium"
@@ -5156,9 +5156,9 @@
   {
     "id": "bulk-ugp4kg",
     "title": "점액세균의 군집 행동",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s014.ogv",
     "subjects": [
       "myxococcus"
@@ -5171,9 +5171,9 @@
   {
     "id": "bulk-uhejmp",
     "title": "점액세균의 군집 행동 · 2",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s015.ogv",
     "subjects": [
       "myxococcus"
@@ -5336,9 +5336,9 @@
   {
     "id": "bulk-1r3m069",
     "title": "점액세균의 군집 행동",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s010.ogv",
     "subjects": [
       "myxococcus"
@@ -5351,9 +5351,9 @@
   {
     "id": "bulk-1r4bf8i",
     "title": "점액세균의 군집 행동 · 2",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s011.ogv",
     "subjects": [
       "myxococcus"
@@ -5366,9 +5366,9 @@
   {
     "id": "bulk-1r50uar",
     "title": "점액세균의 군집 행동 · 3",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Evolution-and-Design-Governing-Signal-Precision-and-Amplification-in-a-Bacterial-Chemosensory-pgen.1005460.s012.ogv",
     "subjects": [
       "myxococcus"
@@ -5381,9 +5381,9 @@
   {
     "id": "bulk-j0w8kn",
     "title": "점액세균의 군집 행동",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Functional-Organization-of-a-Multimodular-Bacterial-Chemosensory-Apparatus-pgen.1004164.s012.ogv",
     "subjects": [
       "myxococcus"
@@ -5396,9 +5396,9 @@
   {
     "id": "bulk-j1lnmw",
     "title": "점액세균의 군집 행동 · 2",
-    "summary": "점액세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
+    "summary": "점액세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Myxococcus xanthus videos 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "Functional-Organization-of-a-Multimodular-Bacterial-Chemosensory-Apparatus-pgen.1004164.s013.ogv",
     "subjects": [
       "myxococcus"
@@ -5576,9 +5576,9 @@
   {
     "id": "bulk-13q1a7o",
     "title": "세균의 군집 행동",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "High-Resolution-In-Vivo-Bioluminescent-Imaging-for-the-Study-of-Bacterial-Tumour-Targeting-pone.0030940.s001.ogv",
     "subjects": [
       "bacteria"
@@ -5591,9 +5591,9 @@
   {
     "id": "bulk-13rg4c6",
     "title": "세균의 군집 행동 · 2",
-    "summary": "세균과 관련된 군집 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
+    "summary": "세균의 행동을 현미경으로 기록한 자료다. 원본 파일은 Wikimedia Commons의 Videos of bacteria 분류에서 확인되었다.",
     "detail": "연구 자료의 세부 실험 조건은 원본 영상 페이지에서 확인할 수 있다. 화면에서 나타나는 세포 또는 개체의 움직임과 시간에 따른 변화를 살펴보자. 구체적인 기전이나 생물종은 영상만으로 단정하지 않는다.",
-    "category": "집단행동",
+    "category": "생태 관찰",
     "file": "High-Resolution-In-Vivo-Bioluminescent-Imaging-for-the-Study-of-Bacterial-Tumour-Targeting-pone.0030940.s003.ogv",
     "subjects": [
       "bacteria"
