@@ -961,5 +961,639 @@
     "creator": "Brandon Seah",
     "license": "CC BY 4.0",
     "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "dengue-surface",
+    "title": "뎅기 바이러스가 세포 표면을 움직인다",
+    "summary": "형광 표지된 뎅기 바이러스가 세포막을 따라 이동하다 클라트린 피복 함몰에 포획되는 모습이다.",
+    "detail": "형광 표지된 뎅기 바이러스가 세포막을 따라 이동하다 클라트린 피복 함몰에 포획되는 모습이다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s002.ogv",
+    "subjects": [
+      "dengue-virus",
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H · Rust M · Chen C 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dengue-endosome",
+    "title": "뎅기 바이러스가 엔도솜 안으로 이동한다",
+    "summary": "세포에 들어온 바이러스 입자가 엔도솜과 함께 이동하며 초기 엔도솜이 성숙하는 과정이다.",
+    "detail": "세포에 들어온 바이러스 입자가 엔도솜과 함께 이동하며 초기 엔도솜이 성숙하는 과정이다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s003.ogv",
+    "subjects": [
+      "dengue-virus",
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H · Rust M · Chen C 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dengue-traffic",
+    "title": "세포 안에서 이동하는 뎅기 바이러스",
+    "summary": "형광 표지된 바이러스와 엔도솜을 추적해 세포 내부 이동 경로를 보여준다.",
+    "detail": "형광 표지된 바이러스와 엔도솜을 추적해 세포 내부 이동 경로를 보여준다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s004.ogv",
+    "subjects": [
+      "dengue-virus",
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H · Rust M · Chen C 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dengue-early",
+    "title": "바이러스가 세포 내부 소기관에 도달한다",
+    "summary": "뎅기 바이러스의 세포 내 이동을 형광 현미경으로 추적한 실험이다.",
+    "detail": "뎅기 바이러스의 세포 내 이동을 형광 현미경으로 추적한 실험이다.",
+    "category": "감염·기생",
+    "file": "Dissecting-the-Cell-Entry-Pathway-of-Dengue-Virus-by-Single-Particle-Tracking-in-Living-Cells-ppat.1000244.s005.ogv",
+    "subjects": [
+      "dengue-virus",
+      "hela-cell"
+    ],
+    "creator": "van der Schaar H · Rust M · Chen C 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "papilloma-entry",
+    "title": "인유두종바이러스의 세포 진입을 관찰한다",
+    "summary": "인유두종바이러스 16형의 세포 진입에 관여하는 액틴 의존 과정을 관찰한 연구 영상이다.",
+    "detail": "인유두종바이러스 16형의 세포 진입에 관여하는 액틴 의존 과정을 관찰한 연구 영상이다.",
+    "category": "감염·기생",
+    "file": "Entry-of-Human-Papillomavirus-Type-16-by-Actin-Dependent-Clathrin--and-Lipid-Raft-Independent-ppat.1002657.s011.ogv",
+    "subjects": [
+      "hpv-virus",
+      "hela-cell"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "vaccinia-spread",
+    "title": "백시니아 바이러스가 세포 사이로 퍼진다",
+    "summary": "백시니아 바이러스 감염이 배양 세포 사이에서 퍼지는 양상을 기록한 연구 영상이다.",
+    "detail": "백시니아 바이러스 감염이 배양 세포 사이에서 퍼지는 양상을 기록한 연구 영상이다.",
+    "category": "감염·기생",
+    "file": "F11-Mediated-Inhibition-of-RhoA-Signalling-Enhances-the-Spread-of-Vaccinia-Virus-In-Vitro-and-In-pone.0008506.s002.ogv",
+    "subjects": [
+      "vaccinia-virus",
+      "hela-cell"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "hsv-transport",
+    "title": "단순포진바이러스가 세포 밖으로 이동한다",
+    "summary": "단순포진바이러스가 세포에서 나가는 과정과 관련 단백질의 이동을 관찰한 영상이다.",
+    "detail": "단순포진바이러스가 세포에서 나가는 과정과 관련 단백질의 이동을 관찰한 영상이다.",
+    "category": "감염·기생",
+    "file": "Herpes-Simplex-Virus-Dances-with-Amyloid-Precursor-Protein-while-Exiting-the-Cell-pone.0017966.s011.ogv",
+    "subjects": [
+      "hsv-virus",
+      "hela-cell"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "hep-b-nuclear",
+    "title": "B형간염 바이러스 캡시드의 핵 진입 연구",
+    "summary": "B형간염 바이러스 캡시드와 핵공의 상호작용을 현미경 영상으로 관찰한다.",
+    "detail": "B형간염 바이러스 캡시드와 핵공의 상호작용을 현미경 영상으로 관찰한다.",
+    "category": "감염·기생",
+    "file": "Nucleoporin-153-Arrests-the-Nuclear-Import-of-Hepatitis-B-Virus-Capsids-in-the-Nuclear-Basket-ppat.1000741.s001.ogv",
+    "subjects": [
+      "hepatitis-b-virus",
+      "hela-cell"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-social-1",
+    "title": "점액세균 무리가 집단으로 미끄러진다",
+    "summary": "점액세균 Myxococcus xanthus가 고체 표면에서 집단으로 움직이는 모습이다.",
+    "detail": "점액세균 Myxococcus xanthus가 고체 표면에서 집단으로 움직이는 모습이다.",
+    "category": "집단행동",
+    "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s001.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Myxococcus 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-social-2",
+    "title": "점액세균의 집단 이동을 다른 조건에서 비교한다",
+    "summary": "점액세균 군집이 움직이는 모습을 조건별로 비교한 시간경과 현미경 영상이다.",
+    "detail": "점액세균 군집이 움직이는 모습을 조건별로 비교한 시간경과 현미경 영상이다.",
+    "category": "집단행동",
+    "file": "Exopolysaccharide-Independent-Social-Motility-of-Myxococcusxanthus-pone.0016102.s002.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "Myxococcus 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-exchange",
+    "title": "점액세균끼리 접촉해 막 성분을 교환한다",
+    "summary": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
+    "detail": "점액세균이 서로 접촉할 때 외막 성분을 교환하는 연구 실험 영상이다.",
+    "category": "공생",
+    "file": "Cell-Contact–Dependent-Outer-Membrane-Exchange-in-Myxobacteria-Genetic-Determinants-and-Mechanism-pgen.1002626.s013.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "접촉 의존 외막 교환 실험",
+    "licenseUrl": "https://creativecommons.org/licenses/접촉-의존-외막-교환-실험/"
+  },
+  {
+    "id": "myxo-motility-gene",
+    "title": "운동 유전자 변화가 점액세균 군집에 미치는 영향",
+    "summary": "운동 관련 유전자 변형 조건에서 점액세균의 이동 양상을 관찰한다.",
+    "detail": "운동 관련 유전자 변형 조건에서 점액세균의 이동 양상을 관찰한다.",
+    "category": "집단행동",
+    "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S2.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-swarm-gene",
+    "title": "운동성 변화에 따라 군집이 퍼지는 모습",
+    "summary": "점액세균의 운동성·집단 확장 양상을 조건별로 기록한 영상이다.",
+    "detail": "점액세균의 운동성·집단 확장 양상을 조건별로 기록한 영상이다.",
+    "category": "집단행동",
+    "file": "Effects-of-site-directed-mutagenesis-of-mglA-on-motility-and-swarming-of-Myxococcus-xanthus-1471-2180-10-295-S5.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "myxo-surface-motor",
+    "title": "점액세균이 표면에서 미끄러지듯 이동한다",
+    "summary": "표면 운동과 포자 형성에 관여하는 운동 기구를 연구한 현미경 기록이다.",
+    "detail": "표면 운동과 포자 형성에 관여하는 운동 기구를 연구한 현미경 기록이다.",
+    "category": "이동",
+    "file": "A-Versatile-Class-of-Cell-Surface-Directional-Motors-Gives-Rise-to-Gliding-Motility-and-Sporulation-pbio.1001728.s014.ogv",
+    "subjects": [
+      "myxococcus"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "pseudomonas-psl",
+    "title": "녹농균이 생물막 안에서 움직인다",
+    "summary": "녹농균 미세 군집의 중앙에서 세균이 유영하고 Psl 생물막 기질이 형성된 모습이다.",
+    "detail": "녹농균 미세 군집의 중앙에서 세균이 유영하고 Psl 생물막 기질이 형성된 모습이다.",
+    "category": "집단행동",
+    "file": "Assembly-and-Development-of-the-Pseudomonas-aeruginosa-Biofilm-Matrix-ppat.1000354.s003.ogv",
+    "subjects": [
+      "pseudomonas"
+    ],
+    "creator": "Ma L · Conover M · Lu H 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "pseudomonas-colony",
+    "title": "녹농균 군집의 생물막 내부를 관찰한다",
+    "summary": "서로 다른 녹농균 균주의 생물막 미세 군집에서 움직이는 세포를 기록했다.",
+    "detail": "서로 다른 녹농균 균주의 생물막 미세 군집에서 움직이는 세포를 기록했다.",
+    "category": "집단행동",
+    "file": "Assembly-and-Development-of-the-Pseudomonas-aeruginosa-Biofilm-Matrix-ppat.1000354.s004.ogv",
+    "subjects": [
+      "pseudomonas"
+    ],
+    "creator": "Ma L · Conover M · Lu H 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "biofilm-explosive",
+    "title": "세균이 파열되며 생물막 형성에 기여한다",
+    "summary": "녹농균의 세포가 둥글어졌다가 터지며 세포외 DNA가 방출되는 장면을 형광으로 촬영했다.",
+    "detail": "녹농균의 세포가 둥글어졌다가 터지며 세포외 DNA가 방출되는 장면을 형광으로 촬영했다.",
+    "category": "집단행동",
+    "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s8.ogv",
+    "subjects": [
+      "pseudomonas"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "biofilm-interstitial",
+    "title": "녹농균 생물막 사이에서 나타나는 세포 파열",
+    "summary": "형광 표지된 세포외 DNA와 함께 녹농균 생물막에서 세포 파열 현상을 관찰한다.",
+    "detail": "형광 표지된 세포외 DNA와 함께 녹농균 생물막에서 세포 파열 현상을 관찰한다.",
+    "category": "집단행동",
+    "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s3.ogv",
+    "subjects": [
+      "pseudomonas"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "biofilm-development",
+    "title": "녹농균 생물막의 성장 과정을 관찰한다",
+    "summary": "녹농균 생물막의 시간에 따른 변화를 위상차 현미경으로 촬영한 실험이다.",
+    "detail": "녹농균 생물막의 시간에 따른 변화를 위상차 현미경으로 촬영한 실험이다.",
+    "category": "집단행동",
+    "file": "Explosive-cell-lysis-as-a-mechanism-for-the-biogenesis-of-bacterial-membrane-vesicles-and-biofilms-ncomms11220-s6.ogv",
+    "subjects": [
+      "pseudomonas"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "e-coli-matrix",
+    "title": "대장균이 생물막을 이루는 모습을 추적한다",
+    "summary": "배양 조건에서 대장균 세포의 배열과 미세 군집 변화를 시간경과로 관찰한다.",
+    "detail": "배양 조건에서 대장균 세포의 배열과 미세 군집 변화를 시간경과로 관찰한다.",
+    "category": "집단행동",
+    "file": "Genetic-Dissection-of-an-Exogenously-Induced-Biofilm-in-Laboratory-and-Clinical-Isolates-of-E.-coli-ppat.1000432.s022.ogv",
+    "subjects": [
+      "e-coli"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "rhodobacter-group",
+    "title": "광합성 세균의 장거리 집단 이동",
+    "summary": "로도박터 속 광합성 세균이 고체 표면 위에서 협응하며 움직이는 모습이다.",
+    "detail": "로도박터 속 광합성 세균이 고체 표면 위에서 협응하며 움직이는 모습이다.",
+    "category": "집단행동",
+    "file": "Coordinated-Long-Range-Solid-Substrate-Movement-of-the-Purple-Photosynthetic-Bacterium-Rhodobacter-pone.0019646.s001.ogv",
+    "subjects": [
+      "rhodobacter"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "bacterial-colony-3d",
+    "title": "세균 군집이 평면에서 입체로 성장한다",
+    "summary": "세균 군체가 이차원적 분열에서 입체적인 군집 구조로 변하는 과정을 관찰한다.",
+    "detail": "세균 군체가 이차원적 분열에서 입체적인 군집 구조로 변하는 과정을 관찰한다.",
+    "category": "집단행동",
+    "file": "Bacterial-Colony-from-Two-Dimensional-Division-to-Three-Dimensional-Development-pone.0048098.s007.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "oral-biofilm-growth",
+    "title": "구강 미생물 생물막이 자라난다",
+    "summary": "형광 표지를 이용해 구강 생물막 형성 과정을 시간경과로 관찰한다.",
+    "detail": "형광 표지를 이용해 구강 생물막 형성 과정을 시간경과로 관찰한다.",
+    "category": "집단행동",
+    "file": "Red-and-Green-Fluorescence-from-Oral-Biofilms-pone.0168428.s003.ogv",
+    "subjects": [
+      "bacteria"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-conidia",
+    "title": "호중구가 곰팡이 포자를 여러 개 삼킨다",
+    "summary": "빠르게 이동하는 호중구가 아스페르길루스 분생포자를 차례로 포식한다.",
+    "detail": "빠르게 이동하는 호중구가 아스페르길루스 분생포자를 차례로 포식한다.",
+    "category": "면역",
+    "file": "S1-Polymorphonuclear Cells with Conidia in Liquid Media.ogv",
+    "subjects": [
+      "neutrophil",
+      "aspergillus"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-candida",
+    "title": "호중구가 칸디다 효모와 상호작용한다",
+    "summary": "액체 배지에서 호중구와 칸디다 효모 세포가 상호작용하는 현미경 기록이다.",
+    "detail": "액체 배지에서 호중구와 칸디다 효모 세포가 상호작용하는 현미경 기록이다.",
+    "category": "면역",
+    "file": "S10-PMNs with C albicans Yeasts in Liquid Media.ogv",
+    "subjects": [
+      "neutrophil",
+      "candida"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-collagen",
+    "title": "콜라겐 속에서 칸디다를 추적하는 호중구",
+    "summary": "콜라겐 환경에서 호중구가 칸디다 효모 세포와 접촉하는 양상을 관찰한다.",
+    "detail": "콜라겐 환경에서 호중구가 칸디다 효모 세포와 접촉하는 양상을 관찰한다.",
+    "category": "면역",
+    "file": "S12-PMNs with C albicans Yeasts in Collagen.ogv",
+    "subjects": [
+      "neutrophil",
+      "candida"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-choice",
+    "title": "호중구가 여러 포자를 끌고 이동한다",
+    "summary": "호중구가 아스페르길루스 포자를 다수 붙잡고 끌고 가며 칸디다 효모와 접촉한다.",
+    "detail": "호중구가 아스페르길루스 포자를 다수 붙잡고 끌고 가며 칸디다 효모와 접촉한다.",
+    "category": "면역",
+    "file": "S14-Competitive Phagocytosis Assay in Media.ogv",
+    "subjects": [
+      "neutrophil",
+      "aspergillus",
+      "candida"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-3d-choice",
+    "title": "콜라겐에서 벌어지는 호중구의 포식 실험",
+    "summary": "콜라겐 기반 환경에서 호중구와 곰팡이 세포의 상호작용을 기록한 영상이다.",
+    "detail": "콜라겐 기반 환경에서 호중구와 곰팡이 세포의 상호작용을 기록한 영상이다.",
+    "category": "면역",
+    "file": "S15-Competitive Phagocytosis Assay in Collagen.ogv",
+    "subjects": [
+      "neutrophil",
+      "aspergillus",
+      "candida"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "macrophage-conidia",
+    "title": "대식세포가 곰팡이 포자에 접근한다",
+    "summary": "J774 대식세포와 아스페르길루스 분생포자의 상호작용을 시간경과로 관찰한다.",
+    "detail": "J774 대식세포와 아스페르길루스 분생포자의 상호작용을 시간경과로 관찰한다.",
+    "category": "면역",
+    "file": "S4-J774 Cells with Conidia in Liquid Media.ogv",
+    "subjects": [
+      "macrophage",
+      "aspergillus"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-drag",
+    "title": "호중구가 포자를 붙잡고 이동한다",
+    "summary": "호중구가 포자를 끌고 이동하는 모습을 보여주는 포식 실험이다.",
+    "detail": "호중구가 포자를 끌고 이동하는 모습을 보여주는 포식 실험이다.",
+    "category": "면역",
+    "file": "S7-PMNs Dragging Conidia in Media.ogv",
+    "subjects": [
+      "neutrophil",
+      "aspergillus"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "neutrophil-phagocytosis-compare",
+    "title": "포자가 붙은 상태와 삼켜진 상태의 차이",
+    "summary": "곰팡이 포자가 호중구 표면에 붙어 있는 경우와 세포 안에 들어간 경우를 비교한다.",
+    "detail": "곰팡이 포자가 호중구 표면에 붙어 있는 경우와 세포 안에 들어간 경우를 비교한다.",
+    "category": "면역",
+    "file": "S9-Conidia Can Be Attached to the PMN Surface or Truly Internalized.ogv",
+    "subjects": [
+      "neutrophil",
+      "aspergillus"
+    ],
+    "creator": "Behnsen J · Narang P · Hasenberg M 외",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-camp",
+    "title": "사회성 아메바가 화학 신호를 향해 이동한다",
+    "summary": "딕티오스텔리움의 화학주성을 촬영한 연구 실험 영상이다.",
+    "detail": "딕티오스텔리움의 화학주성을 촬영한 연구 실험 영상이다.",
+    "category": "환경 반응",
+    "file": "Investigating-the-Effect-of-Emetic-Compounds-on-Chemotaxis-in-Dictyostelium-Identifies-a-Non-pone.0024439.s001.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-chemotaxis-treatment",
+    "title": "화학물질 처리 후 아메바의 이동을 비교한다",
+    "summary": "화학주성에 대한 처리 조건의 효과를 비교하는 딕티오스텔리움 현미경 영상이다.",
+    "detail": "화학주성에 대한 처리 조건의 효과를 비교하는 딕티오스텔리움 현미경 영상이다.",
+    "category": "환경 반응",
+    "file": "Investigating-the-Effect-of-Emetic-Compounds-on-Chemotaxis-in-Dictyostelium-Identifies-a-Non-pone.0024439.s002.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-collective-contact",
+    "title": "아메바들이 접촉하며 집단으로 움직인다",
+    "summary": "딕티오스텔리움 세포의 집단 화학주성과 세포 간 접촉을 관찰한다.",
+    "detail": "딕티오스텔리움 세포의 집단 화학주성과 세포 간 접촉을 관찰한다.",
+    "category": "집단행동",
+    "file": "Chemotaxis-of-Dictyostelium-discoideum-Collective-Oscillation-of-Cellular-Contacts-pone.0054172.s008.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-oscillations",
+    "title": "사회성 아메바의 집단 접촉이 주기적으로 바뀐다",
+    "summary": "집단으로 이동하는 사회성 아메바에서 세포 간 접촉과 운동 변화를 관찰한다.",
+    "detail": "집단으로 이동하는 사회성 아메바에서 세포 간 접촉과 운동 변화를 관찰한다.",
+    "category": "집단행동",
+    "file": "Chemotaxis-of-Dictyostelium-discoideum-Collective-Oscillation-of-Cellular-Contacts-pone.0054172.s009.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-actin",
+    "title": "화학주성 중 세포막의 활성 영역이 움직인다",
+    "summary": "딕티오스텔리움의 이동과 관련된 세포막 활성 영역을 영상으로 관찰한다.",
+    "detail": "딕티오스텔리움의 이동과 관련된 세포막 활성 영역을 영상으로 관찰한다.",
+    "category": "환경 반응",
+    "file": "Activated-Membrane-Patches-Guide-Chemotactic-Cell-Motility-pcbi.1002044.s007.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-pseudopod",
+    "title": "아메바의 위족이 생겨나며 이동한다",
+    "summary": "아메바 세포 표면의 위족 형성과 움직임을 관찰한 실험 영상이다.",
+    "detail": "아메바 세포 표면의 위족 형성과 움직임을 관찰한 실험 영상이다.",
+    "category": "이동",
+    "file": "An-Excitable-Cortex-and-Memory-Model-Successfully-Predicts-New-Pseudopod-Dynamics-pone.0033528.s003.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-phagosome",
+    "title": "아메바가 먹이를 감싸며 포식한다",
+    "summary": "딕티오스텔리움의 식세포작용과 관련된 세포막 형태 변화를 관찰한다.",
+    "detail": "딕티오스텔리움의 식세포작용과 관련된 세포막 형태 변화를 관찰한다.",
+    "category": "포식",
+    "file": "Curvature-recognition-and-force-generation-in-phagocytosis-1741-7007-8-154-S1.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "dicty-cytokinesis",
+    "title": "아메바의 세포질이 두 부분으로 갈라진다",
+    "summary": "딕티오스텔리움 세포질 분열 중 분열구가 형성되는 모습이다.",
+    "detail": "딕티오스텔리움 세포질 분열 중 분열구가 형성되는 모습이다.",
+    "category": "번식",
+    "file": "Deconvolution-of-the-Cellular-Force-Generating-Subsystems-that-Govern-Cytokinesis-Furrow-Ingression-pcbi.1002467.s008.ogv",
+    "subjects": [
+      "dictyostelium"
+    ],
+    "creator": "Dictyostelium 화학주성 연구팀",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "onion-mitosis",
+    "title": "양파 세포에서 일어나는 유사분열",
+    "summary": "양파 조직을 현미경으로 관찰한 실제 유사분열 촬영 자료다.",
+    "detail": "양파 조직을 현미경으로 관찰한 실제 유사분열 촬영 자료다.",
+    "category": "번식",
+    "file": "Video 20220223 125657.webm",
+    "subjects": [
+      "plant-cell"
+    ],
+    "creator": "Wikimedia Commons 원본 촬영자",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  {
+    "id": "fission-yeast-divide",
+    "title": "분열효모가 핵을 분리하는 장면",
+    "summary": "분열효모에서 방추체 미세소관이 없는 조건의 핵 분열을 관찰한다.",
+    "detail": "분열효모에서 방추체 미세소관이 없는 조건의 핵 분열을 관찰한다.",
+    "category": "번식",
+    "file": "Fission-Yeast-Cells-Undergo-Nuclear-Division-in-the-Absence-of-Spindle-Microtubules-pbio.1000512.s005.ogv",
+    "subjects": [
+      "fission-yeast"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "ptk-mitosis",
+    "title": "배양 동물 세포가 유사분열한다",
+    "summary": "PtK 세포에서 유사분열과 관련된 세포의 형태 변화를 현미경으로 관찰한다.",
+    "detail": "PtK 세포에서 유사분열과 관련된 세포의 형태 변화를 현미경으로 관찰한다.",
+    "category": "번식",
+    "file": "Deciphering-protein-function-during-mitosis-in-PtK-cells-using-RNAi-1471-2121-7-26-S1.ogv",
+    "subjects": [
+      "ptk-cell"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "bacillus-spore",
+    "title": "고초균의 포자 형성 과정을 살펴본다",
+    "summary": "고초균의 포자 형성과 관련된 세포 형태 변화를 관찰한다.",
+    "detail": "고초균의 포자 형성과 관련된 세포 형태 변화를 관찰한다.",
+    "category": "번식",
+    "file": "A-Novel-Cell-Type-Enables-B.-subtilis-to-Escape-from-Unsuccessful-Sporulation-in-Minimal-Medium-Video1.ogv",
+    "subjects": [
+      "bacillus"
+    ],
+    "creator": "PLOS 연구팀 · 원본 논문 저자",
+    "license": "CC BY 2.5",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5/"
+  },
+  {
+    "id": "mitosis-timelapse",
+    "title": "세포가 분열하는 전체 과정을 관찰한다",
+    "summary": "실제 세포 유사분열 과정을 영상으로 보여주는 현미경 자료다.",
+    "detail": "실제 세포 유사분열 과정을 영상으로 보여주는 현미경 자료다.",
+    "category": "번식",
+    "file": "Mitosis 480*360.theora.ogv",
+    "subjects": [
+      "epithelial-tissue"
+    ],
+    "creator": "Wikimedia Commons 원본 제작자",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/"
   }
 ]

@@ -318,5 +318,133 @@
     "group": "선형동물",
     "wikiTitle": "예쁜꼬마선충",
     "searchTerm": "예쁜꼬마선충"
+  },
+  {
+    "id": "myxococcus",
+    "name": "점액세균",
+    "scientific": "Myxococcus xanthus",
+    "group": "사회성 세균",
+    "wikiTitle": "점액세균",
+    "searchTerm": "점액세균"
+  },
+  {
+    "id": "dengue-virus",
+    "name": "뎅기 바이러스",
+    "scientific": "Dengue virus",
+    "group": "바이러스",
+    "wikiTitle": "뎅기 바이러스",
+    "searchTerm": "뎅기 바이러스"
+  },
+  {
+    "id": "hela-cell",
+    "name": "헬라세포",
+    "scientific": "HeLa cell",
+    "group": "인간 유래 배양 세포",
+    "wikiTitle": "헬라세포",
+    "searchTerm": "헬라세포"
+  },
+  {
+    "id": "vaccinia-virus",
+    "name": "백시니아 바이러스",
+    "scientific": "Vaccinia virus",
+    "group": "바이러스",
+    "wikiTitle": "백시니아 바이러스",
+    "searchTerm": "백시니아 바이러스"
+  },
+  {
+    "id": "hpv-virus",
+    "name": "인유두종바이러스 16형",
+    "scientific": "Human papillomavirus type 16",
+    "group": "바이러스",
+    "wikiTitle": "인유두종바이러스 16형",
+    "searchTerm": "인유두종바이러스 16형"
+  },
+  {
+    "id": "hsv-virus",
+    "name": "단순포진바이러스",
+    "scientific": "Herpes simplex virus",
+    "group": "바이러스",
+    "wikiTitle": "단순포진바이러스",
+    "searchTerm": "단순포진바이러스"
+  },
+  {
+    "id": "hepatitis-b-virus",
+    "name": "B형간염 바이러스",
+    "scientific": "Hepatitis B virus",
+    "group": "바이러스",
+    "wikiTitle": "B형간염 바이러스",
+    "searchTerm": "B형간염 바이러스"
+  },
+  {
+    "id": "rhodobacter",
+    "name": "로도박터",
+    "scientific": "Rhodobacter sphaeroides",
+    "group": "세균",
+    "wikiTitle": "로도박터",
+    "searchTerm": "로도박터"
+  },
+  {
+    "id": "aspergillus",
+    "name": "아스페르길루스 푸미가투스",
+    "scientific": "Aspergillus fumigatus",
+    "group": "곰팡이",
+    "wikiTitle": "아스페르길루스 푸미가투스",
+    "searchTerm": "아스페르길루스 푸미가투스"
+  },
+  {
+    "id": "plant-cell",
+    "name": "식물세포",
+    "scientific": "Plant cell",
+    "group": "식물 세포",
+    "wikiTitle": "식물세포",
+    "searchTerm": "식물세포"
+  },
+  {
+    "id": "fission-yeast",
+    "name": "분열효모",
+    "scientific": "Schizosaccharomyces pombe",
+    "group": "균류",
+    "wikiTitle": "분열효모",
+    "searchTerm": "분열효모"
+  },
+  {
+    "id": "bacillus",
+    "name": "고초균",
+    "scientific": "Bacillus subtilis",
+    "group": "세균",
+    "wikiTitle": "고초균",
+    "searchTerm": "고초균"
+  },
+  {
+    "id": "ptk-cell",
+    "name": "PtK 세포",
+    "scientific": "Potorous tridactylus kidney cells",
+    "group": "배양 동물 세포",
+    "wikiTitle": "PtK 세포",
+    "searchTerm": "PtK 세포"
+  },
+  {
+    "id": "epithelial-tissue",
+    "name": "상피조직",
+    "scientific": "Epithelium",
+    "group": "동물 세포",
+    "wikiTitle": "상피조직",
+    "searchTerm": "상피조직"
+  },
+  {
+    "id": "cellulophaga",
+    "name": "셀룰로파가 세균",
+    "scientific": "Cellulophaga",
+    "group": "세균",
+    "wikiTitle": "셀룰로파가 세균",
+    "searchTerm": "셀룰로파가 세균"
+  },
+  {
+    "id": "e-coli",
+    "name": "대장균",
+    "scientific": "Escherichia coli",
+    "group": "세균",
+    "wikiTitle": "대장균",
+    "searchTerm": "대장균"
   }
 ]
