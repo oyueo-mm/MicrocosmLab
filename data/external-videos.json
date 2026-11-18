@@ -6,7 +6,12 @@
     "category": "포식",
     "url": "https://www.youtube.com/watch?v=UAuxKfPEgpA",
     "source": "The Microscopic Odyssey",
-    "thumbnail": "https://i.ytimg.com/vi/UAuxKfPEgpA/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/UAuxKfPEgpA/hqdefault.jpg",
+    "subjects": [
+      "didinium",
+      "paramecium"
+    ],
+    "detail": "포식성 섬모충 디디니움이 짚신벌레를 붙잡아 삼키는 장면이다. 디디니움의 포식 과정과 먹이의 움직임을 비교해 볼 수 있다."
   },
   {
     "id": "trachelius-campanella",
@@ -15,7 +20,12 @@
     "category": "포식",
     "url": "https://www.youtube.com/watch?v=xf2oMz_ECSQ",
     "source": "Nikon Small World in Motion · Wim van Egmond",
-    "thumbnail": "https://i.ytimg.com/vi/xf2oMz_ECSQ/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/xf2oMz_ECSQ/hqdefault.jpg",
+    "subjects": [
+      "trachelius",
+      "campanella"
+    ],
+    "detail": "트라켈리우스가 다른 섬모충인 캄파넬라를 공격하고 섭취하는 현미경 영상이다. 포식자의 접근과 먹이가 반응하는 순간을 살펴보자."
   },
   {
     "id": "dileptus-hunts",
@@ -24,7 +34,12 @@
     "category": "포식",
     "url": "https://www.youtube.com/watch?v=io731XY8fH8",
     "source": "Journey to the Microcosmos",
-    "thumbnail": "https://i.ytimg.com/vi/io731XY8fH8/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/io731XY8fH8/hqdefault.jpg",
+    "subjects": [
+      "dileptus",
+      "ciliate"
+    ],
+    "detail": "긴 앞부분을 가진 딜렙투스가 다른 미소생물을 탐색하고 포식하는 행동을 다룬다. 영상 속 개체의 움직임을 따라가며 포식 과정의 차이를 관찰할 수 있다."
   },
   {
     "id": "pristionchus-bites",
@@ -33,7 +48,12 @@
     "category": "포식",
     "url": "https://www.jove.com/v/54404/assaying-predatory-feeding-behaviors-pristionchus-other",
     "source": "JoVE · Max Planck 연구진",
-    "thumbnail": "https://www.jove.com/files/ftp_upload/54404/54404fig4large.jpg"
+    "thumbnail": "https://www.jove.com/files/ftp_upload/54404/54404fig4large.jpg",
+    "subjects": [
+      "pristionchus",
+      "nematode"
+    ],
+    "detail": "Pristionchus pacificus의 포식성 먹이 섭취 행동을 다룬 연구 영상이다. 선충의 구강 구조와 다른 선충을 먹이로 삼는 행동을 관찰한다."
   },
   {
     "id": "polykrikos-harpoon",
@@ -42,7 +62,11 @@
     "category": "포식",
     "url": "https://www.youtube.com/watch?v=Otnw8qi8KaA",
     "source": "Science Advances · 공개 연구 자료",
-    "thumbnail": "https://i.ytimg.com/vi/Otnw8qi8KaA/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/Otnw8qi8KaA/hqdefault.jpg",
+    "subjects": [
+      "polykrikos"
+    ],
+    "detail": "Polykrikos가 사용하는 특이한 먹이 포획 구조를 보여 주는 연구 영상 자료다. 세포 수준에서 작동하는 포획 구조의 형태와 움직임을 살펴볼 수 있다."
   },
   {
     "id": "hydra-daphnia",
@@ -51,7 +75,12 @@
     "category": "포식",
     "url": "https://www.youtube.com/watch?v=O9mbywnTokw",
     "source": "Hydra vs Daphnia · 현미경 촬영 영상",
-    "thumbnail": "https://i.ytimg.com/vi/O9mbywnTokw/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/O9mbywnTokw/hqdefault.jpg",
+    "subjects": [
+      "hydra",
+      "daphnia"
+    ],
+    "detail": "히드라가 촉수를 사용해 물벼룩과 상호작용하는 장면을 다룬다. 촉수의 움직임과 먹이의 반응을 중심으로 관찰해 보자."
   },
   {
     "id": "parasitoid-emergence",
@@ -60,6 +89,11 @@
     "category": "감염·기생",
     "url": "https://www.youtube.com/watch?v=mAJsbdO3yd4",
     "source": "Nikon Small World in Motion · Gonzalo Avila",
-    "thumbnail": "https://i.ytimg.com/vi/mAJsbdO3yd4/hqdefault.jpg"
+    "thumbnail": "https://i.ytimg.com/vi/mAJsbdO3yd4/hqdefault.jpg",
+    "subjects": [
+      "cotesia-urabae",
+      "uraba-lugens"
+    ],
+    "detail": "기생벌 유충이 나방 유충의 몸 밖으로 나오는 과정을 촬영했다. 포식이 아니라 기생성 곤충의 발달과 숙주-기생자 관계를 보여 주는 사례다."
   }
 ]
