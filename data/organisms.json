@@ -734,5 +734,13 @@
     "group": "세포·생물",
     "wikiTitle": "현미경 관찰 대상",
     "searchTerm": "현미경 관찰 대상"
+  },
+  {
+    "id": "bdellovibrio",
+    "name": "벨로비브리오",
+    "scientific": "Bdellovibrio bacteriovorus",
+    "group": "포식성 세균",
+    "wikiTitle": "Bdellovibrio bacteriovorus",
+    "searchTerm": "Bdellovibrio bacteriovorus"
   }
 ]
