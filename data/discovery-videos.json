@@ -1,0 +1,659 @@
+[
+  {
+    "id": "discovery-vampyrella-shapeshifter",
+    "title": "아메바가 먹이 세포의 내용물을 빼먹는다",
+    "summary": "뱀파이렐라가 먹이에 구멍을 뚫어 내부 물질을 섭취하는 특이한 포식 방식을 살펴본다.",
+    "detail": "뱀파이렐라가 먹이에 구멍을 뚫어 내부 물질을 섭취하는 특이한 포식 방식을 살펴본다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "vampyrella",
+      "green-algae"
+    ],
+    "tags": [
+      "포식",
+      "세포질 흡입",
+      "아메바"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=fWsbE0TQEFw",
+    "thumbnail": "https://i.ytimg.com/vi/fWsbE0TQEFw/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-stentor-regeneration",
+    "title": "몸이 잘린 나팔벌레는 어떻게 재생할까?",
+    "summary": "커다란 단세포 생물 나팔벌레를 절단한 뒤 몸의 구조가 회복되는 과정을 관찰한다.",
+    "detail": "커다란 단세포 생물 나팔벌레를 절단한 뒤 몸의 구조가 회복되는 과정을 관찰한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "세포 활동",
+    "subjects": [
+      "stentor"
+    ],
+    "tags": [
+      "재생",
+      "세포 손상",
+      "회복"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=AM779ZG5WkY",
+    "thumbnail": "https://i.ytimg.com/vi/AM779ZG5WkY/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-suctorian-feeding",
+    "title": "흡관충이 먹이의 세포질을 빨아들인다",
+    "summary": "흡관충의 섭식 촉수가 먹이에 달라붙어 내용물을 흡입하는 구조를 소개한다.",
+    "detail": "흡관충의 섭식 촉수가 먹이에 달라붙어 내용물을 흡입하는 구조를 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "suctorian",
+      "ciliate"
+    ],
+    "tags": [
+      "포식",
+      "촉수",
+      "세포질 흡입"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=o_8OK9afr9Y",
+    "thumbnail": "https://i.ytimg.com/vi/o_8OK9afr9Y/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-lacrymaria-stretch",
+    "title": "라크리마리아가 긴 목을 뻗어 사냥한다",
+    "summary": "라크리마리아가 유연한 긴 주둥이로 먹이를 탐색하는 실제 현미경 장면을 소개한다.",
+    "detail": "라크리마리아가 유연한 긴 주둥이로 먹이를 탐색하는 실제 현미경 장면을 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "lacrymaria"
+    ],
+    "tags": [
+      "사냥",
+      "탐색",
+      "목 늘이기"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=rWtMIQguUOo",
+    "thumbnail": "https://i.ytimg.com/vi/rWtMIQguUOo/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-ophryoglena-transform",
+    "title": "오피로글레나가 형태를 바꾸며 살아간다",
+    "summary": "독특한 생활사와 섭식 행동을 가진 섬모충 오피로글레나를 관찰한다.",
+    "detail": "독특한 생활사와 섭식 행동을 가진 섬모충 오피로글레나를 관찰한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "ophryoglena"
+    ],
+    "tags": [
+      "먹이 섭취",
+      "변형",
+      "생활사"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=17tug6T-4jc",
+    "thumbnail": "https://i.ytimg.com/vi/17tug6T-4jc/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-killer-t-serial",
+    "title": "킬러 T세포가 암세포를 연속 공격한다",
+    "summary": "세포독성 T세포가 암세포를 인식하고 공격한 뒤 다음 표적으로 이동하는 현미경 촬영이다.",
+    "detail": "세포독성 T세포가 암세포를 인식하고 공격한 뒤 다음 표적으로 이동하는 현미경 촬영이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "면역",
+    "subjects": [
+      "killer-t-cell",
+      "cancer-cell"
+    ],
+    "tags": [
+      "암세포 공격",
+      "면역",
+      "연속 공격"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "관찰 영상",
+    "source": "University of Cambridge",
+    "url": "https://www.youtube.com/watch?v=ntk8XsxVDi0",
+    "thumbnail": "https://i.ytimg.com/vi/ntk8XsxVDi0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-killer-t-attack",
+    "title": "킬러 T세포가 암세포를 파괴한다",
+    "summary": "면역세포가 표적 암세포에 접촉하고 공격하는 모습을 촬영한 영상이다.",
+    "detail": "면역세포가 표적 암세포에 접촉하고 공격하는 모습을 촬영한 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "면역",
+    "subjects": [
+      "killer-t-cell",
+      "cancer-cell"
+    ],
+    "tags": [
+      "면역",
+      "암세포 공격"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "관찰 영상",
+    "source": "면역세포 촬영 자료",
+    "url": "https://www.youtube.com/watch?v=jgJKaP0Sj5U",
+    "thumbnail": "https://i.ytimg.com/vi/jgJKaP0Sj5U/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-neutrophil-chase",
+    "title": "호중구가 세균을 쫓아가 포식한다",
+    "summary": "백혈구가 세균을 향해 이동하고 식세포작용으로 섭취하는 오래된 현미경 영상이다.",
+    "detail": "백혈구가 세균을 향해 이동하고 식세포작용으로 섭취하는 오래된 현미경 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "면역",
+    "subjects": [
+      "neutrophil",
+      "bacteria"
+    ],
+    "tags": [
+      "면역",
+      "추격",
+      "포식"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "관찰 영상",
+    "source": "백혈구 현미경 촬영 자료",
+    "url": "https://www.youtube.com/watch?v=JnlULOjUhSQ",
+    "thumbnail": "https://i.ytimg.com/vi/JnlULOjUhSQ/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-loxodes-rotifer",
+    "title": "거대한 섬모충이 윤충을 삼킨다",
+    "summary": "록소데스가 윤충을 섭취하는 장면을 통해 단세포 포식자와 다세포 먹이의 관계를 보여준다.",
+    "detail": "록소데스가 윤충을 섭취하는 장면을 통해 단세포 포식자와 다세포 먹이의 관계를 보여준다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "loxodes",
+      "rotifer"
+    ],
+    "tags": [
+      "포식",
+      "윤충",
+      "삼키기"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=QENcgkXAPeA",
+    "thumbnail": "https://i.ytimg.com/vi/QENcgkXAPeA/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-microbes-paralyze",
+    "title": "먹이를 마비시키는 미생물 사냥꾼",
+    "summary": "먹이를 붙잡거나 무력화하는 다양한 원생생물의 사냥 전략을 소개한다.",
+    "detail": "먹이를 붙잡거나 무력화하는 다양한 원생생물의 사냥 전략을 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "포식",
+      "마비",
+      "방어"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=WB28-0JlmT4",
+    "thumbnail": "https://i.ytimg.com/vi/WB28-0JlmT4/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-rotifer-eats-ciliate",
+    "title": "윤충이 섬모충을 잡아먹는다",
+    "summary": "윤충이 다른 섬모충을 섭취하는 짧은 실제 현미경 촬영 영상이다.",
+    "detail": "윤충이 다른 섬모충을 섭취하는 짧은 실제 현미경 촬영 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "rotifer",
+      "ciliate"
+    ],
+    "tags": [
+      "포식",
+      "섭취",
+      "윤충"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "관찰 영상",
+    "source": "Desirée Morrison",
+    "url": "https://www.youtube.com/watch?v=OP311buUiI0",
+    "thumbnail": "https://i.ytimg.com/vi/OP311buUiI0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-didinium-hunter-explained",
+    "title": "짚신벌레를 노리는 디디니움의 사냥",
+    "summary": "디디니움의 먹이 인식과 짚신벌레 포식 과정을 설명하는 현미경 영상이다.",
+    "detail": "디디니움의 먹이 인식과 짚신벌레 포식 과정을 설명하는 현미경 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "didinium",
+      "paramecium"
+    ],
+    "tags": [
+      "포식",
+      "공격",
+      "삼키기"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=yXiJ__5-tI8",
+    "thumbnail": "https://i.ytimg.com/vi/yXiJ__5-tI8/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-amoeba-fungal-parasite",
+    "title": "아메바 안으로 침입하는 기생 균류",
+    "summary": "아메바에 침입해 성장하는 기생 균류의 발견과 실체를 소개한다.",
+    "detail": "아메바에 침입해 성장하는 기생 균류의 발견과 실체를 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "amoeba",
+      "fungal-hypha"
+    ],
+    "tags": [
+      "기생",
+      "침입",
+      "감염"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=2e-2_WOcuMk",
+    "thumbnail": "https://i.ytimg.com/vi/2e-2_WOcuMk/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-stentor-vortex",
+    "title": "나팔벌레가 먹이를 끌어들이는 소용돌이",
+    "summary": "나팔벌레가 섬모로 물의 흐름을 만들고 먹이를 모으는 과정을 보여준다.",
+    "detail": "나팔벌레가 섬모로 물의 흐름을 만들고 먹이를 모으는 과정을 보여준다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "stentor"
+    ],
+    "tags": [
+      "섭식",
+      "소용돌이",
+      "섬모"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=tQOxWrVNY4Q",
+    "thumbnail": "https://i.ytimg.com/vi/tQOxWrVNY4Q/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-conochilus-colony",
+    "title": "윤충들이 서로 붙어 거대한 무리를 만든다",
+    "summary": "코노킬루스 등 군체성 윤충이 뭉쳐 생활하는 방식을 다룬다.",
+    "detail": "코노킬루스 등 군체성 윤충이 뭉쳐 생활하는 방식을 다룬다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "집단행동",
+    "subjects": [
+      "conochilus",
+      "rotifer"
+    ],
+    "tags": [
+      "군체",
+      "집단행동"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=0qikdXEebMk",
+    "thumbnail": "https://i.ytimg.com/vi/0qikdXEebMk/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-tardigrade-feed",
+    "title": "완보동물의 먹이 섭취와 부화",
+    "summary": "완보동물의 먹이 섭취와 알에서 깨어나는 모습을 다룬 관찰 영상이다.",
+    "detail": "완보동물의 먹이 섭취와 알에서 깨어나는 모습을 다룬 관찰 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "섭식",
+      "부화"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=jA_gOZZhEdM",
+    "thumbnail": "https://i.ytimg.com/vi/jA_gOZZhEdM/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-stentor-giant",
+    "title": "거대한 단세포 생물 나팔벌레",
+    "summary": "나팔 모양의 대형 섬모충이 움직이고 물속에서 생활하는 모습을 살펴본다.",
+    "detail": "나팔 모양의 대형 섬모충이 움직이고 물속에서 생활하는 모습을 살펴본다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "stentor"
+    ],
+    "tags": [
+      "거대 세포",
+      "섬모충"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=PZoaKzEXzi8",
+    "thumbnail": "https://i.ytimg.com/vi/PZoaKzEXzi8/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-microorganism-reproduce",
+    "title": "미생물은 어떻게 번식할까?",
+    "summary": "다양한 단세포 생물의 분열과 생식 방법을 현미경 영상으로 설명한다.",
+    "detail": "다양한 단세포 생물의 분열과 생식 방법을 현미경 영상으로 설명한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "번식",
+    "subjects": [
+      "stentor",
+      "ciliate"
+    ],
+    "tags": [
+      "세포분열",
+      "번식"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=5WdPno6-xkU",
+    "thumbnail": "https://i.ytimg.com/vi/5WdPno6-xkU/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-ciliate-cell-death",
+    "title": "죽어가는 섬모충의 마지막 순간",
+    "summary": "섬모충이 죽는 과정과 세포가 생명을 유지하는 조건을 관찰한다.",
+    "detail": "섬모충이 죽는 과정과 세포가 생명을 유지하는 조건을 관찰한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "세포 활동",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "세포 사멸",
+      "세포 변화"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=ibpdNqrtar0",
+    "thumbnail": "https://i.ytimg.com/vi/ibpdNqrtar0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-gastrotrich-development",
+    "title": "기묘하게 움직이는 복모동물",
+    "summary": "복모동물의 몸 구조와 작은 수중 환경에서의 독특한 이동을 살펴본다.",
+    "detail": "복모동물의 몸 구조와 작은 수중 환경에서의 독특한 이동을 살펴본다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "이동",
+    "subjects": [
+      "gastrotrich"
+    ],
+    "tags": [
+      "움직임",
+      "미소동물"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=r6Q82BIww08",
+    "thumbnail": "https://i.ytimg.com/vi/r6Q82BIww08/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-tardigrades-closeup",
+    "title": "현미경에서 본 완보동물의 움직임",
+    "summary": "완보동물이 걷거나 주변 환경을 탐색하는 모습을 소개한다.",
+    "detail": "완보동물이 걷거나 주변 환경을 탐색하는 모습을 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "이동",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "이동",
+      "완보동물"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=6mmkOy_qKzE",
+    "thumbnail": "https://i.ytimg.com/vi/6mmkOy_qKzE/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-bursaria-ingest",
+    "title": "부르사리아가 섬모충을 거대한 입으로 삼킨다",
+    "summary": "대형 섬모충 부르사리아가 다른 원생생물을 섭취하는 방식을 설명한다.",
+    "detail": "대형 섬모충 부르사리아가 다른 원생생물을 섭취하는 방식을 설명한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "bursaria",
+      "ciliate"
+    ],
+    "tags": [
+      "포식",
+      "삼키기",
+      "대형 섬모충"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=hyV3iKiP_1g",
+    "thumbnail": "https://i.ytimg.com/vi/hyV3iKiP_1g/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-ciliate-secret-weapons",
+    "title": "섬모충이 숨겨둔 무기를 발사한다",
+    "summary": "포식 또는 방어에 쓰는 섬모충의 특수 구조를 소개한다.",
+    "detail": "포식 또는 방어에 쓰는 섬모충의 특수 구조를 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "방어",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "방어",
+      "발사",
+      "독성 구조"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=Be_GSeEYLa0",
+    "thumbnail": "https://i.ytimg.com/vi/Be_GSeEYLa0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-worm-gut-parasite",
+    "title": "선충의 장 속에 사는 입 없는 기생생물",
+    "summary": "선충 내부에 살아가는 기생성 미생물의 생활 방식을 설명한다.",
+    "detail": "선충 내부에 살아가는 기생성 미생물의 생활 방식을 설명한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "nematode",
+      "ciliate-parasite"
+    ],
+    "tags": [
+      "기생",
+      "장내 생태"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=4OmfxNmz7jo",
+    "thumbnail": "https://i.ytimg.com/vi/4OmfxNmz7jo/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-fungus-nematode-trap",
+    "title": "포식성 곰팡이가 선충을 덫으로 잡는다",
+    "summary": "선충을 붙잡는 균사 구조와 곰팡이의 포식성 전환을 소개한다.",
+    "detail": "선충을 붙잡는 균사 구조와 곰팡이의 포식성 전환을 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "포식",
+    "subjects": [
+      "arthrobotrys",
+      "nematode"
+    ],
+    "tags": [
+      "덫",
+      "포획",
+      "곰팡이"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=V6g3OjkhClE",
+    "thumbnail": "https://i.ytimg.com/vi/V6g3OjkhClE/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-hitchhiking-parasite",
+    "title": "숙주에 올라타 이동하는 기생생물",
+    "summary": "작은 생물에게 부착하거나 숙주를 이용하는 기생 전략을 설명한다.",
+    "detail": "작은 생물에게 부착하거나 숙주를 이용하는 기생 전략을 설명한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "ciliate-parasite"
+    ],
+    "tags": [
+      "기생",
+      "부착",
+      "생활사"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=JYkr_GmGcN0",
+    "thumbnail": "https://i.ytimg.com/vi/JYkr_GmGcN0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-paramecium-chlorella-virus",
+    "title": "짚신벌레를 매개로 퍼지는 바이러스",
+    "summary": "녹색 짚신벌레의 공생 조류를 공격하는 바이러스와 숙주 관계를 다룬다.",
+    "detail": "녹색 짚신벌레의 공생 조류를 공격하는 바이러스와 숙주 관계를 다룬다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "감염·기생",
+    "subjects": [
+      "virus-generic",
+      "paramecium",
+      "green-algae"
+    ],
+    "tags": [
+      "바이러스",
+      "감염",
+      "공생"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=KoGSUXiORUk",
+    "thumbnail": "https://i.ytimg.com/vi/KoGSUXiORUk/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-amoeba-armor",
+    "title": "아메바가 죽은 먹이로 갑옷을 만든다",
+    "summary": "유각아메바가 주변 물질을 이용해 몸을 보호하는 구조를 만드는 모습을 소개한다.",
+    "detail": "유각아메바가 주변 물질을 이용해 몸을 보호하는 구조를 만드는 모습을 소개한다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "방어",
+    "subjects": [
+      "amoeba"
+    ],
+    "tags": [
+      "방어",
+      "갑옷",
+      "유각아메바"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=2O_n9jEutuc",
+    "thumbnail": "https://i.ytimg.com/vi/2O_n9jEutuc/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-microscopic-shapes",
+    "title": "미생물의 기묘한 몸 모양에 숨겨진 비밀",
+    "summary": "나선형과 나팔형 등 생물의 형태가 움직임과 사냥에 미치는 영향을 살펴본다.",
+    "detail": "나선형과 나팔형 등 생물의 형태가 움직임과 사냥에 미치는 영향을 살펴본다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "형태",
+      "적응",
+      "방어"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=4r8rEIxBkVc",
+    "thumbnail": "https://i.ytimg.com/vi/4r8rEIxBkVc/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-decisions-no-brain",
+    "title": "뇌 없이 방향을 결정하는 미생물",
+    "summary": "신경계가 없는 미생물이 환경 신호에 반응하는 모습을 다룬다.",
+    "detail": "신경계가 없는 미생물이 환경 신호에 반응하는 모습을 다룬다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "환경 반응",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "환경 반응",
+      "운동"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=1LyeWQZ7ZR0",
+    "thumbnail": "https://i.ytimg.com/vi/1LyeWQZ7ZR0/hqdefault.jpg"
+  },
+  {
+    "id": "discovery-rotifer-internal-anatomy",
+    "title": "현미경 속 놀라운 행동 모음",
+    "summary": "미소생물의 사냥·생식·이동 장면을 다시 모아 보여주는 편집 영상이다.",
+    "detail": "미소생물의 사냥·생식·이동 장면을 다시 모아 보여주는 편집 영상이다. 원본은 촬영·해설이 포함된 외부 자료이며, MicrocosmLab은 공식 플레이어로 연결한다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "rotifer",
+      "tardigrade"
+    ],
+    "tags": [
+      "현미경",
+      "편집 모음"
+    ],
+    "impact": 3,
+    "reviewStatus": "원본 설명 확인",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=TrvtvhTUMPw",
+    "thumbnail": "https://i.ytimg.com/vi/TrvtvhTUMPw/hqdefault.jpg"
+  }
+]
