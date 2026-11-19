@@ -12,7 +12,7 @@ concurrency:
 jobs:
   prepare:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -22,7 +22,7 @@ jobs:
       - name: Verify pipeline conversion logic
         run: node scripts/test-batch-pipeline.mjs
       - name: Discover new Commons and prepare validated media records
-        run: node scripts/batch-commons.mjs --max=180 --scan=3000 --pages=3 --write
+        run: node scripts/batch-commons.mjs --max=500 --scan=10000 --pages=8 --write
       - name: Revalidate entire catalog after batch registration
         run: node scripts/validate-content.mjs
       - name: Check content & recommendation regressions
@@ -42,7 +42,7 @@ jobs:
           delete-branch: true
           title: '콘텐츠 자동 발굴 · 검증된 신규 Commons 영상 일괄 등록'
           body: |
-            Wikimedia Commons API의 파일 존재/영상 포맷/라이선스/저작자와 기존 기록 중복을 자동 검사한 뒤 통과한 건만 준비했습니다.
+            Commons API의 파일/영상 형식/CC 라이선스/저작자/기존 기록 중복을 검증했습니다. 생물별·연구별 등록 수량 제한 없이 새로 찾은 항목을 최대 500개씩 순차 처리하며 다음 실행은 기존 파일을 건너뛰어 이어서 수집합니다.
             **주의:** 실제 영상 장면, 생물종과 행동의 정확성은 자동으로 검증되지 않았습니다. 병합 전 새 목록을 검토하세요.
             관련 검사 결과는 이 워크플로의 `commons-batch-inspection` 아티팩트에 있습니다.
       - name: Upload inspection report and staged batch
