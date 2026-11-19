@@ -80,3 +80,12 @@ npm run build
 - **자동 후보 발굴**: `.github/workflows/discover-content.yml`을 수동 실행하거나 매주 월요일 UTC 02:00에 실행하면 Commons·YouTube 후보와 콘텐츠 품질 보고서를 Actions 아티팩트로 제공합니다. GitHub에 영상을 직접 저장하지 않고 **후보를 자동 게시하지 않습니다**.
 - **YouTube 검색 설정**: 저장소 Actions secret `YOUTUBE_API_KEY`에 YouTube Data API v3 키가 있으면 새로운 공개·임베드 허용 후보를 수집합니다. 키가 없으면 YouTube 검색만 건너뛰고 보고서와 Commons 후보 수집은 계속합니다. API가 공개·임베드 허용을 표시해도 실제 장면·저작권·재생 여부는 별도 검토가 필요합니다.
 - **테스트**: `node scripts/test-recommendations.mjs`, `node scripts/test-explorer.mjs`, `npm run build`. 기존 이용자 선호는 자동으로 새 필드가 추가되며 보존됩니다.
+
+## 홈 추천 확장 및 분리된 품질 검사 (2026-11-19)
+
+- 홈의 세 추천 영역은 각각 **4열 × 2줄(8개)**부터 보여줍니다. 모바일에서는 2열로 표시하며, `더 보기`로 8개씩 아래에 추가하고 `접기`로 해당 영역만 초기화합니다. 수평 스크롤·좌우 이동 버튼은 제거했습니다.
+- 추천 V2는 영역당 최대 40개까지 후보를 준비하지만, 처음에는 8개씩만 렌더링합니다. Commons 썸네일 API도 **화면에 노출된 추천 카드**만 요청합니다. 영상 도감 필터와 상세 플레이어는 유지합니다.
+- 콘텐츠 품질은 `재생 확인`, `생물종·행동 정확성`, `기술적 영상 품질`, `흥미도`, `원본 중복·시리즈`로 **독립 기록**합니다. `scripts/quality-report.mjs`가 `artifacts/content-quality-report.json`에 영상별 항목과 점검 목록을 생성합니다.
+- **우수/보통/검수 필요/제외 대상 등 하나의 등급은 만들지 않습니다.** 오프라인 메타데이터만으로 영상 재생 성공, 해상도, 선명도를 확인할 수 없으므로 해당 값은 미측정으로 명시합니다. 관심도 점수는 원본 데이터에 직접 존재할 때만 사용하며 결측치를 임의로 채우지 않습니다.
+- 일반 영상 상세 화면에서 내부 검수 단계를 표시하지 않으며, 출처·저작권·관찰 주석은 기존대로 보존합니다.
+- 검증: `node scripts/test-recommendations.mjs`, `node scripts/test-quality-report.mjs`, `npm run build`. 비디오 원본은 다운로드하거나 별도 보관하지 않습니다.

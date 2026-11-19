@@ -16,4 +16,5 @@ jobs:
       - run: node scripts/test-recommendations.mjs
       - run: node scripts/test-explorer.mjs
       - run: node scripts/quality-report.mjs
+      - run: node scripts/test-quality-report.mjs
       - run: npm run build
