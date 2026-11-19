@@ -32,6 +32,8 @@ jobs:
       - name: Check discovery filters
         run: node scripts/test-explorer.mjs
       - name: Report catalog review quality
+      - name: Check subject grouping
+        run: node scripts/test-subjects.mjs
         run: node scripts/quality-report.mjs
       - name: Verify quality report dimensions
         run: node scripts/test-quality-report.mjs
