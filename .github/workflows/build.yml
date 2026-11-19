@@ -14,4 +14,6 @@ jobs:
       - run: npm install --no-audit --no-fund
       - run: node scripts/validate-content.mjs
       - run: node scripts/test-recommendations.mjs
+      - run: node scripts/test-explorer.mjs
+      - run: node scripts/quality-report.mjs
       - run: npm run build
