@@ -1,0 +1,171 @@
+[
+  {
+    "id": "expanded-rotifer-mastax-2025",
+    "title": "윤충이 턱기관으로 먹이를 잘게 부순다",
+    "summary": "윤충의 입 안에서 저작 기관인 마스타크스가 반복적으로 움직이는 모습이 보인다.",
+    "detail": "실제 현미경 촬영 영상. 섬모가 먹이 입자를 모으고, 몸속의 저작 기관인 마스타크스가 입자를 처리하는 과정을 관찰한다.",
+    "category": "먹이 섭취",
+    "file": "Ritófero usando el mastax.webm",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "윤충",
+      "먹이 처리",
+      "마스타크스"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2025-11-29); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-rotifer-cilia-2025",
+    "title": "윤충의 섬모가 물속 먹이를 끌어들인다",
+    "summary": "섬모관의 움직임으로 생기는 물 흐름이 먹이 입자를 입으로 모은다.",
+    "detail": "몸이 투명한 윤충의 섬모 움직임, 먹이 흡입, 소화관으로 이동하는 과정을 보여주는 2025년 현미경 영상.",
+    "category": "먹이 섭취",
+    "file": "Rotífero.webm",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Brandon Antonio Segura Torres & Priscilla Vieto Bonilla",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "섬모",
+      "먹이 섭취",
+      "여과 섭식"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2025-11-28); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-neutrophil-phagocytosis",
+    "title": "호중구가 세균을 발견해 집어삼킨다",
+    "summary": "사람의 혈액 속 호중구가 세균을 향해 움직여 포식하는 위상차 현미경 기록이다.",
+    "detail": "사람 혈액 방울에 세균을 넣어 촬영한 현미경 영상. 호중구가 세균을 추적하여 삼키는 모습을 8배속으로 보여준다.",
+    "category": "면역",
+    "file": "Нейтрофил крови человека фагоцитирует бактерию.webm",
+    "subjects": [
+      "neutrophil",
+      "bacteria"
+    ],
+    "creator": "Andrei Savitsky",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "식세포작용",
+      "면역",
+      "세균 포식"
+    ],
+    "impact": 5,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2019-01-09); 8배속; 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-nassula-division",
+    "title": "나술라 섬모충이 몸을 둘로 나눈다",
+    "summary": "섬모충 나술라의 이분법 분열을 실제로 촬영한 영상이다.",
+    "detail": "Nassula 계열 섬모충이 무성생식으로 둘로 나뉘는 과정을 보여주는 48초 길이의 영상.",
+    "category": "번식",
+    "file": "Nassula Ciliate Cell Division.ogv",
+    "subjects": [
+      "nassula"
+    ],
+    "creator": "Deuterostome",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "tags": [
+      "이분법",
+      "분열",
+      "생식"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2011-10-08); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-vorticella-contract",
+    "title": "종벌레의 긴 자루가 순간적으로 수축한다",
+    "summary": "종벌레(Vorticella)가 몸을 지탱하는 자루를 급격히 움츠리는 움직임을 촬영했다.",
+    "detail": "싱가포르의 연못에서 촬영한 45초짜리 광학 현미경 기록. 종벌레 자루의 순간 수축 반응을 관찰할 수 있다.",
+    "category": "환경 반응",
+    "file": "Vorticella contracting DSC 1522.webm",
+    "subjects": [
+      "vorticella"
+    ],
+    "creator": "Brandon Seah",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "수축",
+      "운동",
+      "자극 반응"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2011-08-23); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-euglena-fission",
+    "title": "두 유글레나 딸세포가 서로 떨어져 나간다",
+    "summary": "분열하는 유글레나에서 두 딸세포가 분리되는 모습을 기록했다.",
+    "detail": "유글레나의 이분법 과정 후반에 두 딸세포가 분리되는 움직임을 담은 21초짜리 현미경 기록.",
+    "category": "번식",
+    "file": "Eugl1002.webm",
+    "subjects": [
+      "euglena"
+    ],
+    "creator": "Jon Houseman",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "이분법",
+      "분열",
+      "유글레나"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2014-08-14); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-leptophrys-eats-algae",
+    "title": "렙토프리스 아메바가 녹조류를 집어삼킨다",
+    "summary": "아메바류 Leptophrys가 조류를 먹는 모습을 위상차 현미경으로 촬영했다.",
+    "detail": "러시아 과학 사진 대회에 출품된 위상차 현미경 영상. Leptophrys 속 아메바의 조류 섭식 장면이다.",
+    "category": "포식",
+    "file": "Амеба рода Leptophrys поедает водоросли. Фазовый контраст.webm",
+    "subjects": [
+      "leptophrys",
+      "green-algae"
+    ],
+    "creator": "Andrei Savitsky",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "tags": [
+      "식세포작용",
+      "아메바",
+      "조류 포식"
+    ],
+    "impact": 4,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2019-06-06); 육안 장면 검수는 별도"
+  },
+  {
+    "id": "expanded-rotifer-feeding-2013",
+    "title": "윤충의 먹이 섭취를 가까이서 관찰한다",
+    "summary": "윤충이 섬모 운동으로 먹이를 받아들이는 모습을 고화질로 촬영했다.",
+    "detail": "2013년 싱가포르 연못에서 수집한 윤충의 먹이 섭취 장면을 1920×1080 해상도로 관찰한다.",
+    "category": "먹이 섭취",
+    "file": "Rotifer feeding DSC 6876.webm",
+    "subjects": [
+      "rotifer"
+    ],
+    "creator": "Brandon Seah",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "tags": [
+      "윤충",
+      "여과 섭식"
+    ],
+    "impact": 3,
+    "note": "Wikimedia Commons 원본 설명·라이선스 확인 (2013-04-15); 육안 장면 검수는 별도"
+  }
+]
