@@ -1,0 +1,32 @@
+name: Preview vetted mass-discovery candidates
+on:
+  pull_request:
+    paths:
+      - 'scripts/batch-commons.mjs'
+      - 'scripts/pipeline-core.mjs'
+      - '.github/workflows/batch-discovery-preview.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Check local filters and licensing gates
+        run: node scripts/test-batch-pipeline.mjs
+      - name: Discover and verify new Commons recordings (no publication)
+        run: node scripts/batch-commons.mjs --max=80 --scan=1200 --pages=2 --emit
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: candidate-batch-preview
+          path: |
+            artifacts/batch-discovery-report.json
+            artifacts/batch-ready-commons.json
+          if-no-files-found: ignore
