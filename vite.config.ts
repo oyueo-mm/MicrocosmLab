@@ -1,1 +1,1 @@
-import { defineConfig } from 'vite'; import react from '@vitejs/plugin-react'; export default defineConfig({ plugins: [react()] });
+import { defineConfig } from 'vite'; import react from '@vitejs/plugin-react'; export default defineConfig({ plugins: [react()], build:{rollupOptions:{output:{manualChunks(id){if(id.includes('/data/pipeline-videos.json'))return 'commons-archive';if(id.includes('/data/videos.json'))return 'legacy-archive';if(id.includes('/node_modules/'))return 'vendor';}}}} });

@@ -25,6 +25,10 @@ jobs:
           node-version: '22'
       - name: Install dependencies
         run: npm install --no-audit --no-fund
+      - name: Verify catalog metadata normalization
+        run: node scripts/test-catalog-cleanup.mjs
+      - name: Verify source clip grouping
+        run: node scripts/test-grouping.mjs
       - name: Verify batch collection safeguards
         run: node scripts/test-batch-pipeline.mjs
       - name: Validate approved content
