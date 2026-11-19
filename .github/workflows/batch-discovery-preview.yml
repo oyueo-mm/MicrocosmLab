@@ -22,6 +22,10 @@ jobs:
         run: node scripts/test-batch-pipeline.mjs
       - name: Discover and verify new Commons recordings (no publication)
         run: node scripts/batch-commons.mjs --max=80 --scan=1200 --pages=2 --emit
+      - name: Discover public embeddable YouTube candidates (review queue only)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/discover-external.mjs --max=180 --queries=12
       - uses: actions/upload-artifact@v4
         if: always()
         with:
@@ -29,4 +33,5 @@ jobs:
           path: |
             artifacts/batch-discovery-report.json
             artifacts/batch-ready-commons.json
+            artifacts/external-video-candidates.json
           if-no-files-found: ignore
