@@ -1,10 +1,6 @@
-name: Bulk import microscopy videos
+name: Legacy Commons backfill (manual only)
 on:
-  push:
-    branches: [main]
-    paths:
-      - scripts/bulk-import.mjs
-      - .github/workflows/bulk-import.yml
+  workflow_dispatch:
 permissions:
   contents: write
 jobs:
