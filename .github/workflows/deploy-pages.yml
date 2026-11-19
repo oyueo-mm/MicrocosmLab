@@ -25,6 +25,8 @@ jobs:
           node-version: '22'
       - name: Install dependencies
         run: npm install --no-audit --no-fund
+      - name: Verify batch collection safeguards
+        run: node scripts/test-batch-pipeline.mjs
       - name: Validate approved content
         run: node scripts/validate-content.mjs
       - name: Check recommendation ranking
