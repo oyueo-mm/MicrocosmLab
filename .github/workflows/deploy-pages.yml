@@ -33,6 +33,8 @@ jobs:
         run: node scripts/test-explorer.mjs
       - name: Report catalog review quality
         run: node scripts/quality-report.mjs
+      - name: Verify quality report dimensions
+        run: node scripts/test-quality-report.mjs
       - name: Build for project Pages URL
         run: npm run build -- --base=/MicrocosmLab/
       - name: Configure Pages
