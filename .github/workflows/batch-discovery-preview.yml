@@ -21,7 +21,7 @@ jobs:
       - name: Check local filters and licensing gates
         run: node scripts/test-batch-pipeline.mjs
       - name: Discover and verify new Commons recordings (no publication)
-        run: node scripts/batch-commons.mjs --max=80 --scan=1200 --pages=2 --emit
+        run: node scripts/batch-commons.mjs --max=120 --scan=2400 --pages=3 --emit
       - name: Discover public embeddable YouTube candidates (review queue only)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
