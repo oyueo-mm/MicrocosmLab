@@ -1,0 +1,315 @@
+[
+  {
+    "id": "expanded-tardigrade-hatching",
+    "title": "완보동물 알에서 새끼가 부화하는 순간",
+    "summary": "실제 현미경으로 기록한 완보동물의 부화 장면이다.",
+    "detail": "Walt (oneminmicro)가 현미경 촬영으로 알에서 나오는 어린 완보동물을 기록했다. 2026년 공개된 영상으로, 현미경 관찰 장면을 포함한다.",
+    "category": "번식",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "부화",
+      "완보동물",
+      "생활사"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Walt (oneminmicro)",
+    "url": "https://www.youtube.com/watch?v=4gyC_mfgrbc",
+    "thumbnail": "https://i.ytimg.com/vi/4gyC_mfgrbc/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-six-year-rainwater",
+    "title": "6년간 밀폐해 둔 빗물에는 무엇이 살아 있을까?",
+    "summary": "6년 동안 닫아 둔 빗물 생태계의 미세 생물들을 현미경으로 조사한다.",
+    "detail": "Life in Jars?가 6년간 보관한 밀폐 빗물 병을 열어 표본을 채취하고 현미경으로 관찰하는 탐사 영상이다. 자연 생태 관찰·설명 장면이 포함된다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "미시 생태계",
+      "빗물",
+      "군집"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Life in Jars?",
+    "url": "https://www.youtube.com/watch?v=xIgDXef7Gfk",
+    "thumbnail": "https://i.ytimg.com/vi/xIgDXef7Gfk/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-cell-division-microworld",
+    "title": "현미경으로 보는 실제 세포 분열 과정",
+    "summary": "세포가 염색체를 정렬하고 두 딸세포로 나뉘는 과정을 살펴본다.",
+    "detail": "MicroWorld가 2025년 공개한 유사분열 관찰 영상. 영상 제작자 설명에 근거한 내용이며 세포 종류의 독립 검수는 완료하지 않았다.",
+    "category": "세포 활동",
+    "subjects": [
+      "cell-generic"
+    ],
+    "tags": [
+      "유사분열",
+      "염색체",
+      "분열"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "MicroWorld",
+    "url": "https://www.youtube.com/watch?v=FX4Ph0ijOuM",
+    "thumbnail": "https://i.ytimg.com/vi/FX4Ph0ijOuM/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-microscopic-predators-three",
+    "title": "미시 세계의 포식자들이 벌이는 사냥 모음 3",
+    "summary": "섬모충과 원생생물의 여러 사냥·포식 장면을 모은 현미경 영상이다.",
+    "detail": "원본 설명에는 Homalozoon의 윤충 포식, Spathidium의 Euplotes 포획, Dileptus 추격 및 Lacrymaria 동종 포식 등이 등장한다고 기재돼 있다. 개별 종 판정은 추가 검수가 필요하다.",
+    "category": "포식",
+    "subjects": [
+      "rotifer",
+      "lacrymaria",
+      "dileptus",
+      "euplotes"
+    ],
+    "tags": [
+      "포식",
+      "사냥",
+      "편집 영상"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=9Ic95pCg1VQ",
+    "thumbnail": "https://i.ytimg.com/vi/9Ic95pCg1VQ/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-microscopic-predators-one",
+    "title": "현미경 포식자들의 숨겨진 사냥 장면 모음 1",
+    "summary": "아메바·섬모충·완보동물 등 다양한 생물이 먹이를 잡는 모습을 모았다.",
+    "detail": "원본 설명에 따르면 윤충의 유글레나 포식, 아메바의 다른 생물 포획, 완보동물의 먹이 섭취, 히드라의 사냥 등 여러 사례가 소개된다.",
+    "category": "포식",
+    "subjects": [
+      "rotifer",
+      "amoeba",
+      "tardigrade",
+      "hydra"
+    ],
+    "tags": [
+      "포식",
+      "사냥",
+      "편집 영상"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=hbmG9IQ_hvc",
+    "thumbnail": "https://i.ytimg.com/vi/hbmG9IQ_hvc/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-blepharisma-cannibalism",
+    "title": "거대 섬모충이 작은 동족을 먹어 치운다",
+    "summary": "섬모충의 동종 포식이 어떻게 일어나는지 설명하는 짧은 현미경 영상이다.",
+    "detail": "Journey to the Microcosmos의 원본 설명은 Blepharisma의 동종 포식에 관한 연구 사례를 소개한다. 상세 생물종 분류는 추가 검수가 필요하다.",
+    "category": "포식",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "동종 포식",
+      "섬모충",
+      "포식"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=aEjigqwBTRQ",
+    "thumbnail": "https://i.ytimg.com/vi/aEjigqwBTRQ/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-whimsical-water",
+    "title": "물속에서 만나는 기묘한 미시 생물들",
+    "summary": "여러 종류의 작은 수생 생물을 현미경으로 기록했다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "수중 생태계",
+      "관찰"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=rVkmMFCgUxc",
+    "thumbnail": "https://i.ytimg.com/vi/rVkmMFCgUxc/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-nematode",
+    "title": "현미경으로 관찰하는 선충의 움직임",
+    "summary": "작은 선충이 몸을 휘어 움직이는 모습을 관찰한다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "이동",
+    "subjects": [
+      "nematode"
+    ],
+    "tags": [
+      "선충",
+      "운동"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=fsr0sctBqLA",
+    "thumbnail": "https://i.ytimg.com/vi/fsr0sctBqLA/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-amoeba",
+    "title": "아메바가 모양을 바꾸며 움직인다",
+    "summary": "아메바의 형태 변화와 운동을 담은 현미경 영상이다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "이동",
+    "subjects": [
+      "amoeba"
+    ],
+    "tags": [
+      "아메바",
+      "운동"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=CiKTVgXCn58",
+    "thumbnail": "https://i.ytimg.com/vi/CiKTVgXCn58/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-cyclops-volvox",
+    "title": "검물벼룩류와 볼복스를 한 화면에서 만난다",
+    "summary": "수생 미소동물과 군체성 녹조류를 함께 관찰한다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "volvox",
+      "microscopy-generic"
+    ],
+    "tags": [
+      "볼복스",
+      "수중 생태계"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=0NOXBkZhDr0",
+    "thumbnail": "https://i.ytimg.com/vi/0NOXBkZhDr0/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-synura-pond",
+    "title": "연못 속 시누라와 다양한 미생물",
+    "summary": "연못에서 수집한 시료에 등장하는 생물을 탐색한다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "연못",
+      "미생물 다양성"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=z5pGkaXoAgE",
+    "thumbnail": "https://i.ytimg.com/vi/z5pGkaXoAgE/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-tardigrade-family",
+    "title": "완보동물 가족을 현미경으로 들여다본다",
+    "summary": "완보동물 여러 개체를 촬영한 현미경 관찰 영상이다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "완보동물",
+      "관찰"
+    ],
+    "impact": 4,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=UBZKmG9cZwI",
+    "thumbnail": "https://i.ytimg.com/vi/UBZKmG9cZwI/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-tiny-water-drop",
+    "title": "물 몇 방울에 숨어 있는 미시 생태계",
+    "summary": "몇 방울의 물에서 발견되는 다양한 생명체를 보여 준다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "수중 생태계",
+      "미생물 다양성"
+    ],
+    "impact": 3,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=S8iOkMys-6M",
+    "thumbnail": "https://i.ytimg.com/vi/S8iOkMys-6M/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-chomper-tardigrade",
+    "title": "완보동물의 특이한 먹이 섭취 장면",
+    "summary": "A Tiny World가 Chomper Tardigrade라는 제목으로 공개한 현미경 영상이다. 실제 먹이 종류는 검수 전이다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "먹이 섭취",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "완보동물",
+      "먹이 섭취"
+    ],
+    "impact": 4,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=1-__y9JdbPE",
+    "thumbnail": "https://i.ytimg.com/vi/1-__y9JdbPE/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-tiny-pregnant-tardigrade",
+    "title": "알을 가진 완보동물의 모습",
+    "summary": "A Tiny World의 완보동물 번식 관련 현미경 관찰 영상이다.",
+    "detail": "A Tiny World가 공개한 실제 현미경 관찰 영상. 제작자 공식 영상 목록에 올라 있는 제목과 링크를 기준으로 수록했으며 상세 행동·종 동정은 개별 검수 전이다.",
+    "category": "번식",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "완보동물",
+      "번식"
+    ],
+    "impact": 4,
+    "reviewStatus": "제작자 사이트의 공식 영상 링크 확인 (장면 개별 검수 전)",
+    "format": "현미경 관찰",
+    "source": "A Tiny World",
+    "url": "https://www.youtube.com/watch?v=Fcf5DsvlucY",
+    "thumbnail": "https://i.ytimg.com/vi/Fcf5DsvlucY/hqdefault.jpg"
+  }
+]
