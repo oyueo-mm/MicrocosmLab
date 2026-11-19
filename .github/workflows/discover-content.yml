@@ -1,0 +1,34 @@
+name: Discover candidate microscopy videos
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 2 * * 1'
+permissions:
+  contents: read
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Report quality and verification backlog
+        run: node scripts/quality-report.mjs
+      - name: Discover Commons candidates without publishing
+        run: node scripts/discover-commons.mjs
+      - name: Discover YouTube candidates without publishing
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/discover-external.mjs
+      - name: Save candidate and quality review reports
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: microscopy-discovery-review
+          path: |
+            artifacts/commons-candidates.json
+            artifacts/external-video-candidates.json
+            artifacts/content-quality-report.json
