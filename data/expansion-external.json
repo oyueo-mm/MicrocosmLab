@@ -1,0 +1,134 @@
+[
+  {
+    "id": "expanded-tardigrade-hatching",
+    "title": "완보동물 알에서 새끼가 부화하는 순간",
+    "summary": "실제 현미경으로 기록한 완보동물의 부화 장면이다.",
+    "detail": "Walt (oneminmicro)가 현미경 촬영으로 알에서 나오는 어린 완보동물을 기록했다. 2026년 공개된 영상으로, 현미경 관찰 장면을 포함한다.",
+    "category": "번식",
+    "subjects": [
+      "tardigrade"
+    ],
+    "tags": [
+      "부화",
+      "완보동물",
+      "생활사"
+    ],
+    "impact": 5,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Walt (oneminmicro)",
+    "url": "https://www.youtube.com/watch?v=4gyC_mfgrbc",
+    "thumbnail": "https://i.ytimg.com/vi/4gyC_mfgrbc/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-six-year-rainwater",
+    "title": "6년간 밀폐해 둔 빗물에는 무엇이 살아 있을까?",
+    "summary": "6년 동안 닫아 둔 빗물 생태계의 미세 생물들을 현미경으로 조사한다.",
+    "detail": "Life in Jars?가 6년간 보관한 밀폐 빗물 병을 열어 표본을 채취하고 현미경으로 관찰하는 탐사 영상이다. 자연 생태 관찰·설명 장면이 포함된다.",
+    "category": "생태 관찰",
+    "subjects": [
+      "microscopy-generic"
+    ],
+    "tags": [
+      "미시 생태계",
+      "빗물",
+      "군집"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Life in Jars?",
+    "url": "https://www.youtube.com/watch?v=xIgDXef7Gfk",
+    "thumbnail": "https://i.ytimg.com/vi/xIgDXef7Gfk/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-cell-division-microworld",
+    "title": "현미경으로 보는 실제 세포 분열 과정",
+    "summary": "세포가 염색체를 정렬하고 두 딸세포로 나뉘는 과정을 살펴본다.",
+    "detail": "MicroWorld가 2025년 공개한 유사분열 관찰 영상. 영상 제작자 설명에 근거한 내용이며 세포 종류의 독립 검수는 완료하지 않았다.",
+    "category": "세포 활동",
+    "subjects": [
+      "cell-generic"
+    ],
+    "tags": [
+      "유사분열",
+      "염색체",
+      "분열"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "MicroWorld",
+    "url": "https://www.youtube.com/watch?v=FX4Ph0ijOuM",
+    "thumbnail": "https://i.ytimg.com/vi/FX4Ph0ijOuM/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-microscopic-predators-three",
+    "title": "미시 세계의 포식자들이 벌이는 사냥 모음 3",
+    "summary": "섬모충과 원생생물의 여러 사냥·포식 장면을 모은 현미경 영상이다.",
+    "detail": "원본 설명에는 Homalozoon의 윤충 포식, Spathidium의 Euplotes 포획, Dileptus 추격 및 Lacrymaria 동종 포식 등이 등장한다고 기재돼 있다. 개별 종 판정은 추가 검수가 필요하다.",
+    "category": "포식",
+    "subjects": [
+      "rotifer",
+      "lacrymaria",
+      "dileptus",
+      "euplotes"
+    ],
+    "tags": [
+      "포식",
+      "사냥",
+      "편집 영상"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=9Ic95pCg1VQ",
+    "thumbnail": "https://i.ytimg.com/vi/9Ic95pCg1VQ/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-microscopic-predators-one",
+    "title": "현미경 포식자들의 숨겨진 사냥 장면 모음 1",
+    "summary": "아메바·섬모충·완보동물 등 다양한 생물이 먹이를 잡는 모습을 모았다.",
+    "detail": "원본 설명에 따르면 윤충의 유글레나 포식, 아메바의 다른 생물 포획, 완보동물의 먹이 섭취, 히드라의 사냥 등 여러 사례가 소개된다.",
+    "category": "포식",
+    "subjects": [
+      "rotifer",
+      "amoeba",
+      "tardigrade",
+      "hydra"
+    ],
+    "tags": [
+      "포식",
+      "사냥",
+      "편집 영상"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=hbmG9IQ_hvc",
+    "thumbnail": "https://i.ytimg.com/vi/hbmG9IQ_hvc/hqdefault.jpg"
+  },
+  {
+    "id": "expanded-blepharisma-cannibalism",
+    "title": "거대 섬모충이 작은 동족을 먹어 치운다",
+    "summary": "섬모충의 동종 포식이 어떻게 일어나는지 설명하는 짧은 현미경 영상이다.",
+    "detail": "Journey to the Microcosmos의 원본 설명은 Blepharisma의 동종 포식에 관한 연구 사례를 소개한다. 상세 생물종 분류는 추가 검수가 필요하다.",
+    "category": "포식",
+    "subjects": [
+      "ciliate"
+    ],
+    "tags": [
+      "동종 포식",
+      "섬모충",
+      "포식"
+    ],
+    "impact": 4,
+    "reviewStatus": "원본 제목·설명 확인 (영상 장면 개별 검수 전)",
+    "format": "현미경 해설",
+    "source": "Journey to the Microcosmos",
+    "url": "https://www.youtube.com/watch?v=aEjigqwBTRQ",
+    "thumbnail": "https://i.ytimg.com/vi/aEjigqwBTRQ/hqdefault.jpg"
+  }
+]
