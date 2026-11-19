@@ -27,6 +27,10 @@ jobs:
         run: node scripts/validate-content.mjs
       - name: Check content & recommendation regressions
         run: node scripts/test-recommendation-v3.mjs && npm run build -- --base=/MicrocosmLab/
+      - name: Discover optional YouTube review candidates without publishing
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: node scripts/discover-external.mjs --max=350 --queries=26
       - name: Stage only newly validated media as a pull request
         id: proposal
         uses: peter-evans/create-pull-request@v7
@@ -49,4 +53,5 @@ jobs:
           path: |
             artifacts/batch-discovery-report.json
             artifacts/batch-ready-commons.json
+            artifacts/external-video-candidates.json
           if-no-files-found: ignore
