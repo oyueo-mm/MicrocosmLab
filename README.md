@@ -117,3 +117,19 @@ npm run build
 - 데이터 검증은 기존 파일·유튜브 ID와의 중복을 차단하고, Commons 메타데이터 업데이트가 정확히 하나의 기존 레코드에 대응하도록 확인합니다. 신규 외부 영상은 Walt (oneminmicro), Life in Jars?, MicroWorld, A Tiny World 및 Journey to the Microcosmos의 공식 임베드를 사용합니다.
 - **오프라인 평가**: `node scripts/test-recommendation-v3.mjs`는 동일 후보군에서 V2/V3의 중복률·제작자 다양성·분류 폭, 관심 없음 제외 여부를 테스트하고 `artifacts/recommendation-v3-evaluation.json` 보고서를 생성합니다. 이 결과는 합성 선호 기반의 프록시 측정치이며 **실제 사용자 Precision@K/NDCG@K 개선 증거가 아닙니다.** 계정 및 서버 저장은 도입하지 않았습니다.
 - Pages 워크플로의 잘못 중첩된 품질/생물 테스트 단계도 바로잡고, V3 검증을 배포 필수 단계로 추가했습니다.
+
+## 대량 발굴 → 자동 검사 → 일괄 등록 파이프라인
+
+- **Commons 자동 파이프라인**: `node scripts/batch-commons.mjs --max=120 --scan=1800 --pages=2`는 31개 이상의 현미경·생물 주제 카테고리를 조사하고 파일명, 영상 MIME, 저작자, CC BY/CC BY-SA 라이선스 및 이미 등록한 원본 중복 여부를 확인합니다. `artifacts/batch-discovery-report.json`과 `artifacts/batch-ready-commons.json`을 생성하며 기본 동작은 **미게시 미리보기**입니다.
+- `node scripts/batch-commons.mjs --max=180 --scan=3000 --pages=3 --write`는 검사를 통과한 **새 Commons 파일만** `data/pipeline-videos.json`에 합쳐서 저장하고, 기존 `scripts/validate-content.mjs` 검사 대상으로 연결합니다. 기존 동영상 파일을 다운로드하거나 호스팅하지 않습니다. 파일명을 고유 ID로 변환하며 이전 촬영본과 중복되는 경로는 건너뜁니다.
+- **자동화**: `.github/workflows/batch-discovery.yml`은 매주 화요일 자동 실행 또는 GitHub Actions 수동 실행으로 원본 후보를 찾고, 확인된 신규 영상만 담은 **검토 가능한 PR**을 생성합니다. 승인·병합하지 않은 데이터는 공개되지 않습니다. GitHub 저장소 설정에서 Actions의 PR 생성 권한을 허용해야 PR 자동 생성이 가능합니다. 공개 저장소라도 실제 생물종·행동의 장면 검수는 별도로 필요합니다.
+- **즉시 미리보기**: `.github/workflows/batch-discovery-preview.yml`은 PR에서 검사를 실행하고 수집 후보를 GitHub Actions 아티팩트로 저장합니다. 콘텐츠를 직접 게시하지 않습니다. 전체 등록 검증과 파이프라인 회귀 테스트도 빌드·배포 필수 과정입니다.
+- **YouTube 자동 탐색**: `scripts/discover-external.mjs`는 최대 26개 주제로 350개까지 API 메타데이터 후보를 확인하고 기존 영상 ID를 제거합니다. `YOUTUBE_API_KEY` 시크릿이 필요하며, 키가 없으면 YouTube 탐색만 생략합니다. 공개·임베드 허용 여부는 자동 확인 가능해도 실제 재생·생물종·행동의 정확성은 판정할 수 없으므로 YouTube 후보는 자동 게시하지 않고 `artifacts/external-video-candidates.json`으로 분리합니다.
+- **과학적 검수 범위**: 자동 등록된 Commons 자료의 생물 분류는 Commons 카테고리를 이용한 보수적인 메타데이터 추정이며, 그 사실을 영상 설명과 관찰 정보에 명시합니다. 자동 등록은 개별 장면의 육안 검수 완료를 의미하지 않습니다.
+
+### 2026-11-20 첫 실전 실행
+
+- GitHub Actions에서 Commons API를 직접 조회해 기존 기록과 중복되지 않는 후보 **1,627개**를 발견했습니다. 1,563개의 파일 메타데이터 검사를 진행했고, 이 중 기본 조건을 충족한 81개에 추가적인 비관찰·분석 자료 필터를 적용해 **56개만** `data/pipeline-videos.json`에 반영했습니다. API 장애로 확인하지 못한 항목은 등록하지 않았습니다.
+- 신규 데이터의 생물종 및 행동은 **실제 장면 판독이 아니라 원본 분류 메타데이터 기반의 보수적인 설명**입니다. 출처/라이선스 검증과 영상의 흥미도·과학적 장면 검수는 구분해 관리합니다.
+- YouTube 검색은 `YOUTUBE_API_KEY`가 없어 이번 실행에서는 0개 후보로 생략됐습니다. 대량 YouTube 검색을 사용하려면 GitHub 저장소 시크릿에 키를 설정해야 합니다.
+- 주간 자동 후보 PR 생성을 이용하려면 저장소 Settings → Actions → General → Workflow permissions에서 **Allow GitHub Actions to create and approve pull requests** 허용이 필요할 수 있습니다. 이 권한 설정과 자동 PR 생성 성공 여부는 별도로 확인해야 합니다.
