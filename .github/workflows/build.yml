@@ -12,6 +12,7 @@ jobs:
         with:
           node-version: 22
       - run: npm install --no-audit --no-fund
+      - run: node scripts/test-batch-pipeline.mjs
       - run: node scripts/validate-content.mjs
       - run: node scripts/test-recommendations.mjs
       - run: node scripts/test-recommendation-v3.mjs
