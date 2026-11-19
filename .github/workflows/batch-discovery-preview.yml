@@ -11,7 +11,7 @@ permissions:
 jobs:
   preview:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 35
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -21,7 +21,7 @@ jobs:
       - name: Check local filters and licensing gates
         run: node scripts/test-batch-pipeline.mjs
       - name: Discover and verify new Commons recordings (no publication)
-        run: node scripts/batch-commons.mjs --max=120 --scan=2400 --pages=3 --emit
+        run: node scripts/batch-commons.mjs --max=650 --scan=9000 --pages=7 --emit
       - name: Discover public embeddable YouTube candidates (review queue only)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
