@@ -1,0 +1,52 @@
+name: Batch discover, validate, stage as review PR
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '15 2 * * 2'
+permissions:
+  contents: write
+  pull-requests: write
+concurrency:
+  group: bulk-catalog-discovery
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Verify pipeline conversion logic
+        run: node scripts/test-batch-pipeline.mjs
+      - name: Discover new Commons and prepare validated media records
+        run: node scripts/batch-commons.mjs --max=180 --scan=3000 --pages=3 --write
+      - name: Revalidate entire catalog after batch registration
+        run: node scripts/validate-content.mjs
+      - name: Check content & recommendation regressions
+        run: node scripts/test-recommendation-v3.mjs && npm run build -- --base=/MicrocosmLab/
+      - name: Stage only newly validated media as a pull request
+        id: proposal
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          add-paths: data/pipeline-videos.json
+          commit-message: 'chore(content): add newly verified Commons video batch'
+          branch: automated/commons-video-batch
+          delete-branch: true
+          title: '콘텐츠 자동 발굴 · 검증된 신규 Commons 영상 일괄 등록'
+          body: |
+            Wikimedia Commons API의 파일 존재/영상 포맷/라이선스/저작자와 기존 기록 중복을 자동 검사한 뒤 통과한 건만 준비했습니다.
+            **주의:** 실제 영상 장면, 생물종과 행동의 정확성은 자동으로 검증되지 않았습니다. 병합 전 새 목록을 검토하세요.
+            관련 검사 결과는 이 워크플로의 `commons-batch-inspection` 아티팩트에 있습니다.
+      - name: Upload inspection report and staged batch
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: commons-batch-inspection
+          path: |
+            artifacts/batch-discovery-report.json
+            artifacts/batch-ready-commons.json
+          if-no-files-found: ignore
