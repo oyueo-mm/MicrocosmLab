@@ -4,7 +4,9 @@
 
 **사이트:** https://oyueo-mm.github.io/MicrocosmLab/
 
-**프로젝트 맥락·인수인계:** [CONTEXT.md](CONTEXT.md) · **에이전트 작업 규칙:** [AGENTS.md](AGENTS.md). 새 채팅/에이전트에서는 맥락 파일부터 읽고 변경 후 함께 갱신합니다.
+**프로젝트 맥락·인수인계:** [CONTEXT.md](CONTEXT.md) · **에이전트 작업 규칙:** [AGENTS.md](AGENTS.md).
+
+**추천 연구:** [V4 실험·사용자 데이터 아키텍처](docs/recommendation/RESEARCH.md) — V3와 새 후보를 동일 기준으로 비교하며, 다국어 임베딩은 별도 수동 연구 실행. 사용자 간 데이터 수집 API는 아직 운영하지 않습니다. 새 채팅/에이전트에서는 맥락 파일부터 읽고 변경 후 함께 갱신합니다.
 
 ## 콘텐츠
 
