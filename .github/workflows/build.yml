@@ -19,6 +19,7 @@ jobs:
       - run: node scripts/test-recommendations.mjs
       - run: node scripts/test-recommendation-v3.mjs
       - run: node scripts/test-explorer.mjs
+      - run: node scripts/test-korean-and-shorts.mjs
       - run: node scripts/test-subjects.mjs
       - run: node scripts/quality-report.mjs
       - run: node scripts/test-quality-report.mjs
