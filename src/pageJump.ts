@@ -1,0 +1,1 @@
+export const parsePageJump=(value:string,total:number):number|null=>{if(!/^[1-9]\d*$/.test(value.trim()))return null;const n=Number(value.trim());return Number.isSafeInteger(n)&&n>=1&&n<=total?n:null;};
