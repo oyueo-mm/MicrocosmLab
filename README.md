@@ -4,6 +4,8 @@
 
 **사이트:** https://oyueo-mm.github.io/MicrocosmLab/
 
+**프로젝트 맥락·인수인계:** [CONTEXT.md](CONTEXT.md) · **에이전트 작업 규칙:** [AGENTS.md](AGENTS.md). 새 채팅/에이전트에서는 맥락 파일부터 읽고 변경 후 함께 갱신합니다.
+
 ## 콘텐츠
 
 - `data/discovery-videos.json` 및 `data/discovery-extra.json`: 원본 페이지와 설명을 대조한 새 YouTube 자료 총 54개와 행동 태그·흥미도·영상 유형. 유튜브 원본 파일은 내려받지 않습니다.
