@@ -39,6 +39,8 @@ jobs:
         run: node scripts/test-recommendation-v3.mjs
       - name: Check discovery filters
         run: node scripts/test-explorer.mjs
+      - name: Check Korean video titles, page jumps and shorts feed
+        run: node scripts/test-korean-and-shorts.mjs
       - name: Check subject grouping
         run: node scripts/test-subjects.mjs
       - name: Report catalog review quality
