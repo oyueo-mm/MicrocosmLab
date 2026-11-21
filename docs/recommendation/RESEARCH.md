@@ -10,7 +10,7 @@
 | BM25 (k1=1.2, b=.75) | 오프라인 후보 구현 | 텍스트 관련도 후보. 데이터가 부족한 일반적 메타데이터를 완전한 장면 정보로 간주하지 않음 |
 | 콘텐츠 KNN | 오프라인 후보 구현 | 생물/카테고리/검수된 태그의 가중 Jaccard 유사도 |
 | Hybrid + MMR | 오프라인 후보 구현 | 텍스트·BM25·KNN 합성과 재랭킹, 후보 출처/카테고리 편중 감시 |
-| Sentence Embedding | **실제 다국어 모델 수동 실험 경로 마련, 아직 실행 결과 없음** | `scripts/export-recommendation-corpus.mjs`, `scripts/generate-sentence-embeddings.py`, `.github/workflows/recommendation-embeddings.yml`. 모델을 실행하여 벡터를 생성한 경우에만 비교 |
+| Sentence Embedding | **실제 다국어 384차원 임베딩 생성·평가 완료; 기본 추천 미변경** | `scripts/export-recommendation-corpus.mjs`, `scripts/generate-sentence-embeddings.py`, `.github/workflows/recommendation-embeddings.yml`. 모델을 실행하여 벡터를 생성한 경우에만 비교 |
 | 세션 기반 추천 | **브라우저 행동 신호 수집 + V3의 제한적 반영 구현** | `src/usePreferences.ts`, `src/ShortFeed.tsx`, `src/recommendationV3.ts`. 서버 전송 없음 |
 | Contextual Bandit | **LinUCB 순수 알고리즘 프로토타입/합성 데이터 단위 검사** | `src/recommendationOnlineLab.ts`; 실서비스 정책 탐색·무작위 노출 없음 |
 | ItemKNN 협업 필터링 | **합성 사용자–영상 그래프 구현/검사** | 실사용자 공동 선호 데이터가 없어 품질 평가/배포 불가 |
@@ -51,7 +51,7 @@
 **Phase 1: 콘텐츠 추천 연구 V4**
 1. `node scripts/test-recommendation-lab.mjs`로 V3 vs TF-IDF/BM25/콘텐츠 KNN/하이브리드/MMR 비교.
 2. `artifacts/recommendation-v4-experiment.json`의 데이터 개수·메타데이터 정답 기준·Recall@10 대리 지표·NDCG@10 대리 지표·공급자/카테고리 다양성·중복을 함께 분석.
-3. GitHub Actions **Multilingual Sentence Embedding research (manual)** 워크플로를 별도 수동 실행하면 실제 다국어 모델 벡터가 실행 산출물로 저장되고 같은 기준으로 비교. 자동으로 서비스 배포하지 않는다.
+3. GitHub Actions **Multilingual Sentence Embedding research (manual)** 워크플로를 별도 수동 실행하면 실제 다국어 모델 벡터가 실행 산출물로 저장되고 같은 기준으로 비교. 첫 실제 실행은 [Actions #44840692750](https://github.com/oyueo-mm/MicrocosmLab/actions/runs/44840692750)에서 성공했고, 검증 결과는 [RESULTS-2026-11-21.md](RESULTS-2026-11-21.md)에 기록했다. 자동으로 서비스 배포하지 않는다.
 4. 기존 V3를 기준선으로 보존하고, 실제 사용자 데이터 없이 오프라인 대리 지표만 좋아졌다면 실서비스 전체 기본 추천을 교체하지 않는다.
 
 **Phase 2: 행동 신호와 합법적 수집 설계**
