@@ -1,0 +1,36 @@
+name: Multilingual Sentence Embedding research (manual)
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  embeddings:
+    runs-on: ubuntu-latest
+    timeout-minutes: 50
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-audit --no-fund
+      - name: Export grouped catalog text
+        run: node scripts/export-recommendation-corpus.mjs
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install offline embedding encoder
+        run: python -m pip install "sentence-transformers>=3.0,<6.0"
+      - name: Generate real multilingual embeddings
+        run: python scripts/generate-sentence-embeddings.py
+      - name: Compare TF-IDF, BM25, KNN, MMR and embeddings
+        run: node scripts/test-recommendation-lab.mjs
+      - uses: actions/upload-artifact@v4
+        with:
+          name: microcosmlab-sentence-embedding-research
+          path: |
+            artifacts/recommendation-corpus.json
+            artifacts/sentence-embeddings.json
+            artifacts/recommendation-v4-experiment.json
+          retention-days: 7

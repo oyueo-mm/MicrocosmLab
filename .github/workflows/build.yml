@@ -18,6 +18,8 @@ jobs:
       - run: node scripts/validate-content.mjs
       - run: node scripts/test-recommendations.mjs
       - run: node scripts/test-recommendation-v3.mjs
+      - run: node scripts/test-recommendation-lab.mjs
+      - run: node scripts/test-online-research-prototypes.mjs
       - run: node scripts/test-explorer.mjs
       - run: node scripts/test-korean-and-shorts.mjs
       - run: node scripts/test-subjects.mjs
