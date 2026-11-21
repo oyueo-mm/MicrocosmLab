@@ -29,9 +29,10 @@
 1. 예전 42개 **동일 생물종·동일 카테고리 기반 NDCG**는 메타데이터 일치 대리 지표이다. KNN의 특징과 정답 정의가 겹치므로 **실제 사용자의 선호 NDCG로 해석 금지**.
 2. 연구용 블라인드 Pool은 **V3, TF-IDF, BM25, 콘텐츠 KNN, Hybrid, MMR, 무작위 후보**를 혼합하고 중복을 제거한 뒤 출처 알고리즘을 가리고 제시한다. 정적 결정론적 풀로 테스트 재현성 확보. 영상 재생은 Commons 허용 자료에 한정. 시리즈/메타데이터 오염 가능성은 별도 검수한다.
 3. **미평가/재생 불가 후보는 오답으로 채우지 않는다.** `src/recommendationJudgments.ts`의 `evaluateHumanJudgments`는 주어진 후보의 판단 커버리지가 부족한 경우 점수를 `null`로 반환한다. Pool 기반의 불완전 판단과 사용자/장면 관련성 평가의 한계를 보고한다.
-4. 테스트에 쓴 사례를 모델 가중치 튜닝에 사용한 뒤 독립 홀드아웃으로 주장하지 않는다. 실제 평가 데이터를 확보하면 **훈련/개발/독립 평가**를 분리하고 평가자 간 일치도, 카테고리·원본 제작자 층화, 노출·선택 편향을 검토한다.
-5. 인기 기반은 **노출(분모)** 없는 좋아요 합계를 인기도라고 주장하지 않는다. `estimatePopularity`는 실제 노출이 최소 기준을 넘은 **참여 동의 기반** 데이터에만 쓰도록 설계했고, 현재 배포 사이트는 해당 데이터를 확보하지 못한다.
-6. 품질 점수는 `qualityRank`의 **기존 메타데이터 기반 추정**으로, 재생 품질·장면 흥미도·생물학적 동정에 대한 독립 현장 검수가 아니다. 상단에 노출한다고 해서 '실제 장면 검수 완료'라는 문구를 추가하지 않는다.
+4. 각 기준 영상에 대해 **6개 추천기의 Commons 재생 후보 상위 3개씩을 우선 Pool에 포함**하고 무작위 후보 등으로 22개까지 확장해 블라인드 순서로 제공한다(기본 10개 기준 영상 × 22개 = 220개 영상 쌍). 실제 평가 점수가 존재할 때만 각 모델의 **nDCG@3**를 산출한다. 중복 후보는 공유되며 평가 편향·부분 판단의 한계는 계속 명시한다.
+5. 테스트에 쓴 사례를 모델 가중치 튜닝에 사용한 뒤 독립 홀드아웃으로 주장하지 않는다. 실제 평가 데이터를 확보하면 **훈련/개발/독립 평가**를 분리하고 평가자 간 일치도, 카테고리·원본 제작자 층화, 노출·선택 편향을 검토한다.
+6. 인기 기반은 **노출(분모)** 없는 좋아요 합계를 인기도라고 주장하지 않는다. `estimatePopularity`는 실제 노출이 최소 기준을 넘은 **참여 동의 기반** 데이터에만 쓰도록 설계했고, 현재 배포 사이트는 해당 데이터를 확보하지 못한다.
+7. 품질 점수는 `qualityRank`의 **기존 메타데이터 기반 추정**으로, 재생 품질·장면 흥미도·생물학적 동정에 대한 독립 현장 검수가 아니다. 상단에 노출한다고 해서 '실제 장면 검수 완료'라는 문구를 추가하지 않는다.
 
 ## 코드 / 실행 / 테스트
 
@@ -42,7 +43,7 @@
 - `src/RecommendationStudy.tsx`: 영상 직접 재생, 관련성/다음 시청 의향 평가 및 수동 다운로드.
 - `src/recommendationOnlineLab.ts`: 기존 ItemKNN/그래프 전파/LinUCB 단위 실험.
 - `scripts/test-recommendation-discovery.mjs`: 랭킹 일관성/중복/숨김/선택 관심사 효과, 실 인기 미보유, 연구 후보 결정론성, 미평가 점수 누락 점검.
-- `node scripts/test-recommendation-discovery.mjs`, `node scripts/test-recommendation-v3.mjs`, `node scripts/test-recommendation-lab.mjs`, `node scripts/test-online-research-prototypes.mjs`, `npm run build`.
+- `node scripts/evaluate-human-judgments.mjs 평가파일.json` (자발적으로 내려받은 로컬 평가 JSON에서 Commons 상위 3개 판단 커버리지 충족 시에만 nDCG@3 보고), `node scripts/test-recommendation-discovery.mjs`, `node scripts/test-recommendation-v3.mjs`, `node scripts/test-recommendation-lab.mjs`, `node scripts/test-online-research-prototypes.mjs`, `npm run build`.
 
 ## 다음 단계
 
