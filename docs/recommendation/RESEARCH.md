@@ -4,6 +4,8 @@
 
 ## 1. 구현 및 검증 상태
 
+**후속 실험:** [DISCOVERY-STUDY-2026-11-21.md](DISCOVERY-STUDY-2026-11-21.md)에 선택형 콜드 스타트·편집자/품질/다양성 추천·사람 평가·인기 추정 조건을 정리했다. 사람 평가 없이는 기존 V3보다 우수하다고 주장하지 않는다.
+
 | 연구 대상 | 현재 상태 | 근거 / 제한 |
 | --- | --- | --- |
 | TF-IDF (한국어/영어 토큰, 한국어 문자 2-gram) | 오프라인 후보 구현 | `src/recommendationLab.ts`, `scripts/test-recommendation-lab.mjs` |

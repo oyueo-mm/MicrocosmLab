@@ -14,6 +14,7 @@
 | 로드맵 | [ROADMAP.md](context/ROADMAP.md) | 완료/진행/제안 구분, 다음 작업 |
 | 인수인계 | [HANDOFF.md](context/HANDOFF.md) | 새 에이전트의 읽기·쓰기 절차 |
 | 추천 연구 | [RESEARCH.md](recommendation/RESEARCH.md) | V4 실험·행동 데이터 아키텍처 |
+| 발견형·사람 평가 | [DISCOVERY-STUDY-2026-11-21.md](recommendation/DISCOVERY-STUDY-2026-11-21.md) | 10가지 추천 전략과 블라인드 평가 UI |
 | 추천 결과 | [RESULTS-2026-11-21.md](recommendation/RESULTS-2026-11-21.md) | 측정 조건·실제 실험 결과·한계 |
 | 기록 보존 | [DEVELOPMENT-2026-11.md](history/DEVELOPMENT-2026-11.md) | 이전 장문 README 개발 이력 원문 아카이브 |
 
