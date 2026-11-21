@@ -45,6 +45,13 @@
 - `scripts/test-recommendation-discovery.mjs`: 랭킹 일관성/중복/숨김/선택 관심사 효과, 실 인기 미보유, 연구 후보 결정론성, 미평가 점수 누락 점검.
 - `node scripts/evaluate-human-judgments.mjs 평가파일.json` (자발적으로 내려받은 로컬 평가 JSON에서 Commons 상위 3개 판단 커버리지 충족 시에만 nDCG@3 보고), `node scripts/test-recommendation-discovery.mjs`, `node scripts/test-recommendation-v3.mjs`, `node scripts/test-recommendation-lab.mjs`, `node scripts/test-online-research-prototypes.mjs`, `npm run build`.
 
+## 검증 결과와 재현성
+
+- PR #15 사전 CI ([실험 실행 #44845008738](https://github.com/oyueo-mm/MicrocosmLab/actions/runs/44845008738)): **대표 카탈로그 1,196개**, 테스트 평가 풀 **8개 시드 × 22개 후보 = 176쌍**, 선택 관심사 반영 확인, 숨김 누출·중복 0, 빈 사람 평가셋 결과 null 등 검사. **실제 사람 평가 수치는 없음.**
+- 기본 연구 UI는 **10개 시드 × 22개 후보 = 220쌍**(현재 카탈로그가 바뀌지 않을 경우). 완전한 판단이 모여야 모델별 상위 3개 Commons 영상에 대한 nDCG@3를 계산할 수 있다.
+- 내보내기 JSON에는 `poolId` 지문을 기록하고, CLI 평가 시 현재 카탈로그와 후보 풀의 지문이 다르면 **실패**하도록 함. 향후 데이터가 바뀌면 과거 평가와 다른 카탈로그 기준의 결과를 몰래 결합하지 않는다. 빈/미평가 점수를 0점으로 대체하지 않는다.
+- 브라우저별 실제 플레이어 동작과 전 영상의 재생 성공은 CI 타입 검사만으로 입증되지 않으며 수동 실기기 검증이 필요하다.
+
 ## 다음 단계
 
 - 사람 평가용 영상 풀에 **독립 평가자 2명 이상**의 실제 판단을 확보하고, 고르지 않은 영상의 불확실성을 표시하며 평가자 간 일치도를 확인한다.
