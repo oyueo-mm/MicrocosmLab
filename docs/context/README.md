@@ -15,7 +15,7 @@
 4. **[설계 결정](DECISIONS.md)** — UX·콘텐츠 신뢰도·추천 승격·정보보호 제약.
 5. **[로드맵](ROADMAP.md)** — 우선순위와 완료/제안 구분.
 6. **[인수인계](HANDOFF.md)** — 에이전트 작업 시작/종료 절차.
-7. [추천 실험 설계](../recommendation/RESEARCH.md), [실제 연구 결과](../recommendation/RESULTS-2026-11-21.md).
+7. [추천 실험 설계](../recommendation/RESEARCH.md), [실제 연구 결과](../recommendation/RESULTS-2026-11-21.md), [발견형·사람 평가 설계](../recommendation/DISCOVERY-STUDY-2026-11-21.md).
 8. [기존 개발 상세 이력](../history/DEVELOPMENT-2026-11.md) — 기록 보존용이며 현재 정책과 충돌하면 현재 docs·코드 우선.
 
 ## 현재 중요한 판단
