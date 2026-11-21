@@ -41,6 +41,8 @@ jobs:
         run: node scripts/test-recommendation-v3.mjs
       - name: Compare recommendation V4 research candidates
         run: node scripts/test-recommendation-lab.mjs
+      - name: Verify discovery and blind human-judgment pool
+        run: node scripts/test-recommendation-discovery.mjs
       - name: Verify optional collaborative and bandit prototypes
         run: node scripts/test-online-research-prototypes.mjs
       - name: Check discovery filters
