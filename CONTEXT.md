@@ -1,107 +1,25 @@
-# MicrocosmLab — 프로젝트 지속 맥락 (CONTEXT.md)
+# MicrocosmLab — 새 채팅·에이전트 맥락 진입점
 
-> **새 채팅·새 코딩 에이전트는 이 파일부터 읽는다.** 이 문서는 제품 의도, 운영상 제약, 최근 결정, 현재 과제 및 인수인계 지침의 단일 진입점이다. 아래 숫자와 구현 상태는 **2026-11-21에 main 커밋 `8cf5772`를 확인한 시점의 스냅샷**이며, 최신 소스·CI·실제 데이터와 다르면 갱신해야 한다.
+> **전체 맥락의 기준은 [docs/context/README.md](docs/context/README.md)입니다.** 이 루트 파일은 새로운 대화·에이전트가 처음 읽는 짧은 인덱스입니다.
 
 - 저장소: https://github.com/oyueo-mm/MicrocosmLab
 - 서비스: https://oyueo-mm.github.io/MicrocosmLab/
-- 배포: `main`에 병합 → `.github/workflows/deploy-pages.yml` → GitHub Pages
-- 목적: 현미경·미시 세계에서 실제로 나타나는 생물의 행동, 포식·섭식·기생·감염·면역·세포 활동 등 흥미로운 **관찰 영상**을 쉽게 발견하고 이어서 보는 한국어 아카이브.
-- 우선순위: **흥미로운 관찰 장면 확보 → 재생 가능성과 과학적 신뢰성 확보 → 빠르고 익숙한 탐색 → 추천 품질 개선**. 수집량 자체를 성공 지표로 과대평가하지 않는다.
+- 목적: 실제 미시 세계 관찰 장면의 흥미로운 발견 경험과 정확한 원본 정보 제공.
+- 운영: React/TypeScript/Vite 정적 앱·GitHub Pages. 영상 파일 원본은 보관하지 않음.
+- 추천: **운영은 V3**, V4 TF-IDF/BM25/KNN/MMR/문장 임베딩은 연구 결과가 있으며 실사용자 선호 개선 확증 없음. 시청 신호는 브라우저 로컬 저장. 협업 필터링용 사용자 DB는 미운영.
+- UI: YouTube에 익숙한 홈·도감·상세·쇼츠, 흰색/검정색/파란색, 최소 문구와 한국어 우선, 원본 영상 비율 보존.
 
-## 1. 새 에이전트가 작업을 시작할 때
+## 읽는 순서
 
-1. 이 파일과 루트 `AGENTS.md`를 읽고, `README.md`에서 상세 이력 및 최신 작업을 확인한다.
-2. **실제 `main` 코드 및 데이터, 최근 PR/커밋, Actions 결과를 대조**한다. 이 문서의 수치·상태가 낡았으면 코드와 재현 가능한 검증을 우선한다.
-3. 요청 범위와 무관한 대량 콘텐츠 갱신·배포·데이터 삭제를 수행하지 않는다. 구현 전에 사용자 요구의 UI 의도와 기존 동작의 보존 범위를 확인한다.
-4. 중요한 설계 결정, 검증 결과, 해결한 문제, 남은 과제를 작업 커밋의 `CONTEXT.md`에도 반영한다. 채팅의 결론만으로 지속 맥락이 갱신되었다고 간주하지 않는다.
-5. 변경 후 관련 검사 → PR 검토 → `main` 병합 → GitHub Pages 배포 결과를 명시적으로 확인한다. 실패·미검증·미배포를 완료라고 말하지 않는다.
+1. [맥락 허브](docs/context/README.md)
+2. [현재 검증된 상태](docs/context/STATUS.md)
+3. [제품·UI 원칙](docs/context/PRODUCT.md) · [데이터·기술 구조](docs/context/ARCHITECTURE.md)
+4. [설계 결정](docs/context/DECISIONS.md) · [향후 로드맵](docs/context/ROADMAP.md)
+5. [새 에이전트 인수인계](docs/context/HANDOFF.md) · [에이전트 규칙](AGENTS.md)
+6. [추천 연구](docs/recommendation/RESEARCH.md) · [추천 결과](docs/recommendation/RESULTS-2026-11-21.md)
 
-## 2. 제품·UI 방향 (확정된 사용자 선호)
+**필수:** 실제 main 코드, 최근 PR/Actions와 문서를 대조하세요. 중요한 변경과 검증 결과는 **같은 PR에서 관련 `docs/` 파일에 기록**하고 완료·미구현·미검증을 구분하세요. 채팅 내용은 GitHub에 자동 동기화되지 않습니다.
 
-- 디자인 원칙은 **유튜브와 유사한 정보 구조와 조작 방식(Jakob's Law)**: 별도 사용법을 익힐 필요 없도록 썸네일, 세로형 쇼츠, 영상 상세 플레이어 및 관련 영상의 위치·상호작용을 익숙하게 한다.
-- **흰 배경 / 검정 텍스트 / 파란 강조**, 왼쪽 접을 수 있는 사이드바, 읽을 필요 없는 문구·장식·부연 설명은 최소화한다. 한국어를 우선 사용하며 번역투, 과한 배지·중복 정보는 피한다.
-- 홈 `#/`: 썸네일 중심 여러 줄 추천, **취향에 맞는 영상 / 강렬한 포식과 방어 / 새로운 발견**. 더 보기로 확장.
-- 영상 도감 `#/videos`: 썸네일 그리드, 한글 제목·출처, 검색, 분류/행동 필터, 추천/흥미도/이름 정렬, 직접 페이지 번호 이동. 같은 연구의 다중 촬영본은 카드 하나로 묶되 원본은 삭제하지 않는다.
-- 상세 `#/watch/:id`: 상단 대형 플레이어, 그 아래 제목/선호 버튼·접히는 설명, 오른쪽 관련 영상 세로 목록, 원본 출처·라이선스·등장 대상 보존. YouTube/JoVE는 제공자의 **공식 임베드**를 사용한다.
-- 짧게 보기 `#/shorts`: 유튜브 쇼츠에 익숙한 세로 플레이어, 좋아요·소리·공유·더보기, 위/아래 버튼·키보드·휠·모바일 스와이프, **최대 45초 미리보기 후 다음 영상**. 실제 쇼츠 파일을 재가공한 것이 아니다. **원본 관찰 영상은 확대 자르기로 내용을 손실시키지 말고 비율을 보존**하고, 남는 공간은 블러 배경 등으로 보조한다.
-- 2026-11-20 PR #11 (`8cf5772`)에서 유튜브형 홈·도감·상세·쇼츠 UI를 반영해 Pages 배포 성공. 이후 사용자가 화면을 확인하고 해당 스타일을 긍정적으로 평가했다. **현재 UI를 기준으로 유지**하면서 새 기능도 동일한 패턴을 따른다.
-- 주요 구현: `src/App.tsx`, `src/ShortFeed.tsx`, `src/style.css`, `src/quickFeed.ts`, `src/koreanTitles.ts`.
+새 채팅 전달용:
 
-## 3. 콘텐츠 데이터와 기술 구조
-
-- 정적 **React 19 + TypeScript + Vite 7** 앱, GitHub Pages 제공. 별도의 로그인·추천 DB·자체 동영상 저장 서버는 현재 없다.
-- `src/data.ts`가 `data/*.json`의 Commons 영상, 외부 영상, 생물종 메타데이터를 합쳐 공개 카탈로그를 구성한다.
-  - `data/videos.json`, `data/featured-videos.json`, `data/pipeline-videos.json`: Wikimedia Commons 영상.
-  - `data/external-videos.json`, `data/discovery-videos.json`, `data/discovery-extra.json`, `data/expansion-external.json`: 외부 공식 임베드 후보/등록 데이터.
-  - `data/organisms.json`: 생물종·세포 등 등장 대상.
-  - `data/candidates.json`: 비공개 후보 목록(등록 데이터와 구별).
-- 2026-11-20 기준 **원본 기록 2,997개 = Commons 2,921개 + 외부 76개**, 동일 연구 촬영본을 묶은 **도감 대표 카드 1,196개**. 이는 날짜가 있는 스냅샷이며 수집·정리 이후 반드시 재계산한다. **영상 기록 수와 도감 카드 수는 다르다.**
-- `src/grouping.ts`: 시리즈별 묶기·카드 중복 제거. 각각의 원본 영상과 ID는 보존.
-- `src/hooks.ts`: Commons 미디어·썸네일 주소 동적 로딩, 요청 캐시/실패 후 재시도, 위키 링크. `src/contentQuality.ts`: 검수 상태 및 추천 품질 휴리스틱.
-- 영상 바이너리를 Git에 저장하거나 외부 원본을 임의로 재배포하지 않는다. Commons의 저작자·라이선스, YouTube/JoVE 원본 임베드 정책을 존중한다.
-- **메타데이터·라이선스 검사와 실제 장면별 생물학적 동정/행동 검수는 별개**다. 자동 수집된 자료를 “포식을 실제로 촬영했다”고 근거 없이 단정하지 않는다. 인상적인 영상 확대와 정확성 검증을 함께 추진한다.
-- 한국어 제목은 `src/koreanTitles.ts` 기반의 연구 주제 요약이며, 완전한 전문 번역 또는 개별 장면 과학적 검증 결과가 아니다. 연구 원제를 보존한다.
-
-## 4. 추천 시스템: 현재 구현·한계·다음 연구
-
-- **운영 추천은 V3**: `src/App.tsx`에서 `src/recommendationV3.ts`의 `recommendHomeV3`, `recommendRelatedV3`를 사용. 구형 `src/recommendations.ts`의 V2 함수는 기준선/참고 구현으로 남아 있다.
-- 현재 특징: 분류(category), 대상(subjects), 태그(tags), 검수 상태에 따라 보수적으로 추론한 행동 특징. 가중 유사도·품질 순위·선호 보정·노출 이력 페널티·발행처/주제 다양성 재정렬. 쇼츠 목록은 `src/quickFeed.ts`에서 V3 후보와 콘텐츠 품질·다양성 제약을 혼합한다.
-- 개인화 신호: `src/usePreferences.ts`의 `liked`, `hidden`, `recent`, `played`, `watched`. **브라우저 `localStorage`(`microcosmlab-preferences-v1`)에만 저장**하며 사용자 간 데이터 결합이나 서버 학습은 없다. 외부 iframe의 실제 시청 완료를 추정하지 말 것.
-- 알려진 한계: 실사용자 정답 데이터, 클릭·시청 유지율 기반 **온라인 품질 평가가 없다**. V3 테스트의 중복률·다양성·가상 선호 지표는 **Precision@K/NDCG 또는 실사용자 만족도 향상 근거가 아니다**. 좋아요 이후 쇼츠 전체 큐를 즉시 다시 정렬하지 않는 구조도 개선 후보.
-- **V4 연구 진행(2026-11-21, PR #13)**: TF-IDF/BM25/콘텐츠 KNN/하이브리드/MMR 오프라인 후보를 `src/recommendationLab.ts`에 구현하고, 실제 다국어 Sentence Embedding 생성 워크플로 및 LinUCB·ItemKNN·그래프 전파의 분리된 연구용 프로토타입을 추가했다. **운영 기본 추천은 V3**. 실험 정책·개인정보 설계·테스트 방법은 [docs/recommendation/RESEARCH.md](docs/recommendation/RESEARCH.md)를 참고한다.
-- **로컬 행동 신호 실험**: 쇼츠 실제 재생 시작, 재생 구간 누적 시간, 빠른 넘김, 미리보기 완료, 뒤로 탐색을 `src/usePreferences.ts`에서 기존 로컬 선호와 호환되게 보관하며, V3에 제한적으로 반영한다. **서버에는 전송하지 않는다.** 행동 데이터 수집을 서버로 확장하려면 먼저 수집 목적·동의·보관 기간·가명화·철회 및 삭제 정책을 설계한다. 이용자가 아직 적다는 이유만으로 효과를 측정할 수 없는 복잡한 협업 필터링/LightGCN을 선배포하지 않는다.
-
-## 5. 수집 및 검증·배포 작업 흐름
-
-- 수집: `scripts/batch-commons.mjs` (기본은 미리보기, `--write` 때만 승인된 등록 파일 수정), `scripts/discover-external.mjs`, `scripts/discover-commons.mjs`.
-- 검증: `scripts/validate-content.mjs`, `scripts/test-catalog-cleanup.mjs`, `scripts/test-grouping.mjs`, `scripts/test-batch-pipeline.mjs`, `scripts/test-recommendations.mjs`, `scripts/test-recommendation-v3.mjs`, `scripts/test-explorer.mjs`, `scripts/test-korean-and-shorts.mjs`, `scripts/test-subjects.mjs`, `scripts/test-quality-report.mjs`.
-- 표본 재생 점검: `scripts/audit-playback.mjs`와 `.github/workflows/playback-audit.yml`; 브라우저에서 모든 원본이 반드시 재생된다는 보장은 아니다.
-- CI: `.github/workflows/build.yml` 및 `deploy-pages.yml`; `npm install --no-audit --no-fund`, 콘텐츠/추천 회귀 검사, `npm run build`. **npm run build = `tsc --noEmit && vite build`**. Pages는 base `/MicrocosmLab/`로 빌드.
-- 자동 후보 수집: `.github/workflows/batch-discovery.yml`, `discover-content.yml`. 후보와 실제 등록/공개는 구분하고 원본 중복·저작권·장면 검수 수준을 확인한다. YouTube API 키는 GitHub Actions 시크릿 `YOUTUBE_API_KEY`가 필요할 수 있으나 **현재 존재 여부는 직접 확인해야 한다**. 키나 개인정보를 문서·로그에 남기지 않는다.
-- 배포 전/후: 원본 ID 및 라이선스 보존, 대표 카드와 전체 수 비교, 한국어 제목 정확도, 영상 로드·쇼츠 전환, 모바일/PC 레이아웃, CI 결과 및 Pages URL을 검증하고 배포 결과를 보고한다. 롤백 가능한 PR/커밋을 유지한다.
-
-## 6. 유지해야 할 설계 결정 / 금지할 회귀
-
-1. 복잡한 이론 설명보다 시각적 흥미와 실제 관찰 장면을 먼저 보여준다. 홈·도감·상세·쇼츠의 유튜브형 UX 일관성을 유지한다.
-2. 데이터 양이 많아도 **동일 연구 중복 카드, 의미 없는 단순 연구 자료, 낮은 품질·재생 불가능 영상**을 무작정 상단에 노출하지 않는다.
-3. 외부 영상은 가능하면 사이트 내부의 **허용된 공식 임베드**를 제공하고, 불가한 것은 사유/원본 링크로 안내한다. 저장 공간 확보를 위해 동영상 파일을 직접 내려받거나 보관하지 않는다.
-4. 등록·추천·검색에서 과학적 검수되지 않은 행동 설명을 확정 사실로 바꾸지 않는다. 저작자·라이선스·원제를 보존한다.
-5. 개인화 기록·영상 ID·시리즈 그룹핑·기존 추천 기준선을 함부로 초기화하지 않는다.
-6. 명확히 측정되지 않은 성능·실사용자 반응·온라인 개선을 수치로 지어내지 않는다.
-
-### 2026-11-21 1차 V4 오프라인 결과 (메타데이터 대리 지표)
-
-- PR #13에서 실행된 GitHub Actions 빌드/테스트에서 대표 카탈로그 **1,196건**, 생물종·카테고리 기반 **42개 합성 관련성 사례**로 결과 산출. 정답은 사용자 선호가 아니라 동일 메타데이터 집합이다.
-- NDCG@10 대리 지표: **V3 0.7595**, TF-IDF 0.4063, BM25 0.3694, **콘텐츠 KNN 0.8551**, 하이브리드 0.7091, 하이브리드+MMR 0.6906. KNN이 높은 이유에는 **평가 정답이 생물종·카테고리를 공유하도록 설계된 편향**이 있으므로 실사용자 추천 품질 향상을 주장하지 않는다.
-- 재현: `node scripts/test-recommendation-lab.mjs`. 검증 로그: [GitHub Actions #44840548971](https://github.com/oyueo-mm/MicrocosmLab/actions/runs/44840548971). 최종 모델 승격은 실제 사용자 행동 기반 평가 이후 결정.
-- **실제 Sentence Embedding 결과**: `paraphrase-multilingual-MiniLM-L12-v2`를 실행해 1,196개 영상의 384차원 벡터를 만들고 동일 기준을 검증했다. 임베딩 단독 nDCG@10 대리 지표 **0.4211**, 임베딩+하이브리드 **0.6615**. 실행 증거 [Actions #44840692750](https://github.com/oyueo-mm/MicrocosmLab/actions/runs/44840692750), 표/한계 [RESULTS-2026-11-21.md](docs/recommendation/RESULTS-2026-11-21.md). 정확한 생물종 일치를 보상하는 메타데이터 대리 지표이므로 문장 의미 추천의 일반화 품질까지 판단하지 않는다.
-
-## 7. 진행 상태 / 다음 우선순위
-
-| 구분 | 상태 (2026-11-21 확인) | 다음 행동 |
-| --- | --- | --- |
-| 유튜브형 UI (홈·도감·상세·쇼츠) | **완료·main 배포** (PR #11) | 새 UI도 동일 디자인 원칙 유지; 회귀 확인 |
-| Commons·외부 영상 대규모 카탈로그 | **구축 완료, 확장 중** | 재미·정확성·재생률 중심 개별 검수 |
-| 한국어 제목·직접 페이지 이동·45초 쇼츠 | **배포됨** | 어색한 용어와 영상별 재생 실패 보완 |
-| 콘텐츠 기반 추천 V3 | **운영 중** | V3를 보존하며 실험 결과 검증 |
-| 사용자 간 추천 데이터/협업 필터링 | **서버 수집 미구현; toy 알고리즘 검증** | 별도 동의 기반 Worker+D1 또는 Supabase API 설계/승인 후 구현 |
-| 의미 기반 임베딩·시청 세션 개인화 | **384차원 다국어 임베딩 실제 연구 실행, 브라우저 신호 구현** | 사람 평가 기반 관련성 검증, 서버 데이터 수집 전 개인정보 검토 |
-
-## 8. 변경 기록과 인수인계 규칙
-
-- **2026-11-18~20:** 공식 임베드 영상과 Commons 대량 수집, 시리즈 병합, 자동 분류 오류·연구 제목 정규화, 추천 V3 도입. 세부 근거는 `README.md`와 PR #8·#9.
-- **2026-11-20:** 한국어 제목, 페이지 직접 이동, 45초 쇼츠 도입. 이어서 PR #11로 유튜브형 UI 개편; 사용자 화면 확인 및 긍정 피드백.
-- **2026-11-21:** YachtLab의 `CONTEXT.md`·`AGENTS.md` 접근을 참고해 지속 맥락 관리 시작. 이어서 PR #13에서 추천 V4 오프라인 실험실·로컬 행동 신호·협업 추천 모의 검증·데이터 아키텍처 설계를 추가했다.
-
-### 작업 종료 체크리스트
-
-- 변경한 파일·이유·완료 여부를 한두 문장으로 요약하고 관련 PR/커밋을 기록한다.
-- 재현 가능한 테스트 결과·실험 조건·수치·한계가 있으면 이 문서에 추가한다. 완료한 로드맵 항목을 갱신하고 새로운 항목을 제안과 확정으로 분리한다.
-- 코드 변경이 있는 경우 CI·배포의 성공 여부와 실제 확인한 범위를 기록한다. 배포 전에는 배포 완료라고 주장하지 않는다.
-- 장기 문서가 너무 커지면 세부 보고서를 `docs/`로 분리해 여기서 링크하되 **이 파일의 최신 상태·진입점은 반드시 유지**한다.
-
-### 새 채팅/다른 에이전트에 붙여넣을 한 줄
-
-> https://github.com/oyueo-mm/MicrocosmLab/blob/main/CONTEXT.md 와 AGENTS.md를 먼저 읽고 현재 main 코드·최근 PR·CI를 확인해 맥락을 이어서 작업해 줘. 완료 후 CONTEXT.md의 상태·결정·검증 결과도 Git 커밋에 포함해 줘.
-
-**주의:** GitHub에 기록된 파일·커밋과 접근 가능한 Actions 결과는 에이전트가 읽을 수 있지만, **ChatGPT/다른 에이전트의 사적인 채팅 내용은 저장소로 자동 동기화되지 않는다.** 반드시 중요한 결정을 문서에 커밋해야 대화·도구가 바뀌어도 보존된다.
+> MicrocosmLab 저장소의 `docs/context/README.md`와 `AGENTS.md`부터 읽고, 현재 main 소스·실험·CI를 대조해 이어서 작업해 줘. 완료 후 관련 docs 문서도 갱신하고 빌드·배포 결과를 보고해 줘.
